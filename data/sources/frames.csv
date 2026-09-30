@@ -1,0 +1,2635 @@
+image,video_key,timestamp_sec,split,city
+akihabara_movie3_12.jpg,akihabara_movie3,360.033,benchmark,Tokyo
+akihabara_movie4_38.jpg,akihabara_movie4,1140.005,benchmark,Tokyo
+akihabara_movie5_11.jpg,akihabara_movie5,330.013,benchmark,Tokyo
+akihabara_movie5_23.jpg,akihabara_movie5,690.006,benchmark,Tokyo
+Shanghai_movie3_57.jpg,Shanghai_movie3,1710.000,benchmark,Shanghai
+Shanghai_movie1_33.jpg,Shanghai_movie1,990.000,benchmark,Shanghai
+Shanghai_movie4_21.jpg,Shanghai_movie4,630.000,benchmark,Shanghai
+Mumbai_movie1_22.jpg,Mumbai_movie1,660.000,benchmark,Mumbai
+Mumbai_movie1_26.jpg,Mumbai_movie1,780.000,benchmark,Mumbai
+MexicoCity_movie1_354.jpg,MexicoCity_movie1,10620.009,benchmark,Mexico City
+akihabara_movie3_5.jpg,akihabara_movie3,150.033,benchmark,Tokyo
+akihabara_movie4_49.jpg,akihabara_movie4,1470.002,benchmark,Tokyo
+akihabara_movie5_40.jpg,akihabara_movie5,1200.015,benchmark,Tokyo
+Shanghai_movie3_53.jpg,Shanghai_movie3,1590.000,benchmark,Shanghai
+Shanghai_movie3_46.jpg,Shanghai_movie3,1380.000,benchmark,Shanghai
+Shanghai_movie3_16.jpg,Shanghai_movie3,480.000,benchmark,Shanghai
+Shanghai_movie2_46.jpg,Shanghai_movie2,1380.000,benchmark,Shanghai
+Shanghai_movie4_27.jpg,Shanghai_movie4,810.000,benchmark,Shanghai
+Shanghai_movie1_32.jpg,Shanghai_movie1,960.000,benchmark,Shanghai
+Shanghai_movie4_16.jpg,Shanghai_movie4,480.000,benchmark,Shanghai
+dubai_movie1_53.jpg,dubai_movie1,1594.700,benchmark,Dubai
+dubai_movie1_87.jpg,dubai_movie1,2613.367,benchmark,Dubai
+dubai_movie4_141.jpg,dubai_movie4,4233.883,benchmark,Dubai
+dubai_movie2_55.jpg,dubai_movie2,1654.817,benchmark,Dubai
+dubai_movie4_105.jpg,dubai_movie4,3153.883,benchmark,Dubai
+dubai_movie2_15.jpg,dubai_movie2,456.217,benchmark,Dubai
+dubai_movie2_31.jpg,dubai_movie2,932.683,benchmark,Dubai
+dubai_movie3_58.jpg,dubai_movie3,1740.017,benchmark,Dubai
+Mumbai_movie1_43.jpg,Mumbai_movie1,1290.000,benchmark,Mumbai
+Mumbai_movie1_47.jpg,Mumbai_movie1,1410.000,benchmark,Mumbai
+Mumbai_movie3_34.jpg,Mumbai_movie3,1020.002,benchmark,Mumbai
+Mumbai_movie2_4.jpg,Mumbai_movie2,120.000,benchmark,Mumbai
+Mumbai_movie3_11.jpg,Mumbai_movie3,330.013,benchmark,Mumbai
+Mumbai_movie3_6.jpg,Mumbai_movie3,180.013,benchmark,Mumbai
+london_movie1_36.jpg,london_movie1,1084.283,benchmark,London
+london_movie3_4.jpg,london_movie3,122.700,benchmark,London
+newyork_movie1_134.jpg,newyork_movie1,4026.873,benchmark,New York
+newyork_movie5_27.jpg,newyork_movie5,815.717,benchmark,New York
+newyork_movie6_8.jpg,newyork_movie6,243.217,benchmark,New York
+newyork_movie6_29.jpg,newyork_movie6,871.483,benchmark,New York
+Shanghai_movie1_94.jpg,Shanghai_movie1,2820.000,benchmark,Shanghai
+Shanghai_movie4_111.jpg,Shanghai_movie4,3330.000,benchmark,Shanghai
+Shanghai_movie4_54.jpg,Shanghai_movie4,1620.000,benchmark,Shanghai
+Mumbai_movie1_30.jpg,Mumbai_movie1,900.000,benchmark,Mumbai
+Mumbai_movie1_74.jpg,Mumbai_movie1,2220.000,benchmark,Mumbai
+Mumbai_movie2_37.jpg,Mumbai_movie2,1110.000,benchmark,Mumbai
+Mumbai_movie2_44.jpg,Mumbai_movie2,1320.000,benchmark,Mumbai
+Mumbai_movie3_51.jpg,Mumbai_movie3,1530.012,benchmark,Mumbai
+newyork_movie1_121.jpg,newyork_movie1,3633.146,benchmark,New York
+newyork_movie1_125.jpg,newyork_movie1,3750.597,benchmark,New York
+newyork_movie1_132.jpg,newyork_movie1,3963.877,benchmark,New York
+MexicoCity_movie5_127.jpg,MexicoCity_movie5,3810.006,benchmark,Mexico City
+MexicoCity_movie2_164.jpg,MexicoCity_movie2,4920.000,benchmark,Mexico City
+MexicoCity_movie5_12.jpg,MexicoCity_movie5,360.010,benchmark,Mexico City
+akihabara_movie4_87.jpg,akihabara_movie4,2610.007,benchmark,Tokyo
+Shanghai_movie3_130.jpg,Shanghai_movie3,3900.000,benchmark,Shanghai
+dubai_movie2_91.jpg,dubai_movie2,2735.883,benchmark,Dubai
+dubai_movie2_51.jpg,dubai_movie2,1531.350,benchmark,Dubai
+Mumbai_movie2_15.jpg,Mumbai_movie2,450.000,benchmark,Mumbai
+london_movie1_77.jpg,london_movie1,2310.417,benchmark,London
+Mumbai_movie1_25.jpg,Mumbai_movie1,750.000,benchmark,Mumbai
+Shanghai_movie3_136.jpg,Shanghai_movie3,4080.000,benchmark,Shanghai
+Shanghai_movie1_42.jpg,Shanghai_movie1,1260.000,benchmark,Shanghai
+Shanghai_movie3_124.jpg,Shanghai_movie3,3720.000,benchmark,Shanghai
+Shanghai_movie4_107.jpg,Shanghai_movie4,3210.000,benchmark,Shanghai
+Mumbai_movie1_36.jpg,Mumbai_movie1,1080.000,benchmark,Mumbai
+Mumbai_movie1_54.jpg,Mumbai_movie1,1620.000,benchmark,Mumbai
+newyork_movie1_135.jpg,newyork_movie1,4054.434,benchmark,New York
+MexicoCity_movie5_101.jpg,MexicoCity_movie5,3030.010,benchmark,Mexico City
+MexicoCity_movie2_26.jpg,MexicoCity_movie2,780.000,benchmark,Mexico City
+MexicoCity_movie5_141.jpg,MexicoCity_movie5,4230.009,benchmark,Mexico City
+akihabara_movie2_25.jpg,akihabara_movie2,750.000,benchmark,Tokyo
+akihabara_movie1_3.jpg,akihabara_movie1,90.000,benchmark,Tokyo
+akihabara_movie1_36.jpg,akihabara_movie1,1080.000,benchmark,Tokyo
+akihabara_movie2_17.jpg,akihabara_movie2,510.000,benchmark,Tokyo
+akihabara_movie2_33.jpg,akihabara_movie2,990.000,benchmark,Tokyo
+akihabara_movie1_31.jpg,akihabara_movie1,930.000,benchmark,Tokyo
+akihabara_movie1_33.jpg,akihabara_movie1,990.000,benchmark,Tokyo
+akihabara_movie3_20.jpg,akihabara_movie3,600.033,benchmark,Tokyo
+akihabara_movie3_28.jpg,akihabara_movie3,840.033,benchmark,Tokyo
+akihabara_movie3_31.jpg,akihabara_movie3,930.033,benchmark,Tokyo
+akihabara_movie3_34.jpg,akihabara_movie3,1020.033,benchmark,Tokyo
+akihabara_movie3_45.jpg,akihabara_movie3,1350.033,benchmark,Tokyo
+akihabara_movie3_55.jpg,akihabara_movie3,1650.033,benchmark,Tokyo
+akihabara_movie4_10.jpg,akihabara_movie4,300.016,benchmark,Tokyo
+akihabara_movie4_11.jpg,akihabara_movie4,330.013,benchmark,Tokyo
+akihabara_movie4_111.jpg,akihabara_movie4,3330.010,benchmark,Tokyo
+akihabara_movie4_15.jpg,akihabara_movie4,450.000,benchmark,Tokyo
+akihabara_movie4_3.jpg,akihabara_movie4,90.006,benchmark,Tokyo
+akihabara_movie4_30.jpg,akihabara_movie4,900.016,benchmark,Tokyo
+akihabara_movie4_45.jpg,akihabara_movie4,1350.015,benchmark,Tokyo
+akihabara_movie4_69.jpg,akihabara_movie4,2070.001,benchmark,Tokyo
+akihabara_movie4_71.jpg,akihabara_movie4,2130.011,benchmark,Tokyo
+akihabara_movie4_90.jpg,akihabara_movie4,2700.014,benchmark,Tokyo
+akihabara_movie4_95.jpg,akihabara_movie4,2850.013,benchmark,Tokyo
+akihabara_movie4_97.jpg,akihabara_movie4,2910.007,benchmark,Tokyo
+akihabara_movie5_16.jpg,akihabara_movie5,480.013,benchmark,Tokyo
+akihabara_movie5_42.jpg,akihabara_movie5,1260.009,benchmark,Tokyo
+akihabara_movie5_53.jpg,akihabara_movie5,1590.006,benchmark,Tokyo
+akihabara_movie6_10.jpg,akihabara_movie6,300.000,benchmark,Tokyo
+akihabara_movie6_16.jpg,akihabara_movie6,480.013,benchmark,Tokyo
+akihabara_movie6_19.jpg,akihabara_movie6,570.003,benchmark,Tokyo
+akihabara_movie6_22.jpg,akihabara_movie6,660.009,benchmark,Tokyo
+akihabara_movie6_26.jpg,akihabara_movie6,780.013,benchmark,Tokyo
+akihabara_movie6_3.jpg,akihabara_movie6,90.007,benchmark,Tokyo
+akihabara_movie6_34.jpg,akihabara_movie6,1020.002,benchmark,Tokyo
+akihabara_movie6_36.jpg,akihabara_movie6,1080.012,benchmark,Tokyo
+akihabara_movie6_4.jpg,akihabara_movie6,120.003,benchmark,Tokyo
+akihabara_movie6_56.jpg,akihabara_movie6,1680.012,benchmark,Tokyo
+akihabara_movie6_6.jpg,akihabara_movie6,180.013,benchmark,Tokyo
+akihabara_movie6_68.jpg,akihabara_movie6,2040.005,benchmark,Tokyo
+akihabara_movie6_78.jpg,akihabara_movie6,2340.004,benchmark,Tokyo
+akihabara_movie6_79.jpg,akihabara_movie6,2370.001,benchmark,Tokyo
+akihabara_movie6_80.jpg,akihabara_movie6,2400.014,benchmark,Tokyo
+akihabara_movie6_81.jpg,akihabara_movie6,2430.011,benchmark,Tokyo
+akihabara_movie6_86.jpg,akihabara_movie6,2580.011,benchmark,Tokyo
+akihabara_movie7_11.jpg,akihabara_movie7,330.013,benchmark,Tokyo
+akihabara_movie7_17.jpg,akihabara_movie7,510.010,benchmark,Tokyo
+akihabara_movie7_6.jpg,akihabara_movie7,180.014,benchmark,Tokyo
+akihabara_movie7_9.jpg,akihabara_movie7,270.003,benchmark,Tokyo
+akihabara_movie3_43.jpg,akihabara_movie3,1290.033,benchmark,Tokyo
+akihabara_movie4_72.jpg,akihabara_movie4,2160.008,benchmark,Tokyo
+akihabara_movie6_48.jpg,akihabara_movie6,1440.005,benchmark,Tokyo
+akihabara_movie6_43.jpg,akihabara_movie6,1290.005,benchmark,Tokyo
+akihabara_movie3_17.jpg,akihabara_movie3,510.033,benchmark,Tokyo
+Shanghai_movie3_108.jpg,Shanghai_movie3,3240.000,benchmark,Shanghai
+Shanghai_movie3_131.jpg,Shanghai_movie3,3930.000,benchmark,Shanghai
+Shanghai_movie3_49.jpg,Shanghai_movie3,1470.000,benchmark,Shanghai
+Shanghai_movie3_107.jpg,Shanghai_movie3,3210.000,benchmark,Shanghai
+Shanghai_movie3_129.jpg,Shanghai_movie3,3870.000,benchmark,Shanghai
+Shanghai_movie3_142.jpg,Shanghai_movie3,4260.000,benchmark,Shanghai
+Shanghai_movie3_20.jpg,Shanghai_movie3,600.000,benchmark,Shanghai
+Shanghai_movie3_23.jpg,Shanghai_movie3,690.000,benchmark,Shanghai
+Shanghai_movie3_47.jpg,Shanghai_movie3,1410.000,benchmark,Shanghai
+Shanghai_movie1_101.jpg,Shanghai_movie1,3030.000,benchmark,Shanghai
+Shanghai_movie1_104.jpg,Shanghai_movie1,3120.000,benchmark,Shanghai
+Shanghai_movie1_121.jpg,Shanghai_movie1,3630.000,benchmark,Shanghai
+Shanghai_movie1_17.jpg,Shanghai_movie1,510.000,benchmark,Shanghai
+Shanghai_movie1_39.jpg,Shanghai_movie1,1170.000,benchmark,Shanghai
+Shanghai_movie1_48.jpg,Shanghai_movie1,1440.000,benchmark,Shanghai
+Shanghai_movie1_49.jpg,Shanghai_movie1,1470.000,benchmark,Shanghai
+Shanghai_movie1_50.jpg,Shanghai_movie1,1500.000,benchmark,Shanghai
+Shanghai_movie1_51.jpg,Shanghai_movie1,1530.000,benchmark,Shanghai
+Shanghai_movie1_57.jpg,Shanghai_movie1,1710.000,benchmark,Shanghai
+Shanghai_movie1_7.jpg,Shanghai_movie1,210.000,benchmark,Shanghai
+Shanghai_movie1_79.jpg,Shanghai_movie1,2370.000,benchmark,Shanghai
+Shanghai_movie1_8.jpg,Shanghai_movie1,240.000,benchmark,Shanghai
+Shanghai_movie1_82.jpg,Shanghai_movie1,2460.000,benchmark,Shanghai
+Shanghai_movie1_97.jpg,Shanghai_movie1,2910.000,benchmark,Shanghai
+Shanghai_movie1_99.jpg,Shanghai_movie1,2970.000,benchmark,Shanghai
+Shanghai_movie2_110.jpg,Shanghai_movie2,3300.000,benchmark,Shanghai
+Shanghai_movie2_113.jpg,Shanghai_movie2,3390.000,benchmark,Shanghai
+Shanghai_movie2_116.jpg,Shanghai_movie2,3480.000,benchmark,Shanghai
+Shanghai_movie2_117.jpg,Shanghai_movie2,3510.000,benchmark,Shanghai
+Shanghai_movie2_118.jpg,Shanghai_movie2,3540.000,benchmark,Shanghai
+Shanghai_movie2_18.jpg,Shanghai_movie2,540.000,benchmark,Shanghai
+Shanghai_movie2_21.jpg,Shanghai_movie2,630.000,benchmark,Shanghai
+Shanghai_movie2_24.jpg,Shanghai_movie2,720.000,benchmark,Shanghai
+Shanghai_movie2_44.jpg,Shanghai_movie2,1320.000,benchmark,Shanghai
+Shanghai_movie2_6.jpg,Shanghai_movie2,180.000,benchmark,Shanghai
+Shanghai_movie2_74.jpg,Shanghai_movie2,2220.000,benchmark,Shanghai
+Shanghai_movie2_84.jpg,Shanghai_movie2,2520.000,benchmark,Shanghai
+Shanghai_movie4_1.jpg,Shanghai_movie4,30.000,benchmark,Shanghai
+Shanghai_movie4_101.jpg,Shanghai_movie4,3030.000,benchmark,Shanghai
+Shanghai_movie4_106.jpg,Shanghai_movie4,3180.000,benchmark,Shanghai
+Shanghai_movie4_110.jpg,Shanghai_movie4,3300.000,benchmark,Shanghai
+Shanghai_movie4_119.jpg,Shanghai_movie4,3570.000,benchmark,Shanghai
+Shanghai_movie4_131.jpg,Shanghai_movie4,3930.000,benchmark,Shanghai
+Shanghai_movie4_15.jpg,Shanghai_movie4,450.000,benchmark,Shanghai
+Shanghai_movie4_25.jpg,Shanghai_movie4,750.000,benchmark,Shanghai
+Shanghai_movie4_29.jpg,Shanghai_movie4,870.000,benchmark,Shanghai
+Shanghai_movie4_3.jpg,Shanghai_movie4,90.000,benchmark,Shanghai
+Shanghai_movie4_32.jpg,Shanghai_movie4,960.000,benchmark,Shanghai
+Shanghai_movie4_38.jpg,Shanghai_movie4,1140.000,benchmark,Shanghai
+Shanghai_movie4_40.jpg,Shanghai_movie4,1200.000,benchmark,Shanghai
+Shanghai_movie4_41.jpg,Shanghai_movie4,1230.000,benchmark,Shanghai
+Shanghai_movie4_46.jpg,Shanghai_movie4,1380.000,benchmark,Shanghai
+Shanghai_movie4_71.jpg,Shanghai_movie4,2130.000,benchmark,Shanghai
+Shanghai_movie4_72.jpg,Shanghai_movie4,2160.000,benchmark,Shanghai
+Shanghai_movie4_77.jpg,Shanghai_movie4,2310.000,benchmark,Shanghai
+Shanghai_movie4_78.jpg,Shanghai_movie4,2340.000,benchmark,Shanghai
+Shanghai_movie4_99.jpg,Shanghai_movie4,2970.000,benchmark,Shanghai
+Shanghai_movie1_64.jpg,Shanghai_movie1,1920.000,benchmark,Shanghai
+Shanghai_movie1_1.jpg,Shanghai_movie1,30.000,benchmark,Shanghai
+Shanghai_movie2_76.jpg,Shanghai_movie2,2280.000,benchmark,Shanghai
+Shanghai_movie4_95.jpg,Shanghai_movie4,2850.000,benchmark,Shanghai
+Shanghai_movie2_91.jpg,Shanghai_movie2,2730.000,benchmark,Shanghai
+Shanghai_movie4_98.jpg,Shanghai_movie4,2940.000,benchmark,Shanghai
+Shanghai_movie4_20.jpg,Shanghai_movie4,600.000,benchmark,Shanghai
+Shanghai_movie2_1.jpg,Shanghai_movie2,30.000,benchmark,Shanghai
+Shanghai_movie2_64.jpg,Shanghai_movie2,1920.000,benchmark,Shanghai
+Shanghai_movie1_11.jpg,Shanghai_movie1,330.000,benchmark,Shanghai
+dubai_movie1_6.jpg,dubai_movie1,181.367,benchmark,Dubai
+dubai_movie1_89.jpg,dubai_movie1,2672.033,benchmark,Dubai
+dubai_movie1_65.jpg,dubai_movie1,1952.033,benchmark,Dubai
+dubai_movie2_110.jpg,dubai_movie2,3305.017,benchmark,Dubai
+dubai_movie2_111.jpg,dubai_movie2,3332.950,benchmark,Dubai
+dubai_movie2_22.jpg,dubai_movie2,664.917,benchmark,Dubai
+dubai_movie2_29.jpg,dubai_movie2,873.217,benchmark,Dubai
+dubai_movie2_63.jpg,dubai_movie2,1895.883,benchmark,Dubai
+dubai_movie2_68.jpg,dubai_movie2,2040.683,benchmark,Dubai
+dubai_movie2_86.jpg,dubai_movie2,2586.017,benchmark,Dubai
+dubai_movie2_97.jpg,dubai_movie2,2910.550,benchmark,Dubai
+dubai_movie3_24.jpg,dubai_movie3,720.017,benchmark,Dubai
+dubai_movie3_27.jpg,dubai_movie3,810.017,benchmark,Dubai
+dubai_movie3_30.jpg,dubai_movie3,900.017,benchmark,Dubai
+dubai_movie3_31.jpg,dubai_movie3,930.017,benchmark,Dubai
+dubai_movie3_38.jpg,dubai_movie3,1140.017,benchmark,Dubai
+dubai_movie3_44.jpg,dubai_movie3,1320.017,benchmark,Dubai
+dubai_movie4_104.jpg,dubai_movie4,3125.883,benchmark,Dubai
+dubai_movie4_106.jpg,dubai_movie4,3183.883,benchmark,Dubai
+dubai_movie4_119.jpg,dubai_movie4,3572.717,benchmark,Dubai
+dubai_movie4_122.jpg,dubai_movie4,3663.883,benchmark,Dubai
+dubai_movie4_131.jpg,dubai_movie4,3936.883,benchmark,Dubai
+dubai_movie4_135.jpg,dubai_movie4,4055.550,benchmark,Dubai
+dubai_movie4_153.jpg,dubai_movie4,4591.883,benchmark,Dubai
+dubai_movie4_158.jpg,dubai_movie4,4745.883,benchmark,Dubai
+dubai_movie4_179.jpg,dubai_movie4,5376.883,benchmark,Dubai
+dubai_movie4_181.jpg,dubai_movie4,5433.883,benchmark,Dubai
+dubai_movie4_19.jpg,dubai_movie4,571.883,benchmark,Dubai
+dubai_movie4_35.jpg,dubai_movie4,1053.883,benchmark,Dubai
+dubai_movie4_52.jpg,dubai_movie4,1563.383,benchmark,Dubai
+dubai_movie4_75.jpg,dubai_movie4,2253.883,benchmark,Dubai
+dubai_movie4_80.jpg,dubai_movie4,2401.883,benchmark,Dubai
+dubai_movie4_82.jpg,dubai_movie4,2462.883,benchmark,Dubai
+dubai_movie4_96.jpg,dubai_movie4,2881.883,benchmark,Dubai
+dubai_movie4_98.jpg,dubai_movie4,2941.883,benchmark,Dubai
+dubai_movie3_25.jpg,dubai_movie3,750.017,benchmark,Dubai
+dubai_movie4_120.jpg,dubai_movie4,3601.883,benchmark,Dubai
+dubai_movie3_29.jpg,dubai_movie3,870.017,benchmark,Dubai
+dubai_movie2_2.jpg,dubai_movie2,61.433,benchmark,Dubai
+dubai_movie4_137.jpg,dubai_movie4,4113.883,benchmark,Dubai
+dubai_movie3_9.jpg,dubai_movie3,270.017,benchmark,Dubai
+dubai_movie4_162.jpg,dubai_movie4,4861.883,benchmark,Dubai
+dubai_movie4_49.jpg,dubai_movie4,1473.883,benchmark,Dubai
+Mumbai_movie1_29.jpg,Mumbai_movie1,870.000,benchmark,Mumbai
+Mumbai_movie1_31.jpg,Mumbai_movie1,930.000,benchmark,Mumbai
+Mumbai_movie1_45.jpg,Mumbai_movie1,1350.000,benchmark,Mumbai
+Mumbai_movie1_15.jpg,Mumbai_movie1,450.000,benchmark,Mumbai
+Mumbai_movie1_51.jpg,Mumbai_movie1,1530.000,benchmark,Mumbai
+Mumbai_movie2_18.jpg,Mumbai_movie2,540.000,benchmark,Mumbai
+Mumbai_movie2_3.jpg,Mumbai_movie2,90.000,benchmark,Mumbai
+Mumbai_movie2_30.jpg,Mumbai_movie2,900.000,benchmark,Mumbai
+Mumbai_movie2_31.jpg,Mumbai_movie2,930.000,benchmark,Mumbai
+Mumbai_movie2_39.jpg,Mumbai_movie2,1170.000,benchmark,Mumbai
+Mumbai_movie2_42.jpg,Mumbai_movie2,1260.000,benchmark,Mumbai
+Mumbai_movie2_47.jpg,Mumbai_movie2,1410.000,benchmark,Mumbai
+Mumbai_movie2_50.jpg,Mumbai_movie2,1500.000,benchmark,Mumbai
+Mumbai_movie2_51.jpg,Mumbai_movie2,1530.000,benchmark,Mumbai
+Mumbai_movie3_18.jpg,Mumbai_movie3,540.006,benchmark,Mumbai
+Mumbai_movie3_28.jpg,Mumbai_movie3,840.006,benchmark,Mumbai
+Mumbai_movie3_29.jpg,Mumbai_movie3,870.002,benchmark,Mumbai
+Mumbai_movie3_39.jpg,Mumbai_movie3,1170.002,benchmark,Mumbai
+Mumbai_movie3_44.jpg,Mumbai_movie3,1320.002,benchmark,Mumbai
+Mumbai_movie3_45.jpg,Mumbai_movie3,1350.015,benchmark,Mumbai
+Mumbai_movie3_58.jpg,Mumbai_movie3,1740.005,benchmark,Mumbai
+Mumbai_movie3_62.jpg,Mumbai_movie3,1860.008,benchmark,Mumbai
+Mumbai_movie3_8.jpg,Mumbai_movie3,240.006,benchmark,Mumbai
+Mumbai_movie2_10.jpg,Mumbai_movie2,300.000,benchmark,Mumbai
+Mumbai_movie3_37.jpg,Mumbai_movie3,1110.009,benchmark,Mumbai
+Mumbai_movie2_46.jpg,Mumbai_movie2,1380.000,benchmark,Mumbai
+Mumbai_movie3_54.jpg,Mumbai_movie3,1620.002,benchmark,Mumbai
+london_movie1_82.jpg,london_movie1,2462.417,benchmark,London
+london_movie1_23.jpg,london_movie1,694.150,benchmark,London
+london_movie1_14.jpg,london_movie1,420.550,benchmark,London
+london_movie1_30.jpg,london_movie1,901.883,benchmark,London
+london_movie1_78.jpg,london_movie1,2340.817,benchmark,London
+london_movie2_100.jpg,london_movie2,3005.400,benchmark,London
+london_movie2_101.jpg,london_movie2,3030.900,benchmark,London
+london_movie2_116.jpg,london_movie2,3480.833,benchmark,London
+london_movie2_13.jpg,london_movie2,391.767,benchmark,London
+london_movie2_30.jpg,london_movie2,904.400,benchmark,London
+london_movie2_41.jpg,london_movie2,1230.667,benchmark,London
+london_movie2_42.jpg,london_movie2,1260.533,benchmark,London
+london_movie2_61.jpg,london_movie2,1831.333,benchmark,London
+london_movie2_75.jpg,london_movie2,2253.667,benchmark,London
+london_movie2_90.jpg,london_movie2,2705.367,benchmark,London
+london_movie2_92.jpg,london_movie2,2762.433,benchmark,London
+london_movie3_1.jpg,london_movie3,32.033,benchmark,London
+london_movie3_13.jpg,london_movie3,394.700,benchmark,London
+london_movie3_24.jpg,london_movie3,724.300,benchmark,London
+london_movie3_31.jpg,london_movie3,932.300,benchmark,London
+london_movie3_37.jpg,london_movie3,1113.100,benchmark,London
+london_movie3_38.jpg,london_movie3,1145.100,benchmark,London
+london_movie3_40.jpg,london_movie3,1203.767,benchmark,London
+london_movie3_58.jpg,london_movie3,1742.433,benchmark,London
+london_movie3_69.jpg,london_movie3,2073.100,benchmark,London
+london_movie4_11.jpg,london_movie4,333.350,benchmark,London
+london_movie4_132.jpg,london_movie4,3963.350,benchmark,London
+london_movie4_141.jpg,london_movie4,4232.850,benchmark,London
+london_movie4_144.jpg,london_movie4,4320.850,benchmark,London
+london_movie4_42.jpg,london_movie4,1262.850,benchmark,London
+london_movie4_43.jpg,london_movie4,1290.350,benchmark,London
+london_movie4_48.jpg,london_movie4,1444.350,benchmark,London
+london_movie4_50.jpg,london_movie4,1504.850,benchmark,London
+london_movie4_57.jpg,london_movie4,1713.850,benchmark,London
+london_movie4_6.jpg,london_movie4,185.383,benchmark,London
+london_movie4_74.jpg,london_movie4,2225.350,benchmark,London
+london_movie4_90.jpg,london_movie4,2703.850,benchmark,London
+london_movie4_96.jpg,london_movie4,2885.350,benchmark,London
+london_movie4_97.jpg,london_movie4,2912.850,benchmark,London
+london_movie5_110.jpg,london_movie5,3302.483,benchmark,London
+london_movie5_12.jpg,london_movie5,365.015,benchmark,London
+london_movie5_5.jpg,london_movie5,150.033,benchmark,London
+london_movie5_57.jpg,london_movie5,1713.829,benchmark,London
+london_movie5_64.jpg,london_movie5,1920.168,benchmark,London
+london_movie5_68.jpg,london_movie5,2045.493,benchmark,London
+london_movie5_72.jpg,london_movie5,2165.880,benchmark,London
+london_movie5_9.jpg,london_movie5,270.020,benchmark,London
+london_movie6_24.jpg,london_movie6,720.017,benchmark,London
+london_movie6_4.jpg,london_movie6,124.350,benchmark,London
+london_movie6_44.jpg,london_movie6,1320.383,benchmark,London
+london_movie6_50.jpg,london_movie6,1503.217,benchmark,London
+london_movie6_65.jpg,london_movie6,1952.617,benchmark,London
+london_movie6_74.jpg,london_movie6,2224.350,benchmark,London
+london_movie6_76.jpg,london_movie6,2281.750,benchmark,London
+london_movie6_82.jpg,london_movie6,2464.583,benchmark,London
+london_movie6_85.jpg,london_movie6,2553.117,benchmark,London
+london_movie2_118.jpg,london_movie2,3540.600,benchmark,London
+london_movie3_14.jpg,london_movie3,421.367,benchmark,London
+london_movie4_77.jpg,london_movie4,2313.350,benchmark,London
+london_movie2_59.jpg,london_movie2,1773.100,benchmark,London
+london_movie5_82.jpg,london_movie5,2464.479,benchmark,London
+london_movie5_55.jpg,london_movie5,1653.769,benchmark,London
+london_movie5_49.jpg,london_movie5,1475.724,benchmark,London
+london_movie2_84.jpg,london_movie2,2522.967,benchmark,London
+london_movie3_43.jpg,london_movie3,1294.433,benchmark,London
+london_movie2_25.jpg,london_movie2,752.633,benchmark,London
+london_movie2_39.jpg,london_movie2,1175.233,benchmark,London
+london_movie2_111.jpg,london_movie2,3333.633,benchmark,London
+london_movie2_103.jpg,london_movie2,3091.933,benchmark,London
+london_movie6_109.jpg,london_movie6,3273.883,benchmark,London
+london_movie6_23.jpg,london_movie6,693.850,benchmark,London
+london_movie3_8.jpg,london_movie3,240.033,benchmark,London
+london_movie4_79.jpg,london_movie4,2373.850,benchmark,London
+london_movie6_88.jpg,london_movie6,2641.650,benchmark,London
+london_movie6_62.jpg,london_movie6,1863.817,benchmark,London
+newyork_movie1_139.jpg,newyork_movie1,4172.552,benchmark,New York
+newyork_movie2_21.jpg,newyork_movie2,634.017,benchmark,New York
+newyork_movie2_23.jpg,newyork_movie2,695.017,benchmark,New York
+newyork_movie2_26.jpg,newyork_movie2,784.517,benchmark,New York
+newyork_movie2_39.jpg,newyork_movie2,1175.517,benchmark,New York
+newyork_movie2_45.jpg,newyork_movie2,1354.517,benchmark,New York
+newyork_movie2_49.jpg,newyork_movie2,1471.517,benchmark,New York
+newyork_movie2_51.jpg,newyork_movie2,1533.017,benchmark,New York
+newyork_movie2_57.jpg,newyork_movie2,1710.017,benchmark,New York
+newyork_movie2_63.jpg,newyork_movie2,1895.017,benchmark,New York
+newyork_movie2_68.jpg,newyork_movie2,2040.517,benchmark,New York
+newyork_movie2_70.jpg,newyork_movie2,2100.017,benchmark,New York
+newyork_movie2_73.jpg,newyork_movie2,2192.017,benchmark,New York
+newyork_movie2_75.jpg,newyork_movie2,2253.017,benchmark,New York
+newyork_movie3_101.jpg,newyork_movie3,3031.345,benchmark,New York
+newyork_movie3_117.jpg,newyork_movie3,3515.729,benchmark,New York
+newyork_movie3_124.jpg,newyork_movie3,3722.035,benchmark,New York
+newyork_movie3_128.jpg,newyork_movie3,3844.891,benchmark,New York
+newyork_movie3_14.jpg,newyork_movie3,421.938,benchmark,New York
+newyork_movie3_44.jpg,newyork_movie3,1324.206,benchmark,New York
+newyork_movie3_48.jpg,newyork_movie3,1440.823,benchmark,New York
+newyork_movie3_68.jpg,newyork_movie3,2040.422,benchmark,New York
+newyork_movie3_86.jpg,newyork_movie3,2583.464,benchmark,New York
+newyork_movie3_94.jpg,newyork_movie3,2825.206,benchmark,New York
+newyork_movie4_2.jpg,newyork_movie4,62.017,benchmark,New York
+newyork_movie4_35.jpg,newyork_movie4,1050.517,benchmark,New York
+newyork_movie4_49.jpg,newyork_movie4,1472.517,benchmark,New York
+newyork_movie4_55.jpg,newyork_movie4,1656.517,benchmark,New York
+newyork_movie4_72.jpg,newyork_movie4,2164.517,benchmark,New York
+newyork_movie4_77.jpg,newyork_movie4,2314.017,benchmark,New York
+newyork_movie5_30.jpg,newyork_movie5,903.450,benchmark,New York
+newyork_movie5_5.jpg,newyork_movie5,150.050,benchmark,New York
+newyork_movie6_18.jpg,newyork_movie6,542.150,benchmark,New York
+newyork_movie6_23.jpg,newyork_movie6,694.150,benchmark,New York
+newyork_movie6_44.jpg,newyork_movie6,1322.417,benchmark,New York
+newyork_movie6_53.jpg,newyork_movie6,1590.950,benchmark,New York
+newyork_movie6_54.jpg,newyork_movie6,1621.350,benchmark,New York
+newyork_movie6_56.jpg,newyork_movie6,1682.150,benchmark,New York
+newyork_movie6_73.jpg,newyork_movie6,2193.883,benchmark,New York
+newyork_movie6_82.jpg,newyork_movie6,2462.417,benchmark,New York
+newyork_movie6_90.jpg,newyork_movie6,2700.550,benchmark,New York
+newyork_movie6_94.jpg,newyork_movie6,2822.150,benchmark,New York
+newyork_movie6_95.jpg,newyork_movie6,2852.550,benchmark,New York
+newyork_movie4_26.jpg,newyork_movie4,780.050,benchmark,New York
+newyork_movie2_47.jpg,newyork_movie2,1414.517,benchmark,New York
+newyork_movie5_56.jpg,newyork_movie5,1681.750,benchmark,New York
+newyork_movie6_106.jpg,newyork_movie6,3181.883,benchmark,New York
+newyork_movie6_20.jpg,newyork_movie6,602.950,benchmark,New York
+newyork_movie2_41.jpg,newyork_movie2,1235.017,benchmark,New York
+newyork_movie5_7.jpg,newyork_movie5,214.050,benchmark,New York
+newyork_movie5_18.jpg,newyork_movie5,542.683,benchmark,New York
+newyork_movie2_77.jpg,newyork_movie2,2310.017,benchmark,New York
+newyork_movie2_33.jpg,newyork_movie2,993.517,benchmark,New York
+newyork_movie2_69.jpg,newyork_movie2,2076.517,benchmark,New York
+newyork_movie6_6.jpg,newyork_movie6,182.417,benchmark,New York
+newyork_movie2_38.jpg,newyork_movie2,1142.517,benchmark,New York
+newyork_movie2_58.jpg,newyork_movie2,1741.517,benchmark,New York
+newyork_movie4_70.jpg,newyork_movie4,2103.517,benchmark,New York
+newyork_movie6_52.jpg,newyork_movie6,1560.550,benchmark,New York
+newyork_movie6_5.jpg,newyork_movie6,152.017,benchmark,New York
+MexicoCity_movie1_113.jpg,MexicoCity_movie1,3390.003,benchmark,Mexico City
+MexicoCity_movie1_115.jpg,MexicoCity_movie1,3450.013,benchmark,Mexico City
+MexicoCity_movie1_127.jpg,MexicoCity_movie1,3810.006,benchmark,Mexico City
+MexicoCity_movie1_130.jpg,MexicoCity_movie1,3900.013,benchmark,Mexico City
+MexicoCity_movie1_138.jpg,MexicoCity_movie1,4140.003,benchmark,Mexico City
+MexicoCity_movie1_143.jpg,MexicoCity_movie1,4290.002,benchmark,Mexico City
+MexicoCity_movie1_153.jpg,MexicoCity_movie1,4590.002,benchmark,Mexico City
+MexicoCity_movie1_167.jpg,MexicoCity_movie1,5010.005,benchmark,Mexico City
+MexicoCity_movie1_171.jpg,MexicoCity_movie1,5130.008,benchmark,Mexico City
+MexicoCity_movie1_172.jpg,MexicoCity_movie1,5160.005,benchmark,Mexico City
+MexicoCity_movie1_18.jpg,MexicoCity_movie1,540.006,benchmark,Mexico City
+MexicoCity_movie1_185.jpg,MexicoCity_movie1,5550.011,benchmark,Mexico City
+MexicoCity_movie1_214.jpg,MexicoCity_movie1,6420.014,benchmark,Mexico City
+MexicoCity_movie1_215.jpg,MexicoCity_movie1,6450.010,benchmark,Mexico City
+MexicoCity_movie1_218.jpg,MexicoCity_movie1,6540.000,benchmark,Mexico City
+MexicoCity_movie1_22.jpg,MexicoCity_movie1,660.009,benchmark,Mexico City
+MexicoCity_movie1_220.jpg,MexicoCity_movie1,6600.010,benchmark,Mexico City
+MexicoCity_movie1_226.jpg,MexicoCity_movie1,6780.007,benchmark,Mexico City
+MexicoCity_movie1_228.jpg,MexicoCity_movie1,6840.017,benchmark,Mexico City
+MexicoCity_movie1_24.jpg,MexicoCity_movie1,720.003,benchmark,Mexico City
+MexicoCity_movie1_246.jpg,MexicoCity_movie1,7380.006,benchmark,Mexico City
+MexicoCity_movie1_25.jpg,MexicoCity_movie1,750.016,benchmark,Mexico City
+MexicoCity_movie1_252.jpg,MexicoCity_movie1,7560.002,benchmark,Mexico City
+MexicoCity_movie1_254.jpg,MexicoCity_movie1,7620.012,benchmark,Mexico City
+MexicoCity_movie1_256.jpg,MexicoCity_movie1,7680.006,benchmark,Mexico City
+MexicoCity_movie1_257.jpg,MexicoCity_movie1,7710.002,benchmark,Mexico City
+MexicoCity_movie1_26.jpg,MexicoCity_movie1,780.013,benchmark,Mexico City
+MexicoCity_movie1_265.jpg,MexicoCity_movie1,7950.009,benchmark,Mexico City
+MexicoCity_movie1_28.jpg,MexicoCity_movie1,840.006,benchmark,Mexico City
+MexicoCity_movie1_286.jpg,MexicoCity_movie1,8580.005,benchmark,Mexico City
+MexicoCity_movie1_299.jpg,MexicoCity_movie1,8970.011,benchmark,Mexico City
+MexicoCity_movie1_308.jpg,MexicoCity_movie1,9240.014,benchmark,Mexico City
+MexicoCity_movie1_31.jpg,MexicoCity_movie1,930.012,benchmark,Mexico City
+MexicoCity_movie1_312.jpg,MexicoCity_movie1,9360.001,benchmark,Mexico City
+MexicoCity_movie1_325.jpg,MexicoCity_movie1,9750.007,benchmark,Mexico City
+MexicoCity_movie1_326.jpg,MexicoCity_movie1,9780.004,benchmark,Mexico City
+MexicoCity_movie1_337.jpg,MexicoCity_movie1,10110.017,benchmark,Mexico City
+MexicoCity_movie1_344.jpg,MexicoCity_movie1,10320.010,benchmark,Mexico City
+MexicoCity_movie1_360.jpg,MexicoCity_movie1,10800.006,benchmark,Mexico City
+MexicoCity_movie1_368.jpg,MexicoCity_movie1,11040.012,benchmark,Mexico City
+MexicoCity_movie1_369.jpg,MexicoCity_movie1,11070.009,benchmark,Mexico City
+MexicoCity_movie1_374.jpg,MexicoCity_movie1,11220.009,benchmark,Mexico City
+MexicoCity_movie1_44.jpg,MexicoCity_movie1,1320.002,benchmark,Mexico City
+MexicoCity_movie1_47.jpg,MexicoCity_movie1,1410.009,benchmark,Mexico City
+MexicoCity_movie1_53.jpg,MexicoCity_movie1,1590.005,benchmark,Mexico City
+MexicoCity_movie1_55.jpg,MexicoCity_movie1,1650.015,benchmark,Mexico City
+MexicoCity_movie1_66.jpg,MexicoCity_movie1,1980.011,benchmark,Mexico City
+MexicoCity_movie1_67.jpg,MexicoCity_movie1,2010.008,benchmark,Mexico City
+MexicoCity_movie1_70.jpg,MexicoCity_movie1,2100.015,benchmark,Mexico City
+MexicoCity_movie1_89.jpg,MexicoCity_movie1,2670.001,benchmark,Mexico City
+MexicoCity_movie1_96.jpg,MexicoCity_movie1,2880.010,benchmark,Mexico City
+MexicoCity_movie1_99.jpg,MexicoCity_movie1,2970.000,benchmark,Mexico City
+MexicoCity_movie2_111.jpg,MexicoCity_movie2,3330.000,benchmark,Mexico City
+MexicoCity_movie2_114.jpg,MexicoCity_movie2,3420.000,benchmark,Mexico City
+MexicoCity_movie2_119.jpg,MexicoCity_movie2,3570.000,benchmark,Mexico City
+MexicoCity_movie2_126.jpg,MexicoCity_movie2,3780.000,benchmark,Mexico City
+MexicoCity_movie2_155.jpg,MexicoCity_movie2,4650.000,benchmark,Mexico City
+MexicoCity_movie2_17.jpg,MexicoCity_movie2,510.000,benchmark,Mexico City
+MexicoCity_movie2_19.jpg,MexicoCity_movie2,570.000,benchmark,Mexico City
+MexicoCity_movie2_44.jpg,MexicoCity_movie2,1320.000,benchmark,Mexico City
+MexicoCity_movie2_61.jpg,MexicoCity_movie2,1830.000,benchmark,Mexico City
+MexicoCity_movie2_63.jpg,MexicoCity_movie2,1890.000,benchmark,Mexico City
+MexicoCity_movie2_67.jpg,MexicoCity_movie2,2010.000,benchmark,Mexico City
+MexicoCity_movie2_74.jpg,MexicoCity_movie2,2220.000,benchmark,Mexico City
+MexicoCity_movie2_95.jpg,MexicoCity_movie2,2850.000,benchmark,Mexico City
+MexicoCity_movie3_11.jpg,MexicoCity_movie3,330.000,benchmark,Mexico City
+MexicoCity_movie3_25.jpg,MexicoCity_movie3,750.000,benchmark,Mexico City
+MexicoCity_movie3_4.jpg,MexicoCity_movie3,120.000,benchmark,Mexico City
+MexicoCity_movie4_14.jpg,MexicoCity_movie4,420.000,benchmark,Mexico City
+MexicoCity_movie4_18.jpg,MexicoCity_movie4,540.000,benchmark,Mexico City
+MexicoCity_movie4_25.jpg,MexicoCity_movie4,750.000,benchmark,Mexico City
+MexicoCity_movie3_9.jpg,MexicoCity_movie3,270.000,benchmark,Mexico City
+MexicoCity_movie2_5.jpg,MexicoCity_movie2,150.000,benchmark,Mexico City
+MexicoCity_movie2_38.jpg,MexicoCity_movie2,1140.000,benchmark,Mexico City
+MexicoCity_movie1_41.jpg,MexicoCity_movie1,1230.012,benchmark,Mexico City
+MexicoCity_movie2_83.jpg,MexicoCity_movie2,2490.000,benchmark,Mexico City
+MexicoCity_movie1_13.jpg,MexicoCity_movie1,390.006,benchmark,Mexico City
+MexicoCity_movie1_278.jpg,MexicoCity_movie1,8340.015,benchmark,Mexico City
+MexicoCity_movie1_355.jpg,MexicoCity_movie1,10650.006,benchmark,Mexico City
+MexicoCity_movie1_241.jpg,MexicoCity_movie1,7230.006,benchmark,Mexico City
+MexicoCity_movie1_93.jpg,MexicoCity_movie1,2790.004,benchmark,Mexico City
+MexicoCity_movie4_21.jpg,MexicoCity_movie4,630.000,benchmark,Mexico City
+MexicoCity_movie1_173.jpg,MexicoCity_movie1,5190.001,benchmark,Mexico City
+MexicoCity_movie1_327.jpg,MexicoCity_movie1,9810.000,benchmark,Mexico City
+MexicoCity_movie1_338.jpg,MexicoCity_movie1,10140.013,benchmark,Mexico City
+MexicoCity_movie1_43.jpg,MexicoCity_movie1,1290.005,benchmark,Mexico City
+MexicoCity_movie1_321.jpg,MexicoCity_movie1,9630.004,benchmark,Mexico City
+MexicoCity_movie1_15.jpg,MexicoCity_movie1,450.016,benchmark,Mexico City
+MexicoCity_movie4_16.jpg,MexicoCity_movie4,480.000,benchmark,Mexico City
+MexicoCity_movie2_29.jpg,MexicoCity_movie2,870.000,benchmark,Mexico City
+MexicoCity_movie1_213.jpg,MexicoCity_movie1,6390.000,benchmark,Mexico City
+MexicoCity_movie1_255.jpg,MexicoCity_movie1,7650.009,benchmark,Mexico City
+MexicoCity_movie2_27.jpg,MexicoCity_movie2,810.000,benchmark,Mexico City
+MexicoCity_movie3_24.jpg,MexicoCity_movie3,720.000,benchmark,Mexico City
+MexicoCity_movie1_128.jpg,MexicoCity_movie1,3840.003,benchmark,Mexico City
+MexicoCity_movie1_193.jpg,MexicoCity_movie1,5790.001,benchmark,Mexico City
+MexicoCity_movie1_100.jpg,MexicoCity_movie1,3000.014,benchmark,Mexico City
+MexicoCity_movie2_156.jpg,MexicoCity_movie2,4680.000,benchmark,Mexico City
+MexicoCity_movie1_107.jpg,MexicoCity_movie1,3210.007,benchmark,Mexico City
+akihabara_movie2_59.jpg,akihabara_movie2,1770.000,benchmark,Tokyo
+akihabara_movie2_20.jpg,akihabara_movie2,600.000,benchmark,Tokyo
+akihabara_movie1_45.jpg,akihabara_movie1,1350.000,benchmark,Tokyo
+akihabara_movie2_21.jpg,akihabara_movie2,630.000,benchmark,Tokyo
+akihabara_movie2_18.jpg,akihabara_movie2,540.000,benchmark,Tokyo
+akihabara_movie1_29.jpg,akihabara_movie1,870.000,benchmark,Tokyo
+akihabara_movie1_9.jpg,akihabara_movie1,270.000,benchmark,Tokyo
+akihabara_movie4_1.jpg,akihabara_movie4,30.014,benchmark,Tokyo
+akihabara_movie4_107.jpg,akihabara_movie4,3210.006,benchmark,Tokyo
+akihabara_movie4_13.jpg,akihabara_movie4,390.007,benchmark,Tokyo
+akihabara_movie4_60.jpg,akihabara_movie4,1800.015,benchmark,Tokyo
+akihabara_movie4_8.jpg,akihabara_movie4,240.006,benchmark,Tokyo
+akihabara_movie5_12.jpg,akihabara_movie5,360.009,benchmark,Tokyo
+akihabara_movie5_45.jpg,akihabara_movie5,1350.015,benchmark,Tokyo
+akihabara_movie6_12.jpg,akihabara_movie6,360.010,benchmark,Tokyo
+akihabara_movie6_2.jpg,akihabara_movie6,60.010,benchmark,Tokyo
+akihabara_movie6_38.jpg,akihabara_movie6,1140.006,benchmark,Tokyo
+akihabara_movie6_42.jpg,akihabara_movie6,1260.009,benchmark,Tokyo
+Shanghai_movie3_55.jpg,Shanghai_movie3,1650.000,benchmark,Shanghai
+Shanghai_movie3_105.jpg,Shanghai_movie3,3150.000,benchmark,Shanghai
+Shanghai_movie3_103.jpg,Shanghai_movie3,3090.000,benchmark,Shanghai
+Shanghai_movie3_104.jpg,Shanghai_movie3,3120.000,benchmark,Shanghai
+Shanghai_movie1_31.jpg,Shanghai_movie1,930.000,benchmark,Shanghai
+Shanghai_movie1_46.jpg,Shanghai_movie1,1380.000,benchmark,Shanghai
+Shanghai_movie1_63.jpg,Shanghai_movie1,1890.000,benchmark,Shanghai
+Shanghai_movie2_105.jpg,Shanghai_movie2,3150.000,benchmark,Shanghai
+Shanghai_movie4_128.jpg,Shanghai_movie4,3840.000,benchmark,Shanghai
+Shanghai_movie4_70.jpg,Shanghai_movie4,2100.000,benchmark,Shanghai
+Shanghai_movie4_89.jpg,Shanghai_movie4,2670.000,benchmark,Shanghai
+dubai_movie1_18.jpg,dubai_movie1,544.033,benchmark,Dubai
+dubai_movie1_74.jpg,dubai_movie1,2224.033,benchmark,Dubai
+dubai_movie2_100.jpg,dubai_movie2,3005.517,benchmark,Dubai
+dubai_movie2_101.jpg,dubai_movie2,3035.883,benchmark,Dubai
+dubai_movie2_113.jpg,dubai_movie2,3390.017,benchmark,Dubai
+dubai_movie2_23.jpg,dubai_movie2,694.317,benchmark,Dubai
+dubai_movie2_4.jpg,dubai_movie2,125.017,benchmark,Dubai
+dubai_movie2_70.jpg,dubai_movie2,2105.350,benchmark,Dubai
+dubai_movie2_76.jpg,dubai_movie2,2285.517,benchmark,Dubai
+dubai_movie3_11.jpg,dubai_movie3,330.017,benchmark,Dubai
+dubai_movie3_23.jpg,dubai_movie3,690.017,benchmark,Dubai
+dubai_movie3_55.jpg,dubai_movie3,1650.017,benchmark,Dubai
+dubai_movie4_125.jpg,dubai_movie4,3753.883,benchmark,Dubai
+dubai_movie4_56.jpg,dubai_movie4,1684.883,benchmark,Dubai
+dubai_movie4_58.jpg,dubai_movie4,1742.883,benchmark,Dubai
+dubai_movie4_5.jpg,dubai_movie4,153.883,benchmark,Dubai
+Mumbai_movie1_32.jpg,Mumbai_movie1,960.000,benchmark,Mumbai
+Mumbai_movie1_9.jpg,Mumbai_movie1,270.000,benchmark,Mumbai
+Mumbai_movie2_35.jpg,Mumbai_movie2,1050.000,benchmark,Mumbai
+Mumbai_movie3_30.jpg,Mumbai_movie3,900.016,benchmark,Mumbai
+Mumbai_movie3_36.jpg,Mumbai_movie3,1080.012,benchmark,Mumbai
+Mumbai_movie3_53.jpg,Mumbai_movie3,1590.005,benchmark,Mumbai
+Mumbai_movie3_55.jpg,Mumbai_movie3,1650.015,benchmark,Mumbai
+Mumbai_movie2_7.jpg,Mumbai_movie2,210.000,benchmark,Mumbai
+Mumbai_movie3_5.jpg,Mumbai_movie3,150.000,benchmark,Mumbai
+Mumbai_movie3_46.jpg,Mumbai_movie3,1380.012,benchmark,Mumbai
+Mumbai_movie2_13.jpg,Mumbai_movie2,390.000,benchmark,Mumbai
+london_movie1_74.jpg,london_movie1,2224.283,benchmark,London
+london_movie1_90.jpg,london_movie1,2700.550,benchmark,London
+london_movie2_110.jpg,london_movie2,3303.700,benchmark,London
+london_movie2_17.jpg,london_movie2,513.367,benchmark,London
+london_movie2_40.jpg,london_movie2,1201.300,benchmark,London
+london_movie2_52.jpg,london_movie2,1561.833,benchmark,London
+london_movie2_74.jpg,london_movie2,2222.533,benchmark,London
+london_movie3_10.jpg,london_movie3,304.033,benchmark,London
+london_movie3_20.jpg,london_movie3,602.700,benchmark,London
+london_movie3_39.jpg,london_movie3,1171.767,benchmark,London
+london_movie3_54.jpg,london_movie3,1625.100,benchmark,London
+london_movie3_65.jpg,london_movie3,1950.433,benchmark,London
+london_movie4_26.jpg,london_movie4,784.350,benchmark,London
+london_movie4_45.jpg,london_movie4,1350.850,benchmark,London
+london_movie4_7.jpg,london_movie4,212.883,benchmark,London
+london_movie4_93.jpg,london_movie4,2791.850,benchmark,London
+london_movie5_16.jpg,london_movie5,485.035,benchmark,London
+london_movie5_31.jpg,london_movie5,931.581,benchmark,London
+london_movie5_32.jpg,london_movie5,961.577,benchmark,London
+london_movie5_40.jpg,london_movie5,1200.683,benchmark,London
+london_movie5_48.jpg,london_movie5,1445.694,benchmark,London
+london_movie5_52.jpg,london_movie5,1564.747,benchmark,London
+london_movie6_102.jpg,london_movie6,3064.883,benchmark,London
+london_movie6_46.jpg,london_movie6,1383.183,benchmark,London
+london_movie6_52.jpg,london_movie6,1560.783,benchmark,London
+london_movie6_6.jpg,london_movie6,181.917,benchmark,London
+london_movie6_64.jpg,london_movie6,1921.217,benchmark,London
+london_movie6_66.jpg,london_movie6,1983.950,benchmark,London
+london_movie6_90.jpg,london_movie6,2704.283,benchmark,London
+london_movie2_48.jpg,london_movie2,1444.567,benchmark,London
+london_movie5_26.jpg,london_movie5,783.499,benchmark,London
+london_movie3_55.jpg,london_movie3,1651.767,benchmark,London
+london_movie2_49.jpg,london_movie2,1472.200,benchmark,London
+newyork_movie2_25.jpg,newyork_movie2,753.517,benchmark,New York
+newyork_movie3_139.jpg,newyork_movie3,4175.421,benchmark,New York
+newyork_movie3_99.jpg,newyork_movie3,2973.621,benchmark,New York
+newyork_movie4_12.jpg,newyork_movie4,365.017,benchmark,New York
+newyork_movie4_13.jpg,newyork_movie4,395.017,benchmark,New York
+newyork_movie4_71.jpg,newyork_movie4,2132.517,benchmark,New York
+newyork_movie4_82.jpg,newyork_movie4,2461.517,benchmark,New York
+newyork_movie4_87.jpg,newyork_movie4,2611.517,benchmark,New York
+newyork_movie6_1.jpg,newyork_movie6,30.417,benchmark,New York
+newyork_movie6_22.jpg,newyork_movie6,663.750,benchmark,New York
+newyork_movie6_42.jpg,newyork_movie6,1261.617,benchmark,New York
+newyork_movie6_74.jpg,newyork_movie6,2224.283,benchmark,New York
+newyork_movie4_25.jpg,newyork_movie4,754.017,benchmark,New York
+newyork_movie5_17.jpg,newyork_movie5,513.283,benchmark,New York
+newyork_movie6_99.jpg,newyork_movie6,2974.150,benchmark,New York
+newyork_movie6_17.jpg,newyork_movie6,511.750,benchmark,New York
+newyork_movie6_55.jpg,newyork_movie6,1651.750,benchmark,New York
+newyork_movie6_77.jpg,newyork_movie6,2310.417,benchmark,New York
+MexicoCity_movie5_107.jpg,MexicoCity_movie5,3210.007,benchmark,Mexico City
+MexicoCity_movie5_102.jpg,MexicoCity_movie5,3060.007,benchmark,Mexico City
+MexicoCity_movie5_108.jpg,MexicoCity_movie5,3240.003,benchmark,Mexico City
+MexicoCity_movie1_133.jpg,MexicoCity_movie1,3990.003,benchmark,Mexico City
+MexicoCity_movie1_152.jpg,MexicoCity_movie1,4560.005,benchmark,Mexico City
+MexicoCity_movie1_166.jpg,MexicoCity_movie1,4980.008,benchmark,Mexico City
+MexicoCity_movie1_194.jpg,MexicoCity_movie1,5820.014,benchmark,Mexico City
+MexicoCity_movie1_203.jpg,MexicoCity_movie1,6090.001,benchmark,Mexico City
+MexicoCity_movie1_205.jpg,MexicoCity_movie1,6150.011,benchmark,Mexico City
+MexicoCity_movie1_229.jpg,MexicoCity_movie1,6870.013,benchmark,Mexico City
+MexicoCity_movie1_236.jpg,MexicoCity_movie1,7080.006,benchmark,Mexico City
+MexicoCity_movie1_3.jpg,MexicoCity_movie1,90.007,benchmark,Mexico City
+MexicoCity_movie1_37.jpg,MexicoCity_movie1,1110.009,benchmark,Mexico City
+MexicoCity_movie1_371.jpg,MexicoCity_movie1,11130.002,benchmark,Mexico City
+MexicoCity_movie2_134.jpg,MexicoCity_movie2,4020.000,benchmark,Mexico City
+MexicoCity_movie2_168.jpg,MexicoCity_movie2,5040.000,benchmark,Mexico City
+MexicoCity_movie2_28.jpg,MexicoCity_movie2,840.000,benchmark,Mexico City
+MexicoCity_movie2_58.jpg,MexicoCity_movie2,1740.000,benchmark,Mexico City
+MexicoCity_movie2_90.jpg,MexicoCity_movie2,2700.000,benchmark,Mexico City
+MexicoCity_movie2_93.jpg,MexicoCity_movie2,2790.000,benchmark,Mexico City
+MexicoCity_movie2_94.jpg,MexicoCity_movie2,2820.000,benchmark,Mexico City
+MexicoCity_movie3_1.jpg,MexicoCity_movie3,30.000,benchmark,Mexico City
+MexicoCity_movie4_10.jpg,MexicoCity_movie4,300.000,benchmark,Mexico City
+MexicoCity_movie2_12.jpg,MexicoCity_movie2,360.000,benchmark,Mexico City
+MexicoCity_movie1_230.jpg,MexicoCity_movie1,6900.010,benchmark,Mexico City
+MexicoCity_movie1_211.jpg,MexicoCity_movie1,6330.007,benchmark,Mexico City
+MexicoCity_movie1_112.jpg,MexicoCity_movie1,3360.007,benchmark,Mexico City
+MexicoCity_movie1_177.jpg,MexicoCity_movie1,5310.005,benchmark,Mexico City
+MexicoCity_movie1_144.jpg,MexicoCity_movie1,4320.016,benchmark,Mexico City
+MexicoCity_movie2_22.jpg,MexicoCity_movie2,660.000,benchmark,Mexico City
+akihabara_movie2_46.jpg,akihabara_movie2,1380.000,benchmark,Tokyo
+akihabara_movie2_30.jpg,akihabara_movie2,900.000,benchmark,Tokyo
+akihabara_movie1_12.jpg,akihabara_movie1,360.000,benchmark,Tokyo
+akihabara_movie3_33.jpg,akihabara_movie3,990.033,benchmark,Tokyo
+akihabara_movie4_91.jpg,akihabara_movie4,2730.011,benchmark,Tokyo
+akihabara_movie4_93.jpg,akihabara_movie4,2790.004,benchmark,Tokyo
+akihabara_movie5_10.jpg,akihabara_movie5,300.016,benchmark,Tokyo
+akihabara_movie6_82.jpg,akihabara_movie6,2460.008,benchmark,Tokyo
+Shanghai_movie3_19.jpg,Shanghai_movie3,570.000,benchmark,Shanghai
+Shanghai_movie3_21.jpg,Shanghai_movie3,630.000,benchmark,Shanghai
+Shanghai_movie1_90.jpg,Shanghai_movie1,2700.000,benchmark,Shanghai
+Shanghai_movie2_109.jpg,Shanghai_movie2,3270.000,benchmark,Shanghai
+Shanghai_movie2_49.jpg,Shanghai_movie2,1470.000,benchmark,Shanghai
+Shanghai_movie4_43.jpg,Shanghai_movie4,1290.000,benchmark,Shanghai
+Shanghai_movie4_73.jpg,Shanghai_movie4,2190.000,benchmark,Shanghai
+dubai_movie1_105.jpg,dubai_movie1,3152.033,benchmark,Dubai
+dubai_movie1_97.jpg,dubai_movie1,2912.033,benchmark,Dubai
+dubai_movie1_4.jpg,dubai_movie1,122.700,benchmark,Dubai
+dubai_movie1_16.jpg,dubai_movie1,480.033,benchmark,Dubai
+dubai_movie1_91.jpg,dubai_movie1,2730.700,benchmark,Dubai
+dubai_movie1_106.jpg,dubai_movie1,3184.033,benchmark,Dubai
+dubai_movie2_21.jpg,dubai_movie2,635.883,benchmark,Dubai
+dubai_movie3_13.jpg,dubai_movie3,390.017,benchmark,Dubai
+dubai_movie3_45.jpg,dubai_movie3,1350.017,benchmark,Dubai
+dubai_movie3_8.jpg,dubai_movie3,240.017,benchmark,Dubai
+dubai_movie4_140.jpg,dubai_movie4,4201.883,benchmark,Dubai
+dubai_movie4_39.jpg,dubai_movie4,1173.883,benchmark,Dubai
+dubai_movie4_66.jpg,dubai_movie4,1980.883,benchmark,Dubai
+dubai_movie4_67.jpg,dubai_movie4,2013.883,benchmark,Dubai
+Mumbai_movie1_78.jpg,Mumbai_movie1,2340.000,benchmark,Mumbai
+Mumbai_movie1_5.jpg,Mumbai_movie1,150.000,benchmark,Mumbai
+Mumbai_movie2_8.jpg,Mumbai_movie2,240.000,benchmark,Mumbai
+Mumbai_movie3_64.jpg,Mumbai_movie3,1920.001,benchmark,Mumbai
+london_movie1_24.jpg,london_movie1,724.550,benchmark,London
+london_movie1_88.jpg,london_movie1,2644.817,benchmark,London
+london_movie1_44.jpg,london_movie1,1322.417,benchmark,London
+london_movie1_22.jpg,london_movie1,663.750,benchmark,London
+london_movie1_92.jpg,london_movie1,2761.350,benchmark,London
+london_movie4_1.jpg,london_movie4,31.283,benchmark,London
+london_movie4_24.jpg,london_movie4,723.850,benchmark,London
+london_movie4_44.jpg,london_movie4,1323.350,benchmark,London
+london_movie4_87.jpg,london_movie4,2610.350,benchmark,London
+newyork_movie1_39.jpg,newyork_movie1,1172.355,benchmark,New York
+newyork_movie1_127.jpg,newyork_movie1,3812.292,benchmark,New York
+newyork_movie1_138.jpg,newyork_movie1,4143.022,benchmark,New York
+newyork_movie1_13.jpg,newyork_movie1,394.744,benchmark,New York
+newyork_movie2_29.jpg,newyork_movie2,871.017,benchmark,New York
+newyork_movie2_8.jpg,newyork_movie2,240.017,benchmark,New York
+newyork_movie3_50.jpg,newyork_movie3,1505.387,benchmark,New York
+newyork_movie3_78.jpg,newyork_movie3,2341.222,benchmark,New York
+newyork_movie4_19.jpg,newyork_movie4,570.517,benchmark,New York
+newyork_movie5_2.jpg,newyork_movie5,62.017,benchmark,New York
+newyork_movie5_45.jpg,newyork_movie5,1351.617,benchmark,New York
+newyork_movie5_54.jpg,newyork_movie5,1625.250,benchmark,New York
+MexicoCity_movie5_123.jpg,MexicoCity_movie5,3690.003,benchmark,Mexico City
+MexicoCity_movie5_104.jpg,MexicoCity_movie5,3120.000,benchmark,Mexico City
+MexicoCity_movie5_113.jpg,MexicoCity_movie5,3390.003,benchmark,Mexico City
+MexicoCity_movie5_136.jpg,MexicoCity_movie5,4080.009,benchmark,Mexico City
+MexicoCity_movie1_110.jpg,MexicoCity_movie1,3300.013,benchmark,Mexico City
+MexicoCity_movie1_45.jpg,MexicoCity_movie1,1350.015,benchmark,Mexico City
+akihabara_movie2_29.jpg,akihabara_movie2,870.000,benchmark,Tokyo
+akihabara_movie4_27.jpg,akihabara_movie4,810.010,benchmark,Tokyo
+akihabara_movie1_14.jpg,akihabara_movie1,420.000,benchmark,Tokyo
+akihabara_movie2_69.jpg,akihabara_movie2,2070.000,benchmark,Tokyo
+akihabara_movie3_36.jpg,akihabara_movie3,1080.033,benchmark,Tokyo
+akihabara_movie6_32.jpg,akihabara_movie6,960.009,benchmark,Tokyo
+akihabara_movie6_74.jpg,akihabara_movie6,2220.001,benchmark,Tokyo
+Shanghai_movie3_26.jpg,Shanghai_movie3,780.000,benchmark,Shanghai
+Shanghai_movie3_54.jpg,Shanghai_movie3,1620.000,benchmark,Shanghai
+Shanghai_movie2_38.jpg,Shanghai_movie2,1140.000,benchmark,Shanghai
+Shanghai_movie4_103.jpg,Shanghai_movie4,3090.000,benchmark,Shanghai
+Shanghai_movie4_115.jpg,Shanghai_movie4,3450.000,benchmark,Shanghai
+Shanghai_movie3_115.jpg,Shanghai_movie3,3450.000,benchmark,Shanghai
+dubai_movie1_52.jpg,dubai_movie1,1562.700,benchmark,Dubai
+dubai_movie1_14.jpg,dubai_movie1,421.367,benchmark,Dubai
+dubai_movie4_118.jpg,dubai_movie4,3541.883,benchmark,Dubai
+dubai_movie1_35.jpg,dubai_movie1,1050.700,benchmark,Dubai
+dubai_movie1_86.jpg,dubai_movie1,2581.367,benchmark,Dubai
+dubai_movie4_147.jpg,dubai_movie4,4410.883,benchmark,Dubai
+dubai_movie4_83.jpg,dubai_movie4,2493.883,benchmark,Dubai
+Mumbai_movie1_28.jpg,Mumbai_movie1,840.000,benchmark,Mumbai
+Mumbai_movie1_27.jpg,Mumbai_movie1,810.000,benchmark,Mumbai
+Mumbai_movie1_40.jpg,Mumbai_movie1,1200.000,benchmark,Mumbai
+london_movie1_58.jpg,london_movie1,1742.950,benchmark,London
+london_movie3_59.jpg,london_movie3,1774.433,benchmark,London
+london_movie4_127.jpg,london_movie4,3814.850,benchmark,London
+london_movie4_22.jpg,london_movie4,663.350,benchmark,London
+london_movie4_73.jpg,london_movie4,2192.350,benchmark,London
+london_movie4_89.jpg,london_movie4,2670.850,benchmark,London
+london_movie5_45.jpg,london_movie5,1350.699,benchmark,London
+london_movie6_41.jpg,london_movie6,1231.583,benchmark,London
+newyork_movie1_109.jpg,newyork_movie1,3275.122,benchmark,New York
+newyork_movie1_117.jpg,newyork_movie1,3513.060,benchmark,New York
+newyork_movie2_22.jpg,newyork_movie2,661.517,benchmark,New York
+newyork_movie3_13.jpg,newyork_movie3,396.980,benchmark,New York
+newyork_movie4_75.jpg,newyork_movie4,2253.017,benchmark,New York
+newyork_movie6_37.jpg,newyork_movie6,1114.683,benchmark,New York
+newyork_movie1_104.jpg,newyork_movie1,3125.239,benchmark,New York
+newyork_movie5_61.jpg,newyork_movie5,1834.817,benchmark,New York
+MexicoCity_movie2_36.jpg,MexicoCity_movie2,1080.000,benchmark,Mexico City
+MexicoCity_movie5_110.jpg,MexicoCity_movie5,3300.013,benchmark,Mexico City
+MexicoCity_movie5_132.jpg,MexicoCity_movie5,3960.006,benchmark,Mexico City
+MexicoCity_movie5_137.jpg,MexicoCity_movie5,4110.006,benchmark,Mexico City
+MexicoCity_movie1_197.jpg,MexicoCity_movie1,5910.004,benchmark,Mexico City
+akihabara_movie1_11.jpg,akihabara_movie1,330.000,benchmark,Tokyo
+akihabara_movie2_60.jpg,akihabara_movie2,1800.000,benchmark,Tokyo
+akihabara_movie1_51.jpg,akihabara_movie1,1530.000,benchmark,Tokyo
+akihabara_movie5_31.jpg,akihabara_movie5,930.012,benchmark,Tokyo
+akihabara_movie6_20.jpg,akihabara_movie6,600.016,benchmark,Tokyo
+akihabara_movie4_103.jpg,akihabara_movie4,3090.004,benchmark,Tokyo
+akihabara_movie6_35.jpg,akihabara_movie6,1050.016,benchmark,Tokyo
+Shanghai_movie3_28.jpg,Shanghai_movie3,840.000,benchmark,Shanghai
+Shanghai_movie3_15.jpg,Shanghai_movie3,450.000,benchmark,Shanghai
+Shanghai_movie1_117.jpg,Shanghai_movie1,3510.000,benchmark,Shanghai
+Shanghai_movie1_9.jpg,Shanghai_movie1,270.000,benchmark,Shanghai
+Shanghai_movie2_88.jpg,Shanghai_movie2,2640.000,benchmark,Shanghai
+Shanghai_movie1_47.jpg,Shanghai_movie1,1410.000,benchmark,Shanghai
+Shanghai_movie2_87.jpg,Shanghai_movie2,2610.000,benchmark,Shanghai
+dubai_movie1_3.jpg,dubai_movie1,90.700,benchmark,Dubai
+dubai_movie2_117.jpg,dubai_movie2,3510.317,benchmark,Dubai
+dubai_movie2_48.jpg,dubai_movie2,1445.683,benchmark,Dubai
+dubai_movie2_60.jpg,dubai_movie2,1804.050,benchmark,Dubai
+dubai_movie3_1.jpg,dubai_movie3,30.017,benchmark,Dubai
+dubai_movie2_6.jpg,dubai_movie2,184.950,benchmark,Dubai
+Mumbai_movie1_23.jpg,Mumbai_movie1,690.000,benchmark,Mumbai
+Mumbai_movie1_46.jpg,Mumbai_movie1,1380.000,benchmark,Mumbai
+Mumbai_movie2_33.jpg,Mumbai_movie2,990.000,benchmark,Mumbai
+london_movie1_19.jpg,london_movie1,572.550,benchmark,London
+london_movie1_73.jpg,london_movie1,2193.883,benchmark,London
+london_movie2_137.jpg,london_movie2,4110.700,benchmark,London
+london_movie3_3.jpg,london_movie3,90.700,benchmark,London
+london_movie3_6.jpg,london_movie3,181.367,benchmark,London
+london_movie4_130.jpg,london_movie4,3902.850,benchmark,London
+london_movie4_49.jpg,london_movie4,1471.850,benchmark,London
+london_movie4_78.jpg,london_movie4,2340.850,benchmark,London
+london_movie5_63.jpg,london_movie5,1891.073,benchmark,London
+london_movie6_72.jpg,london_movie6,2161.550,benchmark,London
+london_movie4_40.jpg,london_movie4,1202.350,benchmark,London
+london_movie4_92.jpg,london_movie4,2764.350,benchmark,London
+newyork_movie1_123.jpg,newyork_movie1,3696.142,benchmark,New York
+newyork_movie2_3.jpg,newyork_movie2,91.017,benchmark,New York
+newyork_movie2_53.jpg,newyork_movie2,1591.517,benchmark,New York
+newyork_movie2_67.jpg,newyork_movie2,2016.017,benchmark,New York
+newyork_movie3_146.jpg,newyork_movie3,4385.364,benchmark,New York
+newyork_movie3_23.jpg,newyork_movie3,694.210,benchmark,New York
+newyork_movie3_55.jpg,newyork_movie3,1653.535,benchmark,New York
+newyork_movie3_76.jpg,newyork_movie3,2280.662,benchmark,New York
+newyork_movie3_93.jpg,newyork_movie3,2796.610,benchmark,New York
+newyork_movie4_10.jpg,newyork_movie4,304.283,benchmark,New York
+newyork_movie6_65.jpg,newyork_movie6,1950.683,benchmark,New York
+newyork_movie2_52.jpg,newyork_movie2,1560.517,benchmark,New York
+newyork_movie6_7.jpg,newyork_movie6,212.817,benchmark,New York
+MexicoCity_movie5_112.jpg,MexicoCity_movie5,3360.007,benchmark,Mexico City
+MexicoCity_movie1_267.jpg,MexicoCity_movie1,8010.002,benchmark,Mexico City
+MexicoCity_movie1_318.jpg,MexicoCity_movie1,9540.014,benchmark,Mexico City
+MexicoCity_movie1_345.jpg,MexicoCity_movie1,10350.006,benchmark,Mexico City
+MexicoCity_movie1_78.jpg,MexicoCity_movie1,2340.004,benchmark,Mexico City
+MexicoCity_movie1_87.jpg,MexicoCity_movie1,2610.007,benchmark,Mexico City
+MexicoCity_movie2_108.jpg,MexicoCity_movie2,3240.000,benchmark,Mexico City
+MexicoCity_movie2_158.jpg,MexicoCity_movie2,4740.000,benchmark,Mexico City
+MexicoCity_movie2_45.jpg,MexicoCity_movie2,1350.000,benchmark,Mexico City
+MexicoCity_movie2_96.jpg,MexicoCity_movie2,2880.000,benchmark,Mexico City
+MexicoCity_movie1_186.jpg,MexicoCity_movie1,5580.008,benchmark,Mexico City
+MexicoCity_movie2_124.jpg,MexicoCity_movie2,3720.000,benchmark,Mexico City
+akihabara_movie1_44.jpg,akihabara_movie1,1320.000,benchmark,Tokyo
+akihabara_movie2_51.jpg,akihabara_movie2,1530.000,benchmark,Tokyo
+akihabara_movie1_37.jpg,akihabara_movie1,1110.000,benchmark,Tokyo
+akihabara_movie5_34.jpg,akihabara_movie5,1020.002,benchmark,Tokyo
+Shanghai_movie2_7.jpg,Shanghai_movie2,210.000,benchmark,Shanghai
+Shanghai_movie2_79.jpg,Shanghai_movie2,2370.000,benchmark,Shanghai
+Shanghai_movie4_19.jpg,Shanghai_movie4,570.000,benchmark,Shanghai
+dubai_movie1_10.jpg,dubai_movie1,304.033,benchmark,Dubai
+dubai_movie2_87.jpg,dubai_movie2,2615.883,benchmark,Dubai
+dubai_movie3_39.jpg,dubai_movie3,1170.017,benchmark,Dubai
+dubai_movie4_109.jpg,dubai_movie4,3275.883,benchmark,Dubai
+dubai_movie4_129.jpg,dubai_movie4,3873.883,benchmark,Dubai
+dubai_movie2_59.jpg,dubai_movie2,1774.317,benchmark,Dubai
+london_movie1_12.jpg,london_movie1,364.817,benchmark,London
+london_movie1_27.jpg,london_movie1,810.683,benchmark,London
+london_movie2_68.jpg,london_movie2,2046.700,benchmark,London
+london_movie4_112.jpg,london_movie4,3363.850,benchmark,London
+london_movie4_35.jpg,london_movie4,1053.850,benchmark,London
+london_movie5_23.jpg,london_movie5,694.344,benchmark,London
+london_movie6_79.jpg,london_movie6,2370.550,benchmark,London
+london_movie2_124.jpg,london_movie2,3722.533,benchmark,London
+newyork_movie1_118.jpg,newyork_movie1,3540.620,benchmark,New York
+MexicoCity_movie1_132.jpg,MexicoCity_movie1,3960.006,benchmark,Mexico City
+MexicoCity_movie2_99.jpg,MexicoCity_movie2,2970.000,benchmark,Mexico City
+MexicoCity_movie2_75.jpg,MexicoCity_movie2,2250.000,benchmark,Mexico City
+akihabara_movie1_50.jpg,akihabara_movie1,1500.000,benchmark,Tokyo
+akihabara_movie2_9.jpg,akihabara_movie2,270.000,benchmark,Tokyo
+akihabara_movie3_52.jpg,akihabara_movie3,1560.033,benchmark,Tokyo
+akihabara_movie4_102.jpg,akihabara_movie4,3060.007,benchmark,Tokyo
+Shanghai_movie3_29.jpg,Shanghai_movie3,870.000,benchmark,Shanghai
+Shanghai_movie3_128.jpg,Shanghai_movie3,3840.000,benchmark,Shanghai
+Shanghai_movie1_116.jpg,Shanghai_movie1,3480.000,benchmark,Shanghai
+Shanghai_movie2_15.jpg,Shanghai_movie2,450.000,benchmark,Shanghai
+Shanghai_movie2_29.jpg,Shanghai_movie2,870.000,benchmark,Shanghai
+dubai_movie1_99.jpg,dubai_movie1,2970.700,benchmark,Dubai
+Mumbai_movie1_4.jpg,Mumbai_movie1,120.000,benchmark,Mumbai
+london_movie1_34.jpg,london_movie1,1023.483,benchmark,London
+newyork_movie1_47.jpg,newyork_movie1,1411.527,benchmark,New York
+newyork_movie4_81.jpg,newyork_movie4,2433.017,benchmark,New York
+akihabara_movie1_43.jpg,akihabara_movie1,1290.000,benchmark,Tokyo
+akihabara_movie3_22.jpg,akihabara_movie3,660.033,benchmark,Tokyo
+akihabara_movie6_46.jpg,akihabara_movie6,1380.012,benchmark,Tokyo
+akihabara_movie2_10.jpg,akihabara_movie2,300.000,benchmark,Tokyo
+akihabara_movie1_61.jpg,akihabara_movie1,1830.000,benchmark,Tokyo
+Shanghai_movie2_85.jpg,Shanghai_movie2,2550.000,benchmark,Shanghai
+dubai_movie1_1.jpg,dubai_movie1,32.033,benchmark,Dubai
+dubai_movie2_92.jpg,dubai_movie2,2765.317,benchmark,Dubai
+dubai_movie2_81.jpg,dubai_movie2,2434.017,benchmark,Dubai
+dubai_movie4_68.jpg,dubai_movie4,2041.883,benchmark,Dubai
+Mumbai_movie2_2.jpg,Mumbai_movie2,60.000,benchmark,Mumbai
+london_movie5_35.jpg,london_movie5,1050.666,benchmark,London
+london_movie3_21.jpg,london_movie3,633.633,benchmark,London
+newyork_movie4_39.jpg,newyork_movie4,1174.517,benchmark,New York
+newyork_movie1_102.jpg,newyork_movie1,3062.243,benchmark,New York
+MexicoCity_movie1_35.jpg,MexicoCity_movie1,1050.016,benchmark,Mexico City
+MexicoCity_movie1_48.jpg,MexicoCity_movie1,1440.005,benchmark,Mexico City
+MexicoCity_movie1_20.jpg,MexicoCity_movie1,600.016,benchmark,Mexico City
+akihabara_movie3_10.jpg,akihabara_movie3,300.033,train,Tokyo
+akihabara_movie3_18.jpg,akihabara_movie3,540.033,train,Tokyo
+akihabara_movie3_19.jpg,akihabara_movie3,570.033,train,Tokyo
+akihabara_movie3_21.jpg,akihabara_movie3,630.033,train,Tokyo
+akihabara_movie3_23.jpg,akihabara_movie3,690.033,train,Tokyo
+akihabara_movie3_24.jpg,akihabara_movie3,720.033,train,Tokyo
+akihabara_movie3_25.jpg,akihabara_movie3,750.033,train,Tokyo
+akihabara_movie3_26.jpg,akihabara_movie3,780.033,train,Tokyo
+akihabara_movie3_27.jpg,akihabara_movie3,810.033,train,Tokyo
+akihabara_movie3_29.jpg,akihabara_movie3,870.033,train,Tokyo
+akihabara_movie3_3.jpg,akihabara_movie3,90.033,train,Tokyo
+akihabara_movie3_38.jpg,akihabara_movie3,1140.033,train,Tokyo
+akihabara_movie3_39.jpg,akihabara_movie3,1170.033,train,Tokyo
+akihabara_movie3_4.jpg,akihabara_movie3,120.033,train,Tokyo
+akihabara_movie3_44.jpg,akihabara_movie3,1320.033,train,Tokyo
+akihabara_movie3_49.jpg,akihabara_movie3,1470.033,train,Tokyo
+akihabara_movie3_51.jpg,akihabara_movie3,1530.033,train,Tokyo
+akihabara_movie3_53.jpg,akihabara_movie3,1590.033,train,Tokyo
+akihabara_movie3_54.jpg,akihabara_movie3,1620.033,train,Tokyo
+akihabara_movie3_6.jpg,akihabara_movie3,180.033,train,Tokyo
+akihabara_movie3_7.jpg,akihabara_movie3,210.033,train,Tokyo
+akihabara_movie3_9.jpg,akihabara_movie3,270.033,train,Tokyo
+akihabara_movie4_106.jpg,akihabara_movie4,3180.010,train,Tokyo
+akihabara_movie4_110.jpg,akihabara_movie4,3300.014,train,Tokyo
+akihabara_movie4_12.jpg,akihabara_movie4,360.009,train,Tokyo
+akihabara_movie4_2.jpg,akihabara_movie4,60.010,train,Tokyo
+akihabara_movie4_21.jpg,akihabara_movie4,630.013,train,Tokyo
+akihabara_movie4_22.jpg,akihabara_movie4,660.009,train,Tokyo
+akihabara_movie4_26.jpg,akihabara_movie4,780.012,train,Tokyo
+akihabara_movie4_29.jpg,akihabara_movie4,870.002,train,Tokyo
+akihabara_movie4_33.jpg,akihabara_movie4,990.006,train,Tokyo
+akihabara_movie4_35.jpg,akihabara_movie4,1050.016,train,Tokyo
+akihabara_movie4_37.jpg,akihabara_movie4,1110.009,train,Tokyo
+akihabara_movie4_40.jpg,akihabara_movie4,1200.015,train,Tokyo
+akihabara_movie4_42.jpg,akihabara_movie4,1260.009,train,Tokyo
+akihabara_movie4_43.jpg,akihabara_movie4,1290.005,train,Tokyo
+akihabara_movie4_46.jpg,akihabara_movie4,1380.012,train,Tokyo
+akihabara_movie4_48.jpg,akihabara_movie4,1440.006,train,Tokyo
+akihabara_movie4_52.jpg,akihabara_movie4,1560.008,train,Tokyo
+akihabara_movie4_53.jpg,akihabara_movie4,1590.006,train,Tokyo
+akihabara_movie4_55.jpg,akihabara_movie4,1650.015,train,Tokyo
+akihabara_movie4_58.jpg,akihabara_movie4,1740.005,train,Tokyo
+akihabara_movie4_6.jpg,akihabara_movie4,180.014,train,Tokyo
+akihabara_movie4_62.jpg,akihabara_movie4,1860.008,train,Tokyo
+akihabara_movie4_63.jpg,akihabara_movie4,1890.005,train,Tokyo
+akihabara_movie4_68.jpg,akihabara_movie4,2040.005,train,Tokyo
+akihabara_movie4_7.jpg,akihabara_movie4,210.010,train,Tokyo
+akihabara_movie4_73.jpg,akihabara_movie4,2190.004,train,Tokyo
+akihabara_movie4_76.jpg,akihabara_movie4,2280.011,train,Tokyo
+akihabara_movie4_80.jpg,akihabara_movie4,2400.014,train,Tokyo
+akihabara_movie4_81.jpg,akihabara_movie4,2430.011,train,Tokyo
+akihabara_movie4_83.jpg,akihabara_movie4,2490.004,train,Tokyo
+akihabara_movie4_88.jpg,akihabara_movie4,2640.004,train,Tokyo
+akihabara_movie4_92.jpg,akihabara_movie4,2760.007,train,Tokyo
+akihabara_movie4_94.jpg,akihabara_movie4,2820.001,train,Tokyo
+akihabara_movie4_96.jpg,akihabara_movie4,2880.011,train,Tokyo
+akihabara_movie4_98.jpg,akihabara_movie4,2940.004,train,Tokyo
+akihabara_movie5_1.jpg,akihabara_movie5,30.014,train,Tokyo
+akihabara_movie5_13.jpg,akihabara_movie5,390.007,train,Tokyo
+akihabara_movie5_18.jpg,akihabara_movie5,540.006,train,Tokyo
+akihabara_movie5_19.jpg,akihabara_movie5,570.003,train,Tokyo
+akihabara_movie5_22.jpg,akihabara_movie5,660.009,train,Tokyo
+akihabara_movie5_24.jpg,akihabara_movie5,720.002,train,Tokyo
+akihabara_movie5_26.jpg,akihabara_movie5,780.012,train,Tokyo
+akihabara_movie5_29.jpg,akihabara_movie5,870.002,train,Tokyo
+akihabara_movie5_3.jpg,akihabara_movie5,90.006,train,Tokyo
+akihabara_movie5_36.jpg,akihabara_movie5,1080.012,train,Tokyo
+akihabara_movie5_37.jpg,akihabara_movie5,1110.009,train,Tokyo
+akihabara_movie5_38.jpg,akihabara_movie5,1140.005,train,Tokyo
+akihabara_movie5_39.jpg,akihabara_movie5,1170.003,train,Tokyo
+akihabara_movie5_4.jpg,akihabara_movie5,120.003,train,Tokyo
+akihabara_movie5_43.jpg,akihabara_movie5,1290.005,train,Tokyo
+akihabara_movie5_48.jpg,akihabara_movie5,1440.006,train,Tokyo
+akihabara_movie5_5.jpg,akihabara_movie5,150.000,train,Tokyo
+akihabara_movie5_52.jpg,akihabara_movie5,1560.008,train,Tokyo
+akihabara_movie5_54.jpg,akihabara_movie5,1620.002,train,Tokyo
+akihabara_movie5_55.jpg,akihabara_movie5,1650.015,train,Tokyo
+akihabara_movie5_57.jpg,akihabara_movie5,1710.008,train,Tokyo
+akihabara_movie5_58.jpg,akihabara_movie5,1740.005,train,Tokyo
+akihabara_movie5_6.jpg,akihabara_movie5,180.014,train,Tokyo
+akihabara_movie5_7.jpg,akihabara_movie5,210.010,train,Tokyo
+akihabara_movie5_8.jpg,akihabara_movie5,240.006,train,Tokyo
+akihabara_movie6_15.jpg,akihabara_movie6,450.000,train,Tokyo
+akihabara_movie6_18.jpg,akihabara_movie6,540.006,train,Tokyo
+akihabara_movie6_28.jpg,akihabara_movie6,840.006,train,Tokyo
+akihabara_movie6_29.jpg,akihabara_movie6,870.002,train,Tokyo
+akihabara_movie6_31.jpg,akihabara_movie6,930.012,train,Tokyo
+akihabara_movie6_33.jpg,akihabara_movie6,990.006,train,Tokyo
+akihabara_movie6_39.jpg,akihabara_movie6,1170.002,train,Tokyo
+akihabara_movie6_40.jpg,akihabara_movie6,1200.015,train,Tokyo
+akihabara_movie6_44.jpg,akihabara_movie6,1320.002,train,Tokyo
+akihabara_movie6_45.jpg,akihabara_movie6,1350.015,train,Tokyo
+akihabara_movie6_49.jpg,akihabara_movie6,1470.002,train,Tokyo
+akihabara_movie6_52.jpg,akihabara_movie6,1560.008,train,Tokyo
+akihabara_movie6_57.jpg,akihabara_movie6,1710.008,train,Tokyo
+akihabara_movie6_60.jpg,akihabara_movie6,1800.015,train,Tokyo
+akihabara_movie6_65.jpg,akihabara_movie6,1950.015,train,Tokyo
+akihabara_movie6_66.jpg,akihabara_movie6,1980.011,train,Tokyo
+akihabara_movie6_67.jpg,akihabara_movie6,2010.008,train,Tokyo
+akihabara_movie6_69.jpg,akihabara_movie6,2070.001,train,Tokyo
+akihabara_movie6_71.jpg,akihabara_movie6,2130.011,train,Tokyo
+akihabara_movie6_73.jpg,akihabara_movie6,2190.004,train,Tokyo
+akihabara_movie6_75.jpg,akihabara_movie6,2250.014,train,Tokyo
+akihabara_movie6_77.jpg,akihabara_movie6,2310.008,train,Tokyo
+akihabara_movie6_8.jpg,akihabara_movie6,240.006,train,Tokyo
+akihabara_movie6_85.jpg,akihabara_movie6,2550.014,train,Tokyo
+akihabara_movie6_9.jpg,akihabara_movie6,270.003,train,Tokyo
+akihabara_movie7_12.jpg,akihabara_movie7,360.010,train,Tokyo
+akihabara_movie7_15.jpg,akihabara_movie7,450.016,train,Tokyo
+akihabara_movie7_19.jpg,akihabara_movie7,570.003,train,Tokyo
+akihabara_movie7_22.jpg,akihabara_movie7,660.009,train,Tokyo
+akihabara_movie7_23.jpg,akihabara_movie7,690.006,train,Tokyo
+akihabara_movie7_24.jpg,akihabara_movie7,720.003,train,Tokyo
+akihabara_movie7_26.jpg,akihabara_movie7,780.013,train,Tokyo
+akihabara_movie7_3.jpg,akihabara_movie7,90.007,train,Tokyo
+akihabara_movie7_4.jpg,akihabara_movie7,120.003,train,Tokyo
+akihabara_movie7_5.jpg,akihabara_movie7,150.000,train,Tokyo
+akihabara_movie7_8.jpg,akihabara_movie7,240.006,train,Tokyo
+Shanghai_movie1_10.jpg,Shanghai_movie1,300.000,train,Shanghai
+Shanghai_movie1_100.jpg,Shanghai_movie1,3000.000,train,Shanghai
+Shanghai_movie1_102.jpg,Shanghai_movie1,3060.000,train,Shanghai
+Shanghai_movie1_105.jpg,Shanghai_movie1,3150.000,train,Shanghai
+Shanghai_movie1_108.jpg,Shanghai_movie1,3240.000,train,Shanghai
+Shanghai_movie1_111.jpg,Shanghai_movie1,3330.000,train,Shanghai
+Shanghai_movie1_113.jpg,Shanghai_movie1,3390.000,train,Shanghai
+Shanghai_movie1_114.jpg,Shanghai_movie1,3420.000,train,Shanghai
+Shanghai_movie1_118.jpg,Shanghai_movie1,3540.000,train,Shanghai
+Shanghai_movie1_119.jpg,Shanghai_movie1,3570.000,train,Shanghai
+Shanghai_movie1_12.jpg,Shanghai_movie1,360.000,train,Shanghai
+Shanghai_movie1_120.jpg,Shanghai_movie1,3600.000,train,Shanghai
+Shanghai_movie1_122.jpg,Shanghai_movie1,3660.000,train,Shanghai
+Shanghai_movie1_124.jpg,Shanghai_movie1,3720.000,train,Shanghai
+Shanghai_movie1_16.jpg,Shanghai_movie1,480.000,train,Shanghai
+Shanghai_movie1_18.jpg,Shanghai_movie1,540.000,train,Shanghai
+Shanghai_movie1_19.jpg,Shanghai_movie1,570.000,train,Shanghai
+Shanghai_movie1_20.jpg,Shanghai_movie1,600.000,train,Shanghai
+Shanghai_movie1_22.jpg,Shanghai_movie1,660.000,train,Shanghai
+Shanghai_movie1_25.jpg,Shanghai_movie1,750.000,train,Shanghai
+Shanghai_movie1_27.jpg,Shanghai_movie1,810.000,train,Shanghai
+Shanghai_movie1_30.jpg,Shanghai_movie1,900.000,train,Shanghai
+Shanghai_movie1_36.jpg,Shanghai_movie1,1080.000,train,Shanghai
+Shanghai_movie1_37.jpg,Shanghai_movie1,1110.000,train,Shanghai
+Shanghai_movie1_38.jpg,Shanghai_movie1,1140.000,train,Shanghai
+Shanghai_movie1_4.jpg,Shanghai_movie1,120.000,train,Shanghai
+Shanghai_movie1_40.jpg,Shanghai_movie1,1200.000,train,Shanghai
+Shanghai_movie1_43.jpg,Shanghai_movie1,1290.000,train,Shanghai
+Shanghai_movie1_44.jpg,Shanghai_movie1,1320.000,train,Shanghai
+Shanghai_movie1_45.jpg,Shanghai_movie1,1350.000,train,Shanghai
+Shanghai_movie1_5.jpg,Shanghai_movie1,150.000,train,Shanghai
+Shanghai_movie1_54.jpg,Shanghai_movie1,1620.000,train,Shanghai
+Shanghai_movie1_56.jpg,Shanghai_movie1,1680.000,train,Shanghai
+Shanghai_movie1_66.jpg,Shanghai_movie1,1980.000,train,Shanghai
+Shanghai_movie1_68.jpg,Shanghai_movie1,2040.000,train,Shanghai
+Shanghai_movie1_70.jpg,Shanghai_movie1,2100.000,train,Shanghai
+Shanghai_movie1_71.jpg,Shanghai_movie1,2130.000,train,Shanghai
+Shanghai_movie1_72.jpg,Shanghai_movie1,2160.000,train,Shanghai
+Shanghai_movie1_74.jpg,Shanghai_movie1,2220.000,train,Shanghai
+Shanghai_movie1_75.jpg,Shanghai_movie1,2250.000,train,Shanghai
+Shanghai_movie1_76.jpg,Shanghai_movie1,2280.000,train,Shanghai
+Shanghai_movie1_77.jpg,Shanghai_movie1,2310.000,train,Shanghai
+Shanghai_movie1_80.jpg,Shanghai_movie1,2400.000,train,Shanghai
+Shanghai_movie1_81.jpg,Shanghai_movie1,2430.000,train,Shanghai
+Shanghai_movie1_83.jpg,Shanghai_movie1,2490.000,train,Shanghai
+Shanghai_movie1_85.jpg,Shanghai_movie1,2550.000,train,Shanghai
+Shanghai_movie1_86.jpg,Shanghai_movie1,2580.000,train,Shanghai
+Shanghai_movie1_89.jpg,Shanghai_movie1,2670.000,train,Shanghai
+Shanghai_movie1_91.jpg,Shanghai_movie1,2730.000,train,Shanghai
+Shanghai_movie1_93.jpg,Shanghai_movie1,2790.000,train,Shanghai
+Shanghai_movie1_95.jpg,Shanghai_movie1,2850.000,train,Shanghai
+Shanghai_movie2_101.jpg,Shanghai_movie2,3030.000,train,Shanghai
+Shanghai_movie2_102.jpg,Shanghai_movie2,3060.000,train,Shanghai
+Shanghai_movie2_106.jpg,Shanghai_movie2,3180.000,train,Shanghai
+Shanghai_movie2_108.jpg,Shanghai_movie2,3240.000,train,Shanghai
+Shanghai_movie2_115.jpg,Shanghai_movie2,3450.000,train,Shanghai
+Shanghai_movie2_120.jpg,Shanghai_movie2,3600.000,train,Shanghai
+Shanghai_movie2_121.jpg,Shanghai_movie2,3630.000,train,Shanghai
+Shanghai_movie2_123.jpg,Shanghai_movie2,3690.000,train,Shanghai
+Shanghai_movie2_124.jpg,Shanghai_movie2,3720.000,train,Shanghai
+Shanghai_movie2_13.jpg,Shanghai_movie2,390.000,train,Shanghai
+Shanghai_movie2_16.jpg,Shanghai_movie2,480.000,train,Shanghai
+Shanghai_movie2_19.jpg,Shanghai_movie2,570.000,train,Shanghai
+Shanghai_movie2_20.jpg,Shanghai_movie2,600.000,train,Shanghai
+Shanghai_movie2_23.jpg,Shanghai_movie2,690.000,train,Shanghai
+Shanghai_movie2_25.jpg,Shanghai_movie2,750.000,train,Shanghai
+Shanghai_movie2_27.jpg,Shanghai_movie2,810.000,train,Shanghai
+Shanghai_movie2_33.jpg,Shanghai_movie2,990.000,train,Shanghai
+Shanghai_movie2_35.jpg,Shanghai_movie2,1050.000,train,Shanghai
+Shanghai_movie2_36.jpg,Shanghai_movie2,1080.000,train,Shanghai
+Shanghai_movie2_40.jpg,Shanghai_movie2,1200.000,train,Shanghai
+Shanghai_movie2_41.jpg,Shanghai_movie2,1230.000,train,Shanghai
+Shanghai_movie2_42.jpg,Shanghai_movie2,1260.000,train,Shanghai
+Shanghai_movie2_45.jpg,Shanghai_movie2,1350.000,train,Shanghai
+Shanghai_movie2_54.jpg,Shanghai_movie2,1620.000,train,Shanghai
+Shanghai_movie2_57.jpg,Shanghai_movie2,1710.000,train,Shanghai
+Shanghai_movie2_58.jpg,Shanghai_movie2,1740.000,train,Shanghai
+Shanghai_movie2_59.jpg,Shanghai_movie2,1770.000,train,Shanghai
+Shanghai_movie2_63.jpg,Shanghai_movie2,1890.000,train,Shanghai
+Shanghai_movie2_70.jpg,Shanghai_movie2,2100.000,train,Shanghai
+Shanghai_movie2_78.jpg,Shanghai_movie2,2340.000,train,Shanghai
+Shanghai_movie2_82.jpg,Shanghai_movie2,2460.000,train,Shanghai
+Shanghai_movie2_83.jpg,Shanghai_movie2,2490.000,train,Shanghai
+Shanghai_movie2_9.jpg,Shanghai_movie2,270.000,train,Shanghai
+Shanghai_movie2_92.jpg,Shanghai_movie2,2760.000,train,Shanghai
+Shanghai_movie2_94.jpg,Shanghai_movie2,2820.000,train,Shanghai
+Shanghai_movie2_99.jpg,Shanghai_movie2,2970.000,train,Shanghai
+Shanghai_movie4_10.jpg,Shanghai_movie4,300.000,train,Shanghai
+Shanghai_movie4_108.jpg,Shanghai_movie4,3240.000,train,Shanghai
+Shanghai_movie4_11.jpg,Shanghai_movie4,330.000,train,Shanghai
+Shanghai_movie4_112.jpg,Shanghai_movie4,3360.000,train,Shanghai
+Shanghai_movie4_114.jpg,Shanghai_movie4,3420.000,train,Shanghai
+Shanghai_movie4_116.jpg,Shanghai_movie4,3480.000,train,Shanghai
+Shanghai_movie4_117.jpg,Shanghai_movie4,3510.000,train,Shanghai
+Shanghai_movie4_118.jpg,Shanghai_movie4,3540.000,train,Shanghai
+Shanghai_movie4_12.jpg,Shanghai_movie4,360.000,train,Shanghai
+Shanghai_movie4_121.jpg,Shanghai_movie4,3630.000,train,Shanghai
+Shanghai_movie4_122.jpg,Shanghai_movie4,3660.000,train,Shanghai
+Shanghai_movie4_123.jpg,Shanghai_movie4,3690.000,train,Shanghai
+Shanghai_movie4_125.jpg,Shanghai_movie4,3750.000,train,Shanghai
+Shanghai_movie4_126.jpg,Shanghai_movie4,3780.000,train,Shanghai
+Shanghai_movie4_129.jpg,Shanghai_movie4,3870.000,train,Shanghai
+Shanghai_movie4_17.jpg,Shanghai_movie4,510.000,train,Shanghai
+Shanghai_movie4_2.jpg,Shanghai_movie4,60.000,train,Shanghai
+Shanghai_movie4_23.jpg,Shanghai_movie4,690.000,train,Shanghai
+Shanghai_movie4_24.jpg,Shanghai_movie4,720.000,train,Shanghai
+Shanghai_movie4_26.jpg,Shanghai_movie4,780.000,train,Shanghai
+Shanghai_movie4_30.jpg,Shanghai_movie4,900.000,train,Shanghai
+Shanghai_movie4_33.jpg,Shanghai_movie4,990.000,train,Shanghai
+Shanghai_movie4_34.jpg,Shanghai_movie4,1020.000,train,Shanghai
+Shanghai_movie4_35.jpg,Shanghai_movie4,1050.000,train,Shanghai
+Shanghai_movie4_39.jpg,Shanghai_movie4,1170.000,train,Shanghai
+Shanghai_movie4_4.jpg,Shanghai_movie4,120.000,train,Shanghai
+Shanghai_movie4_44.jpg,Shanghai_movie4,1320.000,train,Shanghai
+Shanghai_movie4_45.jpg,Shanghai_movie4,1350.000,train,Shanghai
+Shanghai_movie4_47.jpg,Shanghai_movie4,1410.000,train,Shanghai
+Shanghai_movie4_48.jpg,Shanghai_movie4,1440.000,train,Shanghai
+Shanghai_movie4_49.jpg,Shanghai_movie4,1470.000,train,Shanghai
+Shanghai_movie4_50.jpg,Shanghai_movie4,1500.000,train,Shanghai
+Shanghai_movie4_51.jpg,Shanghai_movie4,1530.000,train,Shanghai
+Shanghai_movie4_60.jpg,Shanghai_movie4,1800.000,train,Shanghai
+Shanghai_movie4_61.jpg,Shanghai_movie4,1830.000,train,Shanghai
+Shanghai_movie4_63.jpg,Shanghai_movie4,1890.000,train,Shanghai
+Shanghai_movie4_65.jpg,Shanghai_movie4,1950.000,train,Shanghai
+Shanghai_movie4_67.jpg,Shanghai_movie4,2010.000,train,Shanghai
+Shanghai_movie4_74.jpg,Shanghai_movie4,2220.000,train,Shanghai
+Shanghai_movie4_75.jpg,Shanghai_movie4,2250.000,train,Shanghai
+Shanghai_movie4_76.jpg,Shanghai_movie4,2280.000,train,Shanghai
+Shanghai_movie4_80.jpg,Shanghai_movie4,2400.000,train,Shanghai
+Shanghai_movie4_81.jpg,Shanghai_movie4,2430.000,train,Shanghai
+Shanghai_movie4_83.jpg,Shanghai_movie4,2490.000,train,Shanghai
+Shanghai_movie4_84.jpg,Shanghai_movie4,2520.000,train,Shanghai
+Shanghai_movie4_85.jpg,Shanghai_movie4,2550.000,train,Shanghai
+Shanghai_movie4_86.jpg,Shanghai_movie4,2580.000,train,Shanghai
+Shanghai_movie4_87.jpg,Shanghai_movie4,2610.000,train,Shanghai
+Shanghai_movie4_91.jpg,Shanghai_movie4,2730.000,train,Shanghai
+Shanghai_movie4_92.jpg,Shanghai_movie4,2760.000,train,Shanghai
+Shanghai_movie4_93.jpg,Shanghai_movie4,2790.000,train,Shanghai
+Shanghai_movie4_94.jpg,Shanghai_movie4,2820.000,train,Shanghai
+Shanghai_movie4_96.jpg,Shanghai_movie4,2880.000,train,Shanghai
+Shanghai_movie4_97.jpg,Shanghai_movie4,2910.000,train,Shanghai
+dubai_movie2_1.jpg,dubai_movie2,30.050,train,Dubai
+dubai_movie2_10.jpg,dubai_movie2,305.550,train,Dubai
+dubai_movie2_103.jpg,dubai_movie2,3090.550,train,Dubai
+dubai_movie2_104.jpg,dubai_movie2,3124.017,train,Dubai
+dubai_movie2_108.jpg,dubai_movie2,3246.317,train,Dubai
+dubai_movie2_11.jpg,dubai_movie2,335.883,train,Dubai
+dubai_movie2_114.jpg,dubai_movie2,3422.317,train,Dubai
+dubai_movie2_115.jpg,dubai_movie2,3451.083,train,Dubai
+dubai_movie2_12.jpg,dubai_movie2,360.117,train,Dubai
+dubai_movie2_13.jpg,dubai_movie2,396.150,train,Dubai
+dubai_movie2_16.jpg,dubai_movie2,485.750,train,Dubai
+dubai_movie2_20.jpg,dubai_movie2,605.850,train,Dubai
+dubai_movie2_26.jpg,dubai_movie2,786.017,train,Dubai
+dubai_movie2_27.jpg,dubai_movie2,815.883,train,Dubai
+dubai_movie2_30.jpg,dubai_movie2,906.017,train,Dubai
+dubai_movie2_32.jpg,dubai_movie2,960.217,train,Dubai
+dubai_movie2_33.jpg,dubai_movie2,990.817,train,Dubai
+dubai_movie2_36.jpg,dubai_movie2,1084.883,train,Dubai
+dubai_movie2_37.jpg,dubai_movie2,1110.317,train,Dubai
+dubai_movie2_38.jpg,dubai_movie2,1145.750,train,Dubai
+dubai_movie2_40.jpg,dubai_movie2,1203.950,train,Dubai
+dubai_movie2_41.jpg,dubai_movie2,1230.817,train,Dubai
+dubai_movie2_44.jpg,dubai_movie2,1326.817,train,Dubai
+dubai_movie2_46.jpg,dubai_movie2,1385.317,train,Dubai
+dubai_movie2_49.jpg,dubai_movie2,1471.083,train,Dubai
+dubai_movie2_56.jpg,dubai_movie2,1683.317,train,Dubai
+dubai_movie2_58.jpg,dubai_movie2,1743.317,train,Dubai
+dubai_movie2_64.jpg,dubai_movie2,1920.150,train,Dubai
+dubai_movie2_65.jpg,dubai_movie2,1952.683,train,Dubai
+dubai_movie2_66.jpg,dubai_movie2,1982.317,train,Dubai
+dubai_movie2_69.jpg,dubai_movie2,2075.883,train,Dubai
+dubai_movie2_72.jpg,dubai_movie2,2165.417,train,Dubai
+dubai_movie2_73.jpg,dubai_movie2,2195.883,train,Dubai
+dubai_movie2_74.jpg,dubai_movie2,2222.317,train,Dubai
+dubai_movie2_78.jpg,dubai_movie2,2344.083,train,Dubai
+dubai_movie2_79.jpg,dubai_movie2,2372.117,train,Dubai
+dubai_movie2_88.jpg,dubai_movie2,2646.017,train,Dubai
+dubai_movie2_89.jpg,dubai_movie2,2670.283,train,Dubai
+dubai_movie2_93.jpg,dubai_movie2,2790.817,train,Dubai
+dubai_movie2_94.jpg,dubai_movie2,2825.317,train,Dubai
+dubai_movie2_96.jpg,dubai_movie2,2881.517,train,Dubai
+dubai_movie2_98.jpg,dubai_movie2,2945.583,train,Dubai
+dubai_movie3_10.jpg,dubai_movie3,300.017,train,Dubai
+dubai_movie3_15.jpg,dubai_movie3,450.017,train,Dubai
+dubai_movie3_19.jpg,dubai_movie3,570.017,train,Dubai
+dubai_movie3_26.jpg,dubai_movie3,780.017,train,Dubai
+dubai_movie3_32.jpg,dubai_movie3,960.017,train,Dubai
+dubai_movie3_36.jpg,dubai_movie3,1080.017,train,Dubai
+dubai_movie3_4.jpg,dubai_movie3,120.017,train,Dubai
+dubai_movie3_41.jpg,dubai_movie3,1230.017,train,Dubai
+dubai_movie3_42.jpg,dubai_movie3,1260.017,train,Dubai
+dubai_movie3_46.jpg,dubai_movie3,1380.017,train,Dubai
+dubai_movie3_49.jpg,dubai_movie3,1470.017,train,Dubai
+dubai_movie3_50.jpg,dubai_movie3,1500.017,train,Dubai
+dubai_movie3_52.jpg,dubai_movie3,1560.017,train,Dubai
+dubai_movie3_54.jpg,dubai_movie3,1620.017,train,Dubai
+dubai_movie3_56.jpg,dubai_movie3,1680.017,train,Dubai
+dubai_movie4_100.jpg,dubai_movie4,3001.883,train,Dubai
+dubai_movie4_101.jpg,dubai_movie4,3032.883,train,Dubai
+dubai_movie4_102.jpg,dubai_movie4,3061.883,train,Dubai
+dubai_movie4_103.jpg,dubai_movie4,3093.883,train,Dubai
+dubai_movie4_108.jpg,dubai_movie4,3241.883,train,Dubai
+dubai_movie4_113.jpg,dubai_movie4,3393.883,train,Dubai
+dubai_movie4_115.jpg,dubai_movie4,3451.050,train,Dubai
+dubai_movie4_116.jpg,dubai_movie4,3485.883,train,Dubai
+dubai_movie4_12.jpg,dubai_movie4,363.917,train,Dubai
+dubai_movie4_121.jpg,dubai_movie4,3631.883,train,Dubai
+dubai_movie4_123.jpg,dubai_movie4,3692.883,train,Dubai
+dubai_movie4_124.jpg,dubai_movie4,3723.450,train,Dubai
+dubai_movie4_126.jpg,dubai_movie4,3783.883,train,Dubai
+dubai_movie4_127.jpg,dubai_movie4,3813.883,train,Dubai
+dubai_movie4_128.jpg,dubai_movie4,3845.883,train,Dubai
+dubai_movie4_130.jpg,dubai_movie4,3903.183,train,Dubai
+dubai_movie4_133.jpg,dubai_movie4,3996.883,train,Dubai
+dubai_movie4_134.jpg,dubai_movie4,4025.883,train,Dubai
+dubai_movie4_139.jpg,dubai_movie4,4173.883,train,Dubai
+dubai_movie4_143.jpg,dubai_movie4,4293.883,train,Dubai
+dubai_movie4_148.jpg,dubai_movie4,4442.883,train,Dubai
+dubai_movie4_149.jpg,dubai_movie4,4476.883,train,Dubai
+dubai_movie4_150.jpg,dubai_movie4,4501.883,train,Dubai
+dubai_movie4_152.jpg,dubai_movie4,4561.883,train,Dubai
+dubai_movie4_155.jpg,dubai_movie4,4651.917,train,Dubai
+dubai_movie4_156.jpg,dubai_movie4,4685.883,train,Dubai
+dubai_movie4_157.jpg,dubai_movie4,4713.883,train,Dubai
+dubai_movie4_159.jpg,dubai_movie4,4774.883,train,Dubai
+dubai_movie4_160.jpg,dubai_movie4,4804.883,train,Dubai
+dubai_movie4_164.jpg,dubai_movie4,4926.017,train,Dubai
+dubai_movie4_166.jpg,dubai_movie4,4985.883,train,Dubai
+dubai_movie4_167.jpg,dubai_movie4,5013.883,train,Dubai
+dubai_movie4_169.jpg,dubai_movie4,5073.883,train,Dubai
+dubai_movie4_172.jpg,dubai_movie4,5161.883,train,Dubai
+dubai_movie4_173.jpg,dubai_movie4,5193.883,train,Dubai
+dubai_movie4_177.jpg,dubai_movie4,5311.883,train,Dubai
+dubai_movie4_178.jpg,dubai_movie4,5341.883,train,Dubai
+dubai_movie4_18.jpg,dubai_movie4,545.883,train,Dubai
+dubai_movie4_180.jpg,dubai_movie4,5400.883,train,Dubai
+dubai_movie4_20.jpg,dubai_movie4,605.883,train,Dubai
+dubai_movie4_28.jpg,dubai_movie4,840.217,train,Dubai
+dubai_movie4_29.jpg,dubai_movie4,872.883,train,Dubai
+dubai_movie4_31.jpg,dubai_movie4,933.883,train,Dubai
+dubai_movie4_32.jpg,dubai_movie4,960.183,train,Dubai
+dubai_movie4_36.jpg,dubai_movie4,1085.883,train,Dubai
+dubai_movie4_40.jpg,dubai_movie4,1200.883,train,Dubai
+dubai_movie4_42.jpg,dubai_movie4,1265.883,train,Dubai
+dubai_movie4_45.jpg,dubai_movie4,1353.883,train,Dubai
+dubai_movie4_47.jpg,dubai_movie4,1415.050,train,Dubai
+dubai_movie4_50.jpg,dubai_movie4,1502.883,train,Dubai
+dubai_movie4_6.jpg,dubai_movie4,185.883,train,Dubai
+dubai_movie4_62.jpg,dubai_movie4,1862.883,train,Dubai
+dubai_movie4_69.jpg,dubai_movie4,2073.883,train,Dubai
+dubai_movie4_70.jpg,dubai_movie4,2105.883,train,Dubai
+dubai_movie4_71.jpg,dubai_movie4,2135.683,train,Dubai
+dubai_movie4_72.jpg,dubai_movie4,2161.883,train,Dubai
+dubai_movie4_73.jpg,dubai_movie4,2191.683,train,Dubai
+dubai_movie4_76.jpg,dubai_movie4,2285.883,train,Dubai
+dubai_movie4_79.jpg,dubai_movie4,2375.917,train,Dubai
+dubai_movie4_8.jpg,dubai_movie4,241.883,train,Dubai
+dubai_movie4_81.jpg,dubai_movie4,2433.883,train,Dubai
+dubai_movie4_84.jpg,dubai_movie4,2521.883,train,Dubai
+dubai_movie4_88.jpg,dubai_movie4,2641.883,train,Dubai
+dubai_movie4_89.jpg,dubai_movie4,2675.050,train,Dubai
+dubai_movie4_90.jpg,dubai_movie4,2701.883,train,Dubai
+dubai_movie4_91.jpg,dubai_movie4,2733.883,train,Dubai
+dubai_movie4_93.jpg,dubai_movie4,2793.883,train,Dubai
+dubai_movie4_94.jpg,dubai_movie4,2821.883,train,Dubai
+dubai_movie4_97.jpg,dubai_movie4,2914.883,train,Dubai
+dubai_movie4_99.jpg,dubai_movie4,2973.883,train,Dubai
+Mumbai_movie2_1.jpg,Mumbai_movie2,30.000,train,Mumbai
+Mumbai_movie2_11.jpg,Mumbai_movie2,330.000,train,Mumbai
+Mumbai_movie2_14.jpg,Mumbai_movie2,420.000,train,Mumbai
+Mumbai_movie2_16.jpg,Mumbai_movie2,480.000,train,Mumbai
+Mumbai_movie2_17.jpg,Mumbai_movie2,510.000,train,Mumbai
+Mumbai_movie2_19.jpg,Mumbai_movie2,570.000,train,Mumbai
+Mumbai_movie2_20.jpg,Mumbai_movie2,600.000,train,Mumbai
+Mumbai_movie2_23.jpg,Mumbai_movie2,690.000,train,Mumbai
+Mumbai_movie2_24.jpg,Mumbai_movie2,720.000,train,Mumbai
+Mumbai_movie2_25.jpg,Mumbai_movie2,750.000,train,Mumbai
+Mumbai_movie2_26.jpg,Mumbai_movie2,780.000,train,Mumbai
+Mumbai_movie2_28.jpg,Mumbai_movie2,840.000,train,Mumbai
+Mumbai_movie2_29.jpg,Mumbai_movie2,870.000,train,Mumbai
+Mumbai_movie2_36.jpg,Mumbai_movie2,1080.000,train,Mumbai
+Mumbai_movie2_40.jpg,Mumbai_movie2,1200.000,train,Mumbai
+Mumbai_movie2_41.jpg,Mumbai_movie2,1230.000,train,Mumbai
+Mumbai_movie2_43.jpg,Mumbai_movie2,1290.000,train,Mumbai
+Mumbai_movie2_48.jpg,Mumbai_movie2,1440.000,train,Mumbai
+Mumbai_movie2_49.jpg,Mumbai_movie2,1470.000,train,Mumbai
+Mumbai_movie2_6.jpg,Mumbai_movie2,180.000,train,Mumbai
+Mumbai_movie2_9.jpg,Mumbai_movie2,270.000,train,Mumbai
+Mumbai_movie3_1.jpg,Mumbai_movie3,30.013,train,Mumbai
+Mumbai_movie3_12.jpg,Mumbai_movie3,360.010,train,Mumbai
+Mumbai_movie3_13.jpg,Mumbai_movie3,390.006,train,Mumbai
+Mumbai_movie3_14.jpg,Mumbai_movie3,420.003,train,Mumbai
+Mumbai_movie3_16.jpg,Mumbai_movie3,480.013,train,Mumbai
+Mumbai_movie3_17.jpg,Mumbai_movie3,510.010,train,Mumbai
+Mumbai_movie3_19.jpg,Mumbai_movie3,570.003,train,Mumbai
+Mumbai_movie3_21.jpg,Mumbai_movie3,630.013,train,Mumbai
+Mumbai_movie3_22.jpg,Mumbai_movie3,660.009,train,Mumbai
+Mumbai_movie3_24.jpg,Mumbai_movie3,720.003,train,Mumbai
+Mumbai_movie3_27.jpg,Mumbai_movie3,810.009,train,Mumbai
+Mumbai_movie3_31.jpg,Mumbai_movie3,930.012,train,Mumbai
+Mumbai_movie3_33.jpg,Mumbai_movie3,990.006,train,Mumbai
+Mumbai_movie3_38.jpg,Mumbai_movie3,1140.006,train,Mumbai
+Mumbai_movie3_4.jpg,Mumbai_movie3,120.003,train,Mumbai
+Mumbai_movie3_40.jpg,Mumbai_movie3,1200.015,train,Mumbai
+Mumbai_movie3_41.jpg,Mumbai_movie3,1230.012,train,Mumbai
+Mumbai_movie3_42.jpg,Mumbai_movie3,1260.009,train,Mumbai
+Mumbai_movie3_43.jpg,Mumbai_movie3,1290.005,train,Mumbai
+Mumbai_movie3_49.jpg,Mumbai_movie3,1470.002,train,Mumbai
+Mumbai_movie3_57.jpg,Mumbai_movie3,1710.008,train,Mumbai
+Mumbai_movie3_60.jpg,Mumbai_movie3,1800.015,train,Mumbai
+Mumbai_movie3_61.jpg,Mumbai_movie3,1830.012,train,Mumbai
+Mumbai_movie3_7.jpg,Mumbai_movie3,210.010,train,Mumbai
+Mumbai_movie3_9.jpg,Mumbai_movie3,270.003,train,Mumbai
+london_movie2_105.jpg,london_movie2,3151.633,train,London
+london_movie2_112.jpg,london_movie2,3366.000,train,London
+london_movie2_119.jpg,london_movie2,3572.567,train,London
+london_movie2_126.jpg,london_movie2,3785.367,train,London
+london_movie2_132.jpg,london_movie2,3960.833,train,London
+london_movie2_134.jpg,london_movie2,4025.067,train,London
+london_movie2_135.jpg,london_movie2,4053.100,train,London
+london_movie2_136.jpg,london_movie2,4081.733,train,London
+london_movie2_15.jpg,london_movie2,450.967,train,London
+london_movie2_18.jpg,london_movie2,540.833,train,London
+london_movie2_19.jpg,london_movie2,570.500,train,London
+london_movie2_24.jpg,london_movie2,724.133,train,London
+london_movie2_32.jpg,london_movie2,962.200,train,London
+london_movie2_35.jpg,london_movie2,1054.567,train,London
+london_movie2_36.jpg,london_movie2,1080.833,train,London
+london_movie2_37.jpg,london_movie2,1114.433,train,London
+london_movie2_38.jpg,london_movie2,1142.367,train,London
+london_movie2_43.jpg,london_movie2,1291.100,train,London
+london_movie2_45.jpg,london_movie2,1352.833,train,London
+london_movie2_46.jpg,london_movie2,1384.833,train,London
+london_movie2_5.jpg,london_movie2,153.500,train,London
+london_movie2_50.jpg,london_movie2,1506.433,train,London
+london_movie2_53.jpg,london_movie2,1590.700,train,London
+london_movie2_54.jpg,london_movie2,1621.100,train,London
+london_movie2_6.jpg,london_movie2,182.167,train,London
+london_movie2_60.jpg,london_movie2,1803.500,train,London
+london_movie2_63.jpg,london_movie2,1894.467,train,London
+london_movie2_67.jpg,london_movie2,2016.300,train,London
+london_movie2_69.jpg,london_movie2,2074.967,train,London
+london_movie2_72.jpg,london_movie2,2164.033,train,London
+london_movie2_77.jpg,london_movie2,2311.533,train,London
+london_movie2_83.jpg,london_movie2,2492.567,train,London
+london_movie2_87.jpg,london_movie2,2614.167,train,London
+london_movie2_88.jpg,london_movie2,2640.300,train,London
+london_movie2_89.jpg,london_movie2,2672.300,train,London
+london_movie2_97.jpg,london_movie2,2913.900,train,London
+london_movie2_98.jpg,london_movie2,2944.833,train,London
+london_movie2_99.jpg,london_movie2,2975.767,train,London
+london_movie3_12.jpg,london_movie3,362.700,train,London
+london_movie3_15.jpg,london_movie3,453.367,train,London
+london_movie3_17.jpg,london_movie3,512.033,train,London
+london_movie3_18.jpg,london_movie3,544.033,train,London
+london_movie3_2.jpg,london_movie3,64.033,train,London
+london_movie3_26.jpg,london_movie3,782.967,train,London
+london_movie3_27.jpg,london_movie3,814.967,train,London
+london_movie3_28.jpg,london_movie3,841.633,train,London
+london_movie3_29.jpg,london_movie3,873.633,train,London
+london_movie3_34.jpg,london_movie3,1022.967,train,London
+london_movie3_35.jpg,london_movie3,1054.967,train,London
+london_movie3_36.jpg,london_movie3,1081.033,train,London
+london_movie3_42.jpg,london_movie3,1262.433,train,London
+london_movie3_48.jpg,london_movie3,1443.767,train,London
+london_movie3_5.jpg,london_movie3,154.700,train,London
+london_movie3_50.jpg,london_movie3,1502.433,train,London
+london_movie3_51.jpg,london_movie3,1534.433,train,London
+london_movie3_52.jpg,london_movie3,1561.100,train,London
+london_movie3_53.jpg,london_movie3,1593.100,train,London
+london_movie3_57.jpg,london_movie3,1710.433,train,London
+london_movie3_60.jpg,london_movie3,1801.100,train,London
+london_movie3_62.jpg,london_movie3,1865.100,train,London
+london_movie3_64.jpg,london_movie3,1923.767,train,London
+london_movie3_9.jpg,london_movie3,272.033,train,London
+london_movie4_102.jpg,london_movie4,3061.350,train,London
+london_movie4_103.jpg,london_movie4,3094.350,train,London
+london_movie4_106.jpg,london_movie4,3182.350,train,London
+london_movie4_108.jpg,london_movie4,3242.850,train,London
+london_movie4_111.jpg,london_movie4,3330.850,train,London
+london_movie4_113.jpg,london_movie4,3391.350,train,London
+london_movie4_117.jpg,london_movie4,3512.350,train,London
+london_movie4_12.jpg,london_movie4,360.850,train,London
+london_movie4_120.jpg,london_movie4,3600.350,train,London
+london_movie4_121.jpg,london_movie4,3633.350,train,London
+london_movie4_128.jpg,london_movie4,3842.350,train,London
+london_movie4_129.jpg,london_movie4,3875.350,train,London
+london_movie4_131.jpg,london_movie4,3930.350,train,London
+london_movie4_133.jpg,london_movie4,3990.850,train,London
+london_movie4_134.jpg,london_movie4,4023.850,train,London
+london_movie4_135.jpg,london_movie4,4051.350,train,London
+london_movie4_138.jpg,london_movie4,4144.850,train,London
+london_movie4_14.jpg,london_movie4,421.350,train,London
+london_movie4_17.jpg,london_movie4,514.850,train,London
+london_movie4_19.jpg,london_movie4,575.350,train,London
+london_movie4_2.jpg,london_movie4,64.383,train,London
+london_movie4_20.jpg,london_movie4,602.850,train,London
+london_movie4_21.jpg,london_movie4,630.350,train,London
+london_movie4_27.jpg,london_movie4,811.850,train,London
+london_movie4_3.jpg,london_movie4,91.883,train,London
+london_movie4_31.jpg,london_movie4,932.850,train,London
+london_movie4_32.jpg,london_movie4,960.350,train,London
+london_movie4_37.jpg,london_movie4,1114.350,train,London
+london_movie4_38.jpg,london_movie4,1141.850,train,London
+london_movie4_4.jpg,london_movie4,124.883,train,London
+london_movie4_41.jpg,london_movie4,1235.350,train,London
+london_movie4_46.jpg,london_movie4,1383.850,train,London
+london_movie4_5.jpg,london_movie4,152.383,train,London
+london_movie4_51.jpg,london_movie4,1532.350,train,London
+london_movie4_52.jpg,london_movie4,1565.350,train,London
+london_movie4_58.jpg,london_movie4,1741.350,train,London
+london_movie4_59.jpg,london_movie4,1774.350,train,London
+london_movie4_60.jpg,london_movie4,1801.850,train,London
+london_movie4_63.jpg,london_movie4,1895.350,train,London
+london_movie4_64.jpg,london_movie4,1922.850,train,London
+london_movie4_66.jpg,london_movie4,1983.350,train,London
+london_movie4_68.jpg,london_movie4,2043.850,train,London
+london_movie4_69.jpg,london_movie4,2071.350,train,London
+london_movie4_70.jpg,london_movie4,2104.350,train,London
+london_movie4_72.jpg,london_movie4,2164.850,train,London
+london_movie4_82.jpg,london_movie4,2461.850,train,London
+london_movie4_84.jpg,london_movie4,2522.350,train,London
+london_movie4_85.jpg,london_movie4,2555.350,train,London
+london_movie4_91.jpg,london_movie4,2731.350,train,London
+london_movie4_94.jpg,london_movie4,2824.850,train,London
+london_movie4_95.jpg,london_movie4,2852.350,train,London
+london_movie4_98.jpg,london_movie4,2940.350,train,London
+london_movie5_10.jpg,london_movie5,300.016,train,London
+london_movie5_100.jpg,london_movie5,3003.250,train,London
+london_movie5_102.jpg,london_movie5,3064.979,train,London
+london_movie5_106.jpg,london_movie5,3184.398,train,London
+london_movie5_15.jpg,london_movie5,455.038,train,London
+london_movie5_20.jpg,london_movie5,600.283,train,London
+london_movie5_25.jpg,london_movie5,753.503,train,London
+london_movie5_34.jpg,london_movie5,1020.670,train,London
+london_movie5_42.jpg,london_movie5,1260.676,train,London
+london_movie5_47.jpg,london_movie5,1410.693,train,London
+london_movie5_58.jpg,london_movie5,1742.891,train,London
+london_movie5_6.jpg,london_movie5,180.030,train,London
+london_movie5_60.jpg,london_movie5,1801.950,train,London
+london_movie5_62.jpg,london_movie5,1861.977,train,London
+london_movie5_65.jpg,london_movie5,1953.301,train,London
+london_movie5_66.jpg,london_movie5,1982.364,train,London
+london_movie5_73.jpg,london_movie5,2194.943,train,London
+london_movie5_81.jpg,london_movie5,2431.346,train,London
+london_movie5_83.jpg,london_movie5,2493.508,train,London
+london_movie5_88.jpg,london_movie5,2640.721,train,London
+london_movie5_89.jpg,london_movie5,2670.718,train,London
+london_movie6_101.jpg,london_movie6,3033.483,train,London
+london_movie6_106.jpg,london_movie6,3185.083,train,London
+london_movie6_108.jpg,london_movie6,3242.483,train,London
+london_movie6_111.jpg,london_movie6,3331.083,train,London
+london_movie6_113.jpg,london_movie6,3393.883,train,London
+london_movie6_116.jpg,london_movie6,3482.683,train,London
+london_movie6_122.jpg,london_movie6,3665.150,train,London
+london_movie6_13.jpg,london_movie6,390.917,train,London
+london_movie6_15.jpg,london_movie6,453.550,train,London
+london_movie6_19.jpg,london_movie6,573.750,train,London
+london_movie6_22.jpg,london_movie6,662.450,train,London
+london_movie6_25.jpg,london_movie6,751.250,train,London
+london_movie6_26.jpg,london_movie6,782.650,train,London
+london_movie6_3.jpg,london_movie6,93.117,train,London
+london_movie6_31.jpg,london_movie6,934.250,train,London
+london_movie6_32.jpg,london_movie6,960.450,train,London
+london_movie6_33.jpg,london_movie6,991.583,train,London
+london_movie6_37.jpg,london_movie6,1111.783,train,London
+london_movie6_39.jpg,london_movie6,1174.183,train,London
+london_movie6_40.jpg,london_movie6,1200.183,train,London
+london_movie6_42.jpg,london_movie6,1262.983,train,London
+london_movie6_43.jpg,london_movie6,1294.217,train,London
+london_movie6_45.jpg,london_movie6,1351.783,train,London
+london_movie6_49.jpg,london_movie6,1471.983,train,London
+london_movie6_5.jpg,london_movie6,150.517,train,London
+london_movie6_55.jpg,london_movie6,1654.817,train,London
+london_movie6_58.jpg,london_movie6,1743.617,train,London
+london_movie6_7.jpg,london_movie6,213.317,train,London
+london_movie6_70.jpg,london_movie6,2104.150,train,London
+london_movie6_8.jpg,london_movie6,244.550,train,London
+london_movie6_84.jpg,london_movie6,2521.983,train,London
+london_movie6_86.jpg,london_movie6,2584.317,train,London
+london_movie6_94.jpg,london_movie6,2824.483,train,London
+london_movie6_96.jpg,london_movie6,2882.050,train,London
+newyork_movie2_10.jpg,newyork_movie2,300.517,train,New York
+newyork_movie2_11.jpg,newyork_movie2,332.017,train,New York
+newyork_movie2_14.jpg,newyork_movie2,422.517,train,New York
+newyork_movie2_15.jpg,newyork_movie2,451.517,train,New York
+newyork_movie2_16.jpg,newyork_movie2,481.017,train,New York
+newyork_movie2_18.jpg,newyork_movie2,543.017,train,New York
+newyork_movie2_19.jpg,newyork_movie2,572.517,train,New York
+newyork_movie2_2.jpg,newyork_movie2,62.017,train,New York
+newyork_movie2_20.jpg,newyork_movie2,603.017,train,New York
+newyork_movie2_30.jpg,newyork_movie2,900.017,train,New York
+newyork_movie2_31.jpg,newyork_movie2,934.683,train,New York
+newyork_movie2_32.jpg,newyork_movie2,960.250,train,New York
+newyork_movie2_35.jpg,newyork_movie2,1050.017,train,New York
+newyork_movie2_37.jpg,newyork_movie2,1113.017,train,New York
+newyork_movie2_4.jpg,newyork_movie2,125.517,train,New York
+newyork_movie2_44.jpg,newyork_movie2,1325.017,train,New York
+newyork_movie2_50.jpg,newyork_movie2,1501.017,train,New York
+newyork_movie2_55.jpg,newyork_movie2,1650.017,train,New York
+newyork_movie2_64.jpg,newyork_movie2,1925.517,train,New York
+newyork_movie2_66.jpg,newyork_movie2,1985.517,train,New York
+newyork_movie2_72.jpg,newyork_movie2,2161.017,train,New York
+newyork_movie2_74.jpg,newyork_movie2,2221.517,train,New York
+newyork_movie2_9.jpg,newyork_movie2,273.517,train,New York
+newyork_movie3_103.jpg,newyork_movie3,3091.605,train,New York
+newyork_movie3_104.jpg,newyork_movie3,3121.902,train,New York
+newyork_movie3_116.jpg,newyork_movie3,3481.728,train,New York
+newyork_movie3_118.jpg,newyork_movie3,3541.421,train,New York
+newyork_movie3_134.jpg,newyork_movie3,4023.970,train,New York
+newyork_movie3_135.jpg,newyork_movie3,4053.967,train,New York
+newyork_movie3_136.jpg,newyork_movie3,4080.560,train,New York
+newyork_movie3_138.jpg,newyork_movie3,4144.691,train,New York
+newyork_movie3_140.jpg,newyork_movie3,4201.381,train,New York
+newyork_movie3_148.jpg,newyork_movie3,4442.188,train,New York
+newyork_movie3_2.jpg,newyork_movie3,62.579,train,New York
+newyork_movie3_21.jpg,newyork_movie3,632.782,train,New York
+newyork_movie3_24.jpg,newyork_movie3,721.237,train,New York
+newyork_movie3_25.jpg,newyork_movie3,753.503,train,New York
+newyork_movie3_27.jpg,newyork_movie3,813.262,train,New York
+newyork_movie3_29.jpg,newyork_movie3,873.389,train,New York
+newyork_movie3_30.jpg,newyork_movie3,900.416,train,New York
+newyork_movie3_33.jpg,newyork_movie3,990.506,train,New York
+newyork_movie3_35.jpg,newyork_movie3,1051.267,train,New York
+newyork_movie3_37.jpg,newyork_movie3,1113.629,train,New York
+newyork_movie3_38.jpg,newyork_movie3,1146.529,train,New York
+newyork_movie3_40.jpg,newyork_movie3,1200.583,train,New York
+newyork_movie3_43.jpg,newyork_movie3,1293.175,train,New York
+newyork_movie3_57.jpg,newyork_movie3,1712.094,train,New York
+newyork_movie3_58.jpg,newyork_movie3,1741.023,train,New York
+newyork_movie3_59.jpg,newyork_movie3,1773.388,train,New York
+newyork_movie3_60.jpg,newyork_movie3,1803.185,train,New York
+newyork_movie3_62.jpg,newyork_movie3,1862.744,train,New York
+newyork_movie3_63.jpg,newyork_movie3,1894.009,train,New York
+newyork_movie3_65.jpg,newyork_movie3,1950.832,train,New York
+newyork_movie3_74.jpg,newyork_movie3,2225.106,train,New York
+newyork_movie3_80.jpg,newyork_movie3,2401.282,train,New York
+newyork_movie3_81.jpg,newyork_movie3,2434.816,train,New York
+newyork_movie3_97.jpg,newyork_movie3,2910.224,train,New York
+newyork_movie4_14.jpg,newyork_movie4,424.517,train,New York
+newyork_movie4_15.jpg,newyork_movie4,452.517,train,New York
+newyork_movie4_20.jpg,newyork_movie4,602.517,train,New York
+newyork_movie4_23.jpg,newyork_movie4,693.917,train,New York
+newyork_movie4_24.jpg,newyork_movie4,722.517,train,New York
+newyork_movie4_28.jpg,newyork_movie4,843.517,train,New York
+newyork_movie4_29.jpg,newyork_movie4,876.517,train,New York
+newyork_movie4_30.jpg,newyork_movie4,904.517,train,New York
+newyork_movie4_31.jpg,newyork_movie4,934.517,train,New York
+newyork_movie4_34.jpg,newyork_movie4,1024.517,train,New York
+newyork_movie4_4.jpg,newyork_movie4,120.517,train,New York
+newyork_movie4_48.jpg,newyork_movie4,1441.017,train,New York
+newyork_movie4_53.jpg,newyork_movie4,1591.517,train,New York
+newyork_movie4_54.jpg,newyork_movie4,1620.083,train,New York
+newyork_movie4_6.jpg,newyork_movie4,181.517,train,New York
+newyork_movie4_63.jpg,newyork_movie4,1893.017,train,New York
+newyork_movie4_64.jpg,newyork_movie4,1923.883,train,New York
+newyork_movie4_69.jpg,newyork_movie4,2072.517,train,New York
+newyork_movie4_73.jpg,newyork_movie4,2191.533,train,New York
+newyork_movie4_78.jpg,newyork_movie4,2341.017,train,New York
+newyork_movie4_79.jpg,newyork_movie4,2370.017,train,New York
+newyork_movie4_80.jpg,newyork_movie4,2405.017,train,New York
+newyork_movie5_12.jpg,newyork_movie5,366.617,train,New York
+newyork_movie5_14.jpg,newyork_movie5,425.650,train,New York
+newyork_movie5_16.jpg,newyork_movie5,484.450,train,New York
+newyork_movie5_19.jpg,newyork_movie5,570.683,train,New York
+newyork_movie5_22.jpg,newyork_movie5,665.217,train,New York
+newyork_movie5_23.jpg,newyork_movie5,694.717,train,New York
+newyork_movie5_26.jpg,newyork_movie5,784.150,train,New York
+newyork_movie5_28.jpg,newyork_movie5,845.317,train,New York
+newyork_movie5_29.jpg,newyork_movie5,876.050,train,New York
+newyork_movie5_3.jpg,newyork_movie5,91.050,train,New York
+newyork_movie5_33.jpg,newyork_movie5,992.483,train,New York
+newyork_movie5_34.jpg,newyork_movie5,1024.483,train,New York
+newyork_movie5_37.jpg,newyork_movie5,1110.950,train,New York
+newyork_movie5_4.jpg,newyork_movie5,121.483,train,New York
+newyork_movie5_40.jpg,newyork_movie5,1204.583,train,New York
+newyork_movie5_41.jpg,newyork_movie5,1230.417,train,New York
+newyork_movie5_43.jpg,newyork_movie5,1293.483,train,New York
+newyork_movie5_50.jpg,newyork_movie5,1502.217,train,New York
+newyork_movie5_52.jpg,newyork_movie5,1565.683,train,New York
+newyork_movie5_57.jpg,newyork_movie5,1714.283,train,New York
+newyork_movie5_58.jpg,newyork_movie5,1742.317,train,New York
+newyork_movie5_6.jpg,newyork_movie5,180.883,train,New York
+newyork_movie5_62.jpg,newyork_movie5,1864.817,train,New York
+newyork_movie5_8.jpg,newyork_movie5,240.650,train,New York
+newyork_movie6_100.jpg,newyork_movie6,3004.550,train,New York
+newyork_movie6_103.jpg,newyork_movie6,3090.683,train,New York
+newyork_movie6_105.jpg,newyork_movie6,3151.483,train,New York
+newyork_movie6_12.jpg,newyork_movie6,364.817,train,New York
+newyork_movie6_15.jpg,newyork_movie6,450.950,train,New York
+newyork_movie6_16.jpg,newyork_movie6,481.350,train,New York
+newyork_movie6_19.jpg,newyork_movie6,572.550,train,New York
+newyork_movie6_21.jpg,newyork_movie6,633.350,train,New York
+newyork_movie6_24.jpg,newyork_movie6,724.550,train,New York
+newyork_movie6_25.jpg,newyork_movie6,754.950,train,New York
+newyork_movie6_26.jpg,newyork_movie6,780.283,train,New York
+newyork_movie6_27.jpg,newyork_movie6,810.683,train,New York
+newyork_movie6_30.jpg,newyork_movie6,901.883,train,New York
+newyork_movie6_32.jpg,newyork_movie6,962.683,train,New York
+newyork_movie6_33.jpg,newyork_movie6,993.083,train,New York
+newyork_movie6_34.jpg,newyork_movie6,1023.483,train,New York
+newyork_movie6_35.jpg,newyork_movie6,1053.883,train,New York
+newyork_movie6_36.jpg,newyork_movie6,1084.283,train,New York
+newyork_movie6_38.jpg,newyork_movie6,1140.017,train,New York
+newyork_movie6_4.jpg,newyork_movie6,121.617,train,New York
+newyork_movie6_43.jpg,newyork_movie6,1292.017,train,New York
+newyork_movie6_45.jpg,newyork_movie6,1352.817,train,New York
+newyork_movie6_46.jpg,newyork_movie6,1383.217,train,New York
+newyork_movie6_47.jpg,newyork_movie6,1413.617,train,New York
+newyork_movie6_50.jpg,newyork_movie6,1504.817,train,New York
+newyork_movie6_51.jpg,newyork_movie6,1530.150,train,New York
+newyork_movie6_57.jpg,newyork_movie6,1712.550,train,New York
+newyork_movie6_59.jpg,newyork_movie6,1773.350,train,New York
+newyork_movie6_60.jpg,newyork_movie6,1803.750,train,New York
+newyork_movie6_63.jpg,newyork_movie6,1894.950,train,New York
+newyork_movie6_67.jpg,newyork_movie6,2011.483,train,New York
+newyork_movie6_68.jpg,newyork_movie6,2041.883,train,New York
+newyork_movie6_69.jpg,newyork_movie6,2072.283,train,New York
+newyork_movie6_71.jpg,newyork_movie6,2133.083,train,New York
+newyork_movie6_72.jpg,newyork_movie6,2163.483,train,New York
+newyork_movie6_75.jpg,newyork_movie6,2254.683,train,New York
+newyork_movie6_79.jpg,newyork_movie6,2371.217,train,New York
+newyork_movie6_81.jpg,newyork_movie6,2432.017,train,New York
+newyork_movie6_84.jpg,newyork_movie6,2523.217,train,New York
+newyork_movie6_88.jpg,newyork_movie6,2644.817,train,New York
+newyork_movie6_9.jpg,newyork_movie6,273.617,train,New York
+newyork_movie6_91.jpg,newyork_movie6,2730.950,train,New York
+newyork_movie6_92.jpg,newyork_movie6,2761.350,train,New York
+newyork_movie6_93.jpg,newyork_movie6,2791.750,train,New York
+newyork_movie6_96.jpg,newyork_movie6,2882.950,train,New York
+newyork_movie6_97.jpg,newyork_movie6,2913.350,train,New York
+newyork_movie6_98.jpg,newyork_movie6,2943.750,train,New York
+MexicoCity_movie1_10.jpg,MexicoCity_movie1,300.016,train,Mexico City
+MexicoCity_movie1_101.jpg,MexicoCity_movie1,3030.010,train,Mexico City
+MexicoCity_movie1_102.jpg,MexicoCity_movie1,3060.007,train,Mexico City
+MexicoCity_movie1_103.jpg,MexicoCity_movie1,3090.004,train,Mexico City
+MexicoCity_movie1_104.jpg,MexicoCity_movie1,3120.000,train,Mexico City
+MexicoCity_movie1_105.jpg,MexicoCity_movie1,3150.014,train,Mexico City
+MexicoCity_movie1_106.jpg,MexicoCity_movie1,3180.010,train,Mexico City
+MexicoCity_movie1_108.jpg,MexicoCity_movie1,3240.003,train,Mexico City
+MexicoCity_movie1_109.jpg,MexicoCity_movie1,3270.000,train,Mexico City
+MexicoCity_movie1_11.jpg,MexicoCity_movie1,330.013,train,Mexico City
+MexicoCity_movie1_114.jpg,MexicoCity_movie1,3420.017,train,Mexico City
+MexicoCity_movie1_116.jpg,MexicoCity_movie1,3480.010,train,Mexico City
+MexicoCity_movie1_117.jpg,MexicoCity_movie1,3510.006,train,Mexico City
+MexicoCity_movie1_119.jpg,MexicoCity_movie1,3570.016,train,Mexico City
+MexicoCity_movie1_12.jpg,MexicoCity_movie1,360.010,train,Mexico City
+MexicoCity_movie1_123.jpg,MexicoCity_movie1,3690.003,train,Mexico City
+MexicoCity_movie1_124.jpg,MexicoCity_movie1,3720.016,train,Mexico City
+MexicoCity_movie1_125.jpg,MexicoCity_movie1,3750.013,train,Mexico City
+MexicoCity_movie1_126.jpg,MexicoCity_movie1,3780.010,train,Mexico City
+MexicoCity_movie1_129.jpg,MexicoCity_movie1,3870.016,train,Mexico City
+MexicoCity_movie1_134.jpg,MexicoCity_movie1,4020.016,train,Mexico City
+MexicoCity_movie1_137.jpg,MexicoCity_movie1,4110.006,train,Mexico City
+MexicoCity_movie1_139.jpg,MexicoCity_movie1,4170.016,train,Mexico City
+MexicoCity_movie1_141.jpg,MexicoCity_movie1,4230.009,train,Mexico City
+MexicoCity_movie1_145.jpg,MexicoCity_movie1,4350.012,train,Mexico City
+MexicoCity_movie1_146.jpg,MexicoCity_movie1,4380.009,train,Mexico City
+MexicoCity_movie1_147.jpg,MexicoCity_movie1,4410.006,train,Mexico City
+MexicoCity_movie1_151.jpg,MexicoCity_movie1,4530.009,train,Mexico City
+MexicoCity_movie1_154.jpg,MexicoCity_movie1,4620.015,train,Mexico City
+MexicoCity_movie1_155.jpg,MexicoCity_movie1,4650.012,train,Mexico City
+MexicoCity_movie1_16.jpg,MexicoCity_movie1,480.013,train,Mexico City
+MexicoCity_movie1_163.jpg,MexicoCity_movie1,4890.002,train,Mexico City
+MexicoCity_movie1_168.jpg,MexicoCity_movie1,5040.002,train,Mexico City
+MexicoCity_movie1_169.jpg,MexicoCity_movie1,5070.015,train,Mexico City
+MexicoCity_movie1_17.jpg,MexicoCity_movie1,510.010,train,Mexico City
+MexicoCity_movie1_174.jpg,MexicoCity_movie1,5220.015,train,Mexico City
+MexicoCity_movie1_176.jpg,MexicoCity_movie1,5280.008,train,Mexico City
+MexicoCity_movie1_179.jpg,MexicoCity_movie1,5370.015,train,Mexico City
+MexicoCity_movie1_180.jpg,MexicoCity_movie1,5400.011,train,Mexico City
+MexicoCity_movie1_181.jpg,MexicoCity_movie1,5430.008,train,Mexico City
+MexicoCity_movie1_183.jpg,MexicoCity_movie1,5490.001,train,Mexico City
+MexicoCity_movie1_187.jpg,MexicoCity_movie1,5610.004,train,Mexico City
+MexicoCity_movie1_189.jpg,MexicoCity_movie1,5670.014,train,Mexico City
+MexicoCity_movie1_190.jpg,MexicoCity_movie1,5700.011,train,Mexico City
+MexicoCity_movie1_191.jpg,MexicoCity_movie1,5730.008,train,Mexico City
+MexicoCity_movie1_192.jpg,MexicoCity_movie1,5760.004,train,Mexico City
+MexicoCity_movie1_195.jpg,MexicoCity_movie1,5850.011,train,Mexico City
+MexicoCity_movie1_196.jpg,MexicoCity_movie1,5880.007,train,Mexico City
+MexicoCity_movie1_198.jpg,MexicoCity_movie1,5940.001,train,Mexico City
+MexicoCity_movie1_199.jpg,MexicoCity_movie1,5970.014,train,Mexico City
+MexicoCity_movie1_2.jpg,MexicoCity_movie1,60.010,train,Mexico City
+MexicoCity_movie1_200.jpg,MexicoCity_movie1,6000.011,train,Mexico City
+MexicoCity_movie1_201.jpg,MexicoCity_movie1,6030.007,train,Mexico City
+MexicoCity_movie1_202.jpg,MexicoCity_movie1,6060.004,train,Mexico City
+MexicoCity_movie1_204.jpg,MexicoCity_movie1,6120.014,train,Mexico City
+MexicoCity_movie1_206.jpg,MexicoCity_movie1,6180.007,train,Mexico City
+MexicoCity_movie1_208.jpg,MexicoCity_movie1,6240.000,train,Mexico City
+MexicoCity_movie1_210.jpg,MexicoCity_movie1,6300.010,train,Mexico City
+MexicoCity_movie1_212.jpg,MexicoCity_movie1,6360.004,train,Mexico City
+MexicoCity_movie1_217.jpg,MexicoCity_movie1,6510.003,train,Mexico City
+MexicoCity_movie1_221.jpg,MexicoCity_movie1,6630.007,train,Mexico City
+MexicoCity_movie1_223.jpg,MexicoCity_movie1,6690.017,train,Mexico City
+MexicoCity_movie1_224.jpg,MexicoCity_movie1,6720.013,train,Mexico City
+MexicoCity_movie1_225.jpg,MexicoCity_movie1,6750.010,train,Mexico City
+MexicoCity_movie1_227.jpg,MexicoCity_movie1,6810.003,train,Mexico City
+MexicoCity_movie1_23.jpg,MexicoCity_movie1,690.006,train,Mexico City
+MexicoCity_movie1_231.jpg,MexicoCity_movie1,6930.006,train,Mexico City
+MexicoCity_movie1_232.jpg,MexicoCity_movie1,6960.003,train,Mexico City
+MexicoCity_movie1_233.jpg,MexicoCity_movie1,6990.016,train,Mexico City
+MexicoCity_movie1_235.jpg,MexicoCity_movie1,7050.010,train,Mexico City
+MexicoCity_movie1_237.jpg,MexicoCity_movie1,7110.003,train,Mexico City
+MexicoCity_movie1_238.jpg,MexicoCity_movie1,7140.016,train,Mexico City
+MexicoCity_movie1_239.jpg,MexicoCity_movie1,7170.013,train,Mexico City
+MexicoCity_movie1_240.jpg,MexicoCity_movie1,7200.009,train,Mexico City
+MexicoCity_movie1_245.jpg,MexicoCity_movie1,7350.009,train,Mexico City
+MexicoCity_movie1_247.jpg,MexicoCity_movie1,7410.003,train,Mexico City
+MexicoCity_movie1_248.jpg,MexicoCity_movie1,7440.016,train,Mexico City
+MexicoCity_movie1_250.jpg,MexicoCity_movie1,7500.009,train,Mexico City
+MexicoCity_movie1_251.jpg,MexicoCity_movie1,7530.006,train,Mexico City
+MexicoCity_movie1_253.jpg,MexicoCity_movie1,7590.016,train,Mexico City
+MexicoCity_movie1_259.jpg,MexicoCity_movie1,7770.012,train,Mexico City
+MexicoCity_movie1_261.jpg,MexicoCity_movie1,7830.006,train,Mexico City
+MexicoCity_movie1_262.jpg,MexicoCity_movie1,7860.002,train,Mexico City
+MexicoCity_movie1_263.jpg,MexicoCity_movie1,7890.015,train,Mexico City
+MexicoCity_movie1_264.jpg,MexicoCity_movie1,7920.012,train,Mexico City
+MexicoCity_movie1_268.jpg,MexicoCity_movie1,8040.015,train,Mexico City
+MexicoCity_movie1_269.jpg,MexicoCity_movie1,8070.012,train,Mexico City
+MexicoCity_movie1_273.jpg,MexicoCity_movie1,8190.015,train,Mexico City
+MexicoCity_movie1_274.jpg,MexicoCity_movie1,8220.012,train,Mexico City
+MexicoCity_movie1_276.jpg,MexicoCity_movie1,8280.005,train,Mexico City
+MexicoCity_movie1_277.jpg,MexicoCity_movie1,8310.002,train,Mexico City
+MexicoCity_movie1_279.jpg,MexicoCity_movie1,8370.012,train,Mexico City
+MexicoCity_movie1_284.jpg,MexicoCity_movie1,8520.012,train,Mexico City
+MexicoCity_movie1_285.jpg,MexicoCity_movie1,8550.008,train,Mexico City
+MexicoCity_movie1_288.jpg,MexicoCity_movie1,8640.015,train,Mexico City
+MexicoCity_movie1_289.jpg,MexicoCity_movie1,8670.011,train,Mexico City
+MexicoCity_movie1_29.jpg,MexicoCity_movie1,870.002,train,Mexico City
+MexicoCity_movie1_291.jpg,MexicoCity_movie1,8730.005,train,Mexico City
+MexicoCity_movie1_292.jpg,MexicoCity_movie1,8760.001,train,Mexico City
+MexicoCity_movie1_293.jpg,MexicoCity_movie1,8790.015,train,Mexico City
+MexicoCity_movie1_294.jpg,MexicoCity_movie1,8820.011,train,Mexico City
+MexicoCity_movie1_295.jpg,MexicoCity_movie1,8850.008,train,Mexico City
+MexicoCity_movie1_298.jpg,MexicoCity_movie1,8940.014,train,Mexico City
+MexicoCity_movie1_30.jpg,MexicoCity_movie1,900.016,train,Mexico City
+MexicoCity_movie1_303.jpg,MexicoCity_movie1,9090.014,train,Mexico City
+MexicoCity_movie1_304.jpg,MexicoCity_movie1,9120.011,train,Mexico City
+MexicoCity_movie1_305.jpg,MexicoCity_movie1,9150.008,train,Mexico City
+MexicoCity_movie1_306.jpg,MexicoCity_movie1,9180.004,train,Mexico City
+MexicoCity_movie1_307.jpg,MexicoCity_movie1,9210.001,train,Mexico City
+MexicoCity_movie1_319.jpg,MexicoCity_movie1,9570.010,train,Mexico City
+MexicoCity_movie1_32.jpg,MexicoCity_movie1,960.009,train,Mexico City
+MexicoCity_movie1_322.jpg,MexicoCity_movie1,9660.000,train,Mexico City
+MexicoCity_movie1_323.jpg,MexicoCity_movie1,9690.014,train,Mexico City
+MexicoCity_movie1_329.jpg,MexicoCity_movie1,9870.010,train,Mexico City
+MexicoCity_movie1_330.jpg,MexicoCity_movie1,9900.007,train,Mexico City
+MexicoCity_movie1_331.jpg,MexicoCity_movie1,9930.003,train,Mexico City
+MexicoCity_movie1_332.jpg,MexicoCity_movie1,9960.000,train,Mexico City
+MexicoCity_movie1_333.jpg,MexicoCity_movie1,9990.013,train,Mexico City
+MexicoCity_movie1_334.jpg,MexicoCity_movie1,10020.010,train,Mexico City
+MexicoCity_movie1_335.jpg,MexicoCity_movie1,10050.007,train,Mexico City
+MexicoCity_movie1_336.jpg,MexicoCity_movie1,10080.003,train,Mexico City
+MexicoCity_movie1_339.jpg,MexicoCity_movie1,10170.010,train,Mexico City
+MexicoCity_movie1_34.jpg,MexicoCity_movie1,1020.002,train,Mexico City
+MexicoCity_movie1_340.jpg,MexicoCity_movie1,10200.006,train,Mexico City
+MexicoCity_movie1_342.jpg,MexicoCity_movie1,10260.016,train,Mexico City
+MexicoCity_movie1_343.jpg,MexicoCity_movie1,10290.013,train,Mexico City
+MexicoCity_movie1_350.jpg,MexicoCity_movie1,10500.006,train,Mexico City
+MexicoCity_movie1_351.jpg,MexicoCity_movie1,10530.003,train,Mexico City
+MexicoCity_movie1_356.jpg,MexicoCity_movie1,10680.003,train,Mexico City
+MexicoCity_movie1_358.jpg,MexicoCity_movie1,10740.013,train,Mexico City
+MexicoCity_movie1_359.jpg,MexicoCity_movie1,10770.009,train,Mexico City
+MexicoCity_movie1_36.jpg,MexicoCity_movie1,1080.012,train,Mexico City
+MexicoCity_movie1_361.jpg,MexicoCity_movie1,10830.003,train,Mexico City
+MexicoCity_movie1_363.jpg,MexicoCity_movie1,10890.012,train,Mexico City
+MexicoCity_movie1_364.jpg,MexicoCity_movie1,10920.009,train,Mexico City
+MexicoCity_movie1_365.jpg,MexicoCity_movie1,10950.006,train,Mexico City
+MexicoCity_movie1_366.jpg,MexicoCity_movie1,10980.002,train,Mexico City
+MexicoCity_movie1_367.jpg,MexicoCity_movie1,11010.016,train,Mexico City
+MexicoCity_movie1_373.jpg,MexicoCity_movie1,11190.012,train,Mexico City
+MexicoCity_movie1_375.jpg,MexicoCity_movie1,11250.005,train,Mexico City
+MexicoCity_movie1_376.jpg,MexicoCity_movie1,11280.002,train,Mexico City
+MexicoCity_movie1_38.jpg,MexicoCity_movie1,1140.006,train,Mexico City
+MexicoCity_movie1_380.jpg,MexicoCity_movie1,11400.005,train,Mexico City
+MexicoCity_movie1_39.jpg,MexicoCity_movie1,1170.002,train,Mexico City
+MexicoCity_movie1_42.jpg,MexicoCity_movie1,1260.009,train,Mexico City
+MexicoCity_movie1_46.jpg,MexicoCity_movie1,1380.012,train,Mexico City
+MexicoCity_movie1_49.jpg,MexicoCity_movie1,1470.002,train,Mexico City
+MexicoCity_movie1_51.jpg,MexicoCity_movie1,1530.012,train,Mexico City
+MexicoCity_movie1_56.jpg,MexicoCity_movie1,1680.012,train,Mexico City
+MexicoCity_movie1_59.jpg,MexicoCity_movie1,1770.002,train,Mexico City
+MexicoCity_movie1_61.jpg,MexicoCity_movie1,1830.012,train,Mexico City
+MexicoCity_movie1_62.jpg,MexicoCity_movie1,1860.008,train,Mexico City
+MexicoCity_movie1_63.jpg,MexicoCity_movie1,1890.005,train,Mexico City
+MexicoCity_movie1_68.jpg,MexicoCity_movie1,2040.005,train,Mexico City
+MexicoCity_movie1_69.jpg,MexicoCity_movie1,2070.001,train,Mexico City
+MexicoCity_movie1_72.jpg,MexicoCity_movie1,2160.008,train,Mexico City
+MexicoCity_movie1_73.jpg,MexicoCity_movie1,2190.004,train,Mexico City
+MexicoCity_movie1_74.jpg,MexicoCity_movie1,2220.001,train,Mexico City
+MexicoCity_movie1_76.jpg,MexicoCity_movie1,2280.011,train,Mexico City
+MexicoCity_movie1_80.jpg,MexicoCity_movie1,2400.014,train,Mexico City
+MexicoCity_movie1_81.jpg,MexicoCity_movie1,2430.011,train,Mexico City
+MexicoCity_movie1_85.jpg,MexicoCity_movie1,2550.014,train,Mexico City
+MexicoCity_movie1_92.jpg,MexicoCity_movie1,2760.007,train,Mexico City
+MexicoCity_movie1_94.jpg,MexicoCity_movie1,2820.001,train,Mexico City
+MexicoCity_movie1_95.jpg,MexicoCity_movie1,2850.014,train,Mexico City
+MexicoCity_movie1_98.jpg,MexicoCity_movie1,2940.004,train,Mexico City
+MexicoCity_movie2_10.jpg,MexicoCity_movie2,300.000,train,Mexico City
+MexicoCity_movie2_100.jpg,MexicoCity_movie2,3000.000,train,Mexico City
+MexicoCity_movie2_104.jpg,MexicoCity_movie2,3120.000,train,Mexico City
+MexicoCity_movie2_105.jpg,MexicoCity_movie2,3150.000,train,Mexico City
+MexicoCity_movie2_106.jpg,MexicoCity_movie2,3180.000,train,Mexico City
+MexicoCity_movie2_109.jpg,MexicoCity_movie2,3270.000,train,Mexico City
+MexicoCity_movie2_11.jpg,MexicoCity_movie2,330.000,train,Mexico City
+MexicoCity_movie2_110.jpg,MexicoCity_movie2,3300.000,train,Mexico City
+MexicoCity_movie2_115.jpg,MexicoCity_movie2,3450.000,train,Mexico City
+MexicoCity_movie2_116.jpg,MexicoCity_movie2,3480.000,train,Mexico City
+MexicoCity_movie2_117.jpg,MexicoCity_movie2,3510.000,train,Mexico City
+MexicoCity_movie2_121.jpg,MexicoCity_movie2,3630.000,train,Mexico City
+MexicoCity_movie2_127.jpg,MexicoCity_movie2,3810.000,train,Mexico City
+MexicoCity_movie2_128.jpg,MexicoCity_movie2,3840.000,train,Mexico City
+MexicoCity_movie2_130.jpg,MexicoCity_movie2,3900.000,train,Mexico City
+MexicoCity_movie2_133.jpg,MexicoCity_movie2,3990.000,train,Mexico City
+MexicoCity_movie2_135.jpg,MexicoCity_movie2,4050.000,train,Mexico City
+MexicoCity_movie2_136.jpg,MexicoCity_movie2,4080.000,train,Mexico City
+MexicoCity_movie2_137.jpg,MexicoCity_movie2,4110.000,train,Mexico City
+MexicoCity_movie2_138.jpg,MexicoCity_movie2,4140.000,train,Mexico City
+MexicoCity_movie2_140.jpg,MexicoCity_movie2,4200.000,train,Mexico City
+MexicoCity_movie2_141.jpg,MexicoCity_movie2,4230.000,train,Mexico City
+MexicoCity_movie2_143.jpg,MexicoCity_movie2,4290.000,train,Mexico City
+MexicoCity_movie2_144.jpg,MexicoCity_movie2,4320.000,train,Mexico City
+MexicoCity_movie2_145.jpg,MexicoCity_movie2,4350.000,train,Mexico City
+MexicoCity_movie2_148.jpg,MexicoCity_movie2,4440.000,train,Mexico City
+MexicoCity_movie2_15.jpg,MexicoCity_movie2,450.000,train,Mexico City
+MexicoCity_movie2_153.jpg,MexicoCity_movie2,4590.000,train,Mexico City
+MexicoCity_movie2_159.jpg,MexicoCity_movie2,4770.000,train,Mexico City
+MexicoCity_movie2_16.jpg,MexicoCity_movie2,480.000,train,Mexico City
+MexicoCity_movie2_160.jpg,MexicoCity_movie2,4800.000,train,Mexico City
+MexicoCity_movie2_163.jpg,MexicoCity_movie2,4890.000,train,Mexico City
+MexicoCity_movie2_166.jpg,MexicoCity_movie2,4980.000,train,Mexico City
+MexicoCity_movie2_167.jpg,MexicoCity_movie2,5010.000,train,Mexico City
+MexicoCity_movie2_21.jpg,MexicoCity_movie2,630.000,train,Mexico City
+MexicoCity_movie2_23.jpg,MexicoCity_movie2,690.000,train,Mexico City
+MexicoCity_movie2_25.jpg,MexicoCity_movie2,750.000,train,Mexico City
+MexicoCity_movie2_31.jpg,MexicoCity_movie2,930.000,train,Mexico City
+MexicoCity_movie2_32.jpg,MexicoCity_movie2,960.000,train,Mexico City
+MexicoCity_movie2_35.jpg,MexicoCity_movie2,1050.000,train,Mexico City
+MexicoCity_movie2_37.jpg,MexicoCity_movie2,1110.000,train,Mexico City
+MexicoCity_movie2_40.jpg,MexicoCity_movie2,1200.000,train,Mexico City
+MexicoCity_movie2_41.jpg,MexicoCity_movie2,1230.000,train,Mexico City
+MexicoCity_movie2_42.jpg,MexicoCity_movie2,1260.000,train,Mexico City
+MexicoCity_movie2_43.jpg,MexicoCity_movie2,1290.000,train,Mexico City
+MexicoCity_movie2_48.jpg,MexicoCity_movie2,1440.000,train,Mexico City
+MexicoCity_movie2_49.jpg,MexicoCity_movie2,1470.000,train,Mexico City
+MexicoCity_movie2_50.jpg,MexicoCity_movie2,1500.000,train,Mexico City
+MexicoCity_movie2_53.jpg,MexicoCity_movie2,1590.000,train,Mexico City
+MexicoCity_movie2_54.jpg,MexicoCity_movie2,1620.000,train,Mexico City
+MexicoCity_movie2_57.jpg,MexicoCity_movie2,1710.000,train,Mexico City
+MexicoCity_movie2_65.jpg,MexicoCity_movie2,1950.000,train,Mexico City
+MexicoCity_movie2_66.jpg,MexicoCity_movie2,1980.000,train,Mexico City
+MexicoCity_movie2_77.jpg,MexicoCity_movie2,2310.000,train,Mexico City
+MexicoCity_movie2_80.jpg,MexicoCity_movie2,2400.000,train,Mexico City
+MexicoCity_movie2_82.jpg,MexicoCity_movie2,2460.000,train,Mexico City
+MexicoCity_movie2_85.jpg,MexicoCity_movie2,2550.000,train,Mexico City
+MexicoCity_movie2_87.jpg,MexicoCity_movie2,2610.000,train,Mexico City
+MexicoCity_movie2_88.jpg,MexicoCity_movie2,2640.000,train,Mexico City
+MexicoCity_movie2_89.jpg,MexicoCity_movie2,2670.000,train,Mexico City
+MexicoCity_movie2_92.jpg,MexicoCity_movie2,2760.000,train,Mexico City
+MexicoCity_movie3_10.jpg,MexicoCity_movie3,300.000,train,Mexico City
+MexicoCity_movie3_12.jpg,MexicoCity_movie3,360.000,train,Mexico City
+MexicoCity_movie3_16.jpg,MexicoCity_movie3,480.000,train,Mexico City
+MexicoCity_movie3_17.jpg,MexicoCity_movie3,510.000,train,Mexico City
+MexicoCity_movie3_18.jpg,MexicoCity_movie3,540.000,train,Mexico City
+MexicoCity_movie3_19.jpg,MexicoCity_movie3,570.000,train,Mexico City
+MexicoCity_movie3_20.jpg,MexicoCity_movie3,600.000,train,Mexico City
+MexicoCity_movie3_23.jpg,MexicoCity_movie3,690.000,train,Mexico City
+MexicoCity_movie3_26.jpg,MexicoCity_movie3,780.000,train,Mexico City
+MexicoCity_movie3_27.jpg,MexicoCity_movie3,810.000,train,Mexico City
+MexicoCity_movie3_30.jpg,MexicoCity_movie3,900.000,train,Mexico City
+MexicoCity_movie3_31.jpg,MexicoCity_movie3,930.000,train,Mexico City
+MexicoCity_movie3_32.jpg,MexicoCity_movie3,960.000,train,Mexico City
+MexicoCity_movie3_34.jpg,MexicoCity_movie3,1020.000,train,Mexico City
+MexicoCity_movie3_35.jpg,MexicoCity_movie3,1050.000,train,Mexico City
+MexicoCity_movie3_6.jpg,MexicoCity_movie3,180.000,train,Mexico City
+MexicoCity_movie4_15.jpg,MexicoCity_movie4,450.000,train,Mexico City
+MexicoCity_movie4_17.jpg,MexicoCity_movie4,510.000,train,Mexico City
+MexicoCity_movie4_22.jpg,MexicoCity_movie4,660.000,train,Mexico City
+MexicoCity_movie4_23.jpg,MexicoCity_movie4,690.000,train,Mexico City
+MexicoCity_movie4_7.jpg,MexicoCity_movie4,210.000,train,Mexico City
+MexicoCity_movie4_9.jpg,MexicoCity_movie4,270.000,train,Mexico City
+akihabara_movie3_16.jpg,akihabara_movie3,480.033,train,Tokyo
+akihabara_movie3_32.jpg,akihabara_movie3,960.033,train,Tokyo
+akihabara_movie3_42.jpg,akihabara_movie3,1260.033,train,Tokyo
+akihabara_movie3_50.jpg,akihabara_movie3,1500.033,train,Tokyo
+akihabara_movie3_8.jpg,akihabara_movie3,240.033,train,Tokyo
+akihabara_movie4_100.jpg,akihabara_movie4,3000.013,train,Tokyo
+akihabara_movie4_16.jpg,akihabara_movie4,480.013,train,Tokyo
+akihabara_movie4_17.jpg,akihabara_movie4,510.009,train,Tokyo
+akihabara_movie4_18.jpg,akihabara_movie4,540.006,train,Tokyo
+akihabara_movie4_25.jpg,akihabara_movie4,750.016,train,Tokyo
+akihabara_movie4_31.jpg,akihabara_movie4,930.012,train,Tokyo
+akihabara_movie4_36.jpg,akihabara_movie4,1080.012,train,Tokyo
+akihabara_movie4_4.jpg,akihabara_movie4,120.003,train,Tokyo
+akihabara_movie4_44.jpg,akihabara_movie4,1320.002,train,Tokyo
+akihabara_movie4_54.jpg,akihabara_movie4,1620.002,train,Tokyo
+akihabara_movie4_66.jpg,akihabara_movie4,1980.011,train,Tokyo
+akihabara_movie4_85.jpg,akihabara_movie4,2550.014,train,Tokyo
+akihabara_movie5_14.jpg,akihabara_movie5,420.003,train,Tokyo
+akihabara_movie5_15.jpg,akihabara_movie5,450.000,train,Tokyo
+akihabara_movie5_17.jpg,akihabara_movie5,510.009,train,Tokyo
+akihabara_movie5_21.jpg,akihabara_movie5,630.013,train,Tokyo
+akihabara_movie5_28.jpg,akihabara_movie5,840.006,train,Tokyo
+akihabara_movie5_32.jpg,akihabara_movie5,960.009,train,Tokyo
+akihabara_movie5_35.jpg,akihabara_movie5,1050.016,train,Tokyo
+akihabara_movie5_46.jpg,akihabara_movie5,1380.012,train,Tokyo
+akihabara_movie5_51.jpg,akihabara_movie5,1530.012,train,Tokyo
+akihabara_movie6_14.jpg,akihabara_movie6,420.003,train,Tokyo
+akihabara_movie6_23.jpg,akihabara_movie6,690.006,train,Tokyo
+akihabara_movie6_5.jpg,akihabara_movie6,150.000,train,Tokyo
+akihabara_movie6_62.jpg,akihabara_movie6,1860.008,train,Tokyo
+akihabara_movie6_70.jpg,akihabara_movie6,2100.015,train,Tokyo
+akihabara_movie6_76.jpg,akihabara_movie6,2280.011,train,Tokyo
+akihabara_movie6_83.jpg,akihabara_movie6,2490.004,train,Tokyo
+akihabara_movie7_10.jpg,akihabara_movie7,300.000,train,Tokyo
+akihabara_movie7_25.jpg,akihabara_movie7,750.016,train,Tokyo
+Shanghai_movie1_112.jpg,Shanghai_movie1,3360.000,train,Shanghai
+Shanghai_movie1_24.jpg,Shanghai_movie1,720.000,train,Shanghai
+Shanghai_movie1_28.jpg,Shanghai_movie1,840.000,train,Shanghai
+Shanghai_movie1_34.jpg,Shanghai_movie1,1020.000,train,Shanghai
+Shanghai_movie1_41.jpg,Shanghai_movie1,1230.000,train,Shanghai
+Shanghai_movie1_67.jpg,Shanghai_movie1,2010.000,train,Shanghai
+Shanghai_movie1_69.jpg,Shanghai_movie1,2070.000,train,Shanghai
+Shanghai_movie1_84.jpg,Shanghai_movie1,2520.000,train,Shanghai
+Shanghai_movie1_88.jpg,Shanghai_movie1,2640.000,train,Shanghai
+Shanghai_movie1_98.jpg,Shanghai_movie1,2940.000,train,Shanghai
+Shanghai_movie2_100.jpg,Shanghai_movie2,3000.000,train,Shanghai
+Shanghai_movie2_104.jpg,Shanghai_movie2,3120.000,train,Shanghai
+Shanghai_movie2_112.jpg,Shanghai_movie2,3360.000,train,Shanghai
+Shanghai_movie2_12.jpg,Shanghai_movie2,360.000,train,Shanghai
+Shanghai_movie2_14.jpg,Shanghai_movie2,420.000,train,Shanghai
+Shanghai_movie2_28.jpg,Shanghai_movie2,840.000,train,Shanghai
+Shanghai_movie2_8.jpg,Shanghai_movie2,240.000,train,Shanghai
+Shanghai_movie2_80.jpg,Shanghai_movie2,2400.000,train,Shanghai
+Shanghai_movie2_81.jpg,Shanghai_movie2,2430.000,train,Shanghai
+Shanghai_movie4_113.jpg,Shanghai_movie4,3390.000,train,Shanghai
+Shanghai_movie4_18.jpg,Shanghai_movie4,540.000,train,Shanghai
+Shanghai_movie4_53.jpg,Shanghai_movie4,1590.000,train,Shanghai
+Shanghai_movie4_56.jpg,Shanghai_movie4,1680.000,train,Shanghai
+Shanghai_movie4_57.jpg,Shanghai_movie4,1710.000,train,Shanghai
+Shanghai_movie4_9.jpg,Shanghai_movie4,270.000,train,Shanghai
+Shanghai_movie4_90.jpg,Shanghai_movie4,2700.000,train,Shanghai
+dubai_movie2_18.jpg,dubai_movie2,545.317,train,Dubai
+dubai_movie2_25.jpg,dubai_movie2,754.817,train,Dubai
+dubai_movie2_52.jpg,dubai_movie2,1564.317,train,Dubai
+dubai_movie2_67.jpg,dubai_movie2,2010.317,train,Dubai
+dubai_movie2_71.jpg,dubai_movie2,2131.883,train,Dubai
+dubai_movie2_77.jpg,dubai_movie2,2311.850,train,Dubai
+dubai_movie2_85.jpg,dubai_movie2,2555.883,train,Dubai
+dubai_movie3_17.jpg,dubai_movie3,510.017,train,Dubai
+dubai_movie3_57.jpg,dubai_movie3,1710.017,train,Dubai
+dubai_movie4_138.jpg,dubai_movie4,4144.883,train,Dubai
+dubai_movie4_14.jpg,dubai_movie4,421.883,train,Dubai
+dubai_movie4_146.jpg,dubai_movie4,4383.450,train,Dubai
+dubai_movie4_165.jpg,dubai_movie4,4952.883,train,Dubai
+dubai_movie4_30.jpg,dubai_movie4,904.150,train,Dubai
+dubai_movie4_37.jpg,dubai_movie4,1110.883,train,Dubai
+dubai_movie4_65.jpg,dubai_movie4,1953.883,train,Dubai
+dubai_movie4_77.jpg,dubai_movie4,2313.883,train,Dubai
+dubai_movie4_9.jpg,dubai_movie4,272.717,train,Dubai
+Mumbai_movie2_21.jpg,Mumbai_movie2,630.000,train,Mumbai
+Mumbai_movie2_45.jpg,Mumbai_movie2,1350.000,train,Mumbai
+Mumbai_movie3_10.jpg,Mumbai_movie3,300.000,train,Mumbai
+Mumbai_movie3_15.jpg,Mumbai_movie3,450.000,train,Mumbai
+Mumbai_movie3_20.jpg,Mumbai_movie3,600.016,train,Mumbai
+Mumbai_movie3_23.jpg,Mumbai_movie3,690.006,train,Mumbai
+Mumbai_movie3_25.jpg,Mumbai_movie3,750.016,train,Mumbai
+Mumbai_movie3_35.jpg,Mumbai_movie3,1050.016,train,Mumbai
+Mumbai_movie3_47.jpg,Mumbai_movie3,1410.009,train,Mumbai
+Mumbai_movie3_48.jpg,Mumbai_movie3,1440.005,train,Mumbai
+Mumbai_movie3_50.jpg,Mumbai_movie3,1500.015,train,Mumbai
+london_movie2_102.jpg,london_movie2,3063.533,train,London
+london_movie2_11.jpg,london_movie2,330.967,train,London
+london_movie2_117.jpg,london_movie2,3512.300,train,London
+london_movie2_121.jpg,london_movie2,3633.900,train,London
+london_movie2_122.jpg,london_movie2,3664.300,train,London
+london_movie2_125.jpg,london_movie2,3754.967,train,London
+london_movie2_130.jpg,london_movie2,3901.100,train,London
+london_movie2_21.jpg,london_movie2,633.367,train,London
+london_movie2_22.jpg,london_movie2,665.300,train,London
+london_movie2_34.jpg,london_movie2,1025.333,train,London
+london_movie2_4.jpg,london_movie2,121.367,train,London
+london_movie2_7.jpg,london_movie2,216.533,train,London
+london_movie2_81.jpg,london_movie2,2431.767,train,London
+london_movie2_82.jpg,london_movie2,2462.167,train,London
+london_movie2_85.jpg,london_movie2,2554.933,train,London
+london_movie2_93.jpg,london_movie2,2791.133,train,London
+london_movie3_11.jpg,london_movie3,330.700,train,London
+london_movie3_16.jpg,london_movie3,480.033,train,London
+london_movie3_19.jpg,london_movie3,570.700,train,London
+london_movie3_25.jpg,london_movie3,750.967,train,London
+london_movie3_30.jpg,london_movie3,900.300,train,London
+london_movie3_41.jpg,london_movie3,1230.433,train,London
+london_movie3_44.jpg,london_movie3,1321.100,train,London
+london_movie3_47.jpg,london_movie3,1411.767,train,London
+london_movie3_56.jpg,london_movie3,1683.767,train,London
+london_movie3_68.jpg,london_movie3,2041.100,train,London
+london_movie3_7.jpg,london_movie3,213.367,train,London
+london_movie4_104.jpg,london_movie4,3121.850,train,London
+london_movie4_105.jpg,london_movie4,3154.850,train,London
+london_movie4_109.jpg,london_movie4,3270.350,train,London
+london_movie4_119.jpg,london_movie4,3572.850,train,London
+london_movie4_13.jpg,london_movie4,393.850,train,London
+london_movie4_15.jpg,london_movie4,454.350,train,London
+london_movie4_25.jpg,london_movie4,751.350,train,London
+london_movie4_36.jpg,london_movie4,1081.350,train,London
+london_movie4_39.jpg,london_movie4,1174.850,train,London
+london_movie4_47.jpg,london_movie4,1411.350,train,London
+london_movie4_53.jpg,london_movie4,1592.850,train,London
+london_movie4_54.jpg,london_movie4,1620.350,train,London
+london_movie4_61.jpg,london_movie4,1834.850,train,London
+london_movie4_67.jpg,london_movie4,2010.850,train,London
+london_movie4_71.jpg,london_movie4,2131.850,train,London
+london_movie4_76.jpg,london_movie4,2280.350,train,London
+london_movie4_8.jpg,london_movie4,240.383,train,London
+london_movie4_80.jpg,london_movie4,2401.350,train,London
+london_movie4_81.jpg,london_movie4,2434.350,train,London
+london_movie4_9.jpg,london_movie4,273.383,train,London
+london_movie5_103.jpg,london_movie5,3095.376,train,London
+london_movie5_109.jpg,london_movie5,3272.486,train,London
+london_movie5_39.jpg,london_movie5,1170.686,train,London
+london_movie5_4.jpg,london_movie5,120.037,train,London
+london_movie5_71.jpg,london_movie5,2131.746,train,London
+london_movie5_92.jpg,london_movie5,2763.844,train,London
+london_movie5_99.jpg,london_movie5,2974.188,train,London
+london_movie6_10.jpg,london_movie6,302.117,train,London
+london_movie6_120.jpg,london_movie6,3602.517,train,London
+london_movie6_17.jpg,london_movie6,511.117,train,London
+london_movie6_18.jpg,london_movie6,542.350,train,London
+london_movie6_29.jpg,london_movie6,871.450,train,London
+london_movie6_77.jpg,london_movie6,2313.150,train,London
+london_movie6_95.jpg,london_movie6,2850.650,train,London
+newyork_movie2_34.jpg,newyork_movie2,1020.017,train,New York
+newyork_movie2_36.jpg,newyork_movie2,1083.517,train,New York
+newyork_movie2_54.jpg,newyork_movie2,1624.517,train,New York
+newyork_movie2_6.jpg,newyork_movie2,180.517,train,New York
+newyork_movie2_7.jpg,newyork_movie2,210.017,train,New York
+newyork_movie2_71.jpg,newyork_movie2,2136.017,train,New York
+newyork_movie2_76.jpg,newyork_movie2,2281.517,train,New York
+newyork_movie3_110.jpg,newyork_movie3,3305.686,train,New York
+newyork_movie3_113.jpg,newyork_movie3,3396.944,train,New York
+newyork_movie3_145.jpg,newyork_movie3,4354.433,train,New York
+newyork_movie3_46.jpg,newyork_movie3,1381.263,train,New York
+newyork_movie3_47.jpg,newyork_movie3,1414.296,train,New York
+newyork_movie3_49.jpg,newyork_movie3,1471.854,train,New York
+newyork_movie3_52.jpg,newyork_movie3,1561.143,train,New York
+newyork_movie3_88.jpg,newyork_movie3,2641.022,train,New York
+newyork_movie3_89.jpg,newyork_movie3,2670.551,train,New York
+newyork_movie3_90.jpg,newyork_movie3,2703.584,train,New York
+newyork_movie4_57.jpg,newyork_movie4,1714.017,train,New York
+newyork_movie5_11.jpg,newyork_movie5,334.650,train,New York
+newyork_movie5_32.jpg,newyork_movie5,963.017,train,New York
+newyork_movie5_38.jpg,newyork_movie5,1141.150,train,New York
+newyork_movie5_44.jpg,newyork_movie5,1322.550,train,New York
+newyork_movie6_14.jpg,newyork_movie6,420.550,train,New York
+newyork_movie6_58.jpg,newyork_movie6,1742.950,train,New York
+newyork_movie6_66.jpg,newyork_movie6,1981.083,train,New York
+MexicoCity_movie1_121.jpg,MexicoCity_movie1,3630.010,train,Mexico City
+MexicoCity_movie1_131.jpg,MexicoCity_movie1,3930.009,train,Mexico City
+MexicoCity_movie1_142.jpg,MexicoCity_movie1,4260.006,train,Mexico City
+MexicoCity_movie1_148.jpg,MexicoCity_movie1,4440.002,train,Mexico City
+MexicoCity_movie1_150.jpg,MexicoCity_movie1,4500.012,train,Mexico City
+MexicoCity_movie1_170.jpg,MexicoCity_movie1,5100.012,train,Mexico City
+MexicoCity_movie1_182.jpg,MexicoCity_movie1,5460.005,train,Mexico City
+MexicoCity_movie1_242.jpg,MexicoCity_movie1,7260.003,train,Mexico City
+MexicoCity_movie1_244.jpg,MexicoCity_movie1,7320.013,train,Mexico City
+MexicoCity_movie1_266.jpg,MexicoCity_movie1,7980.005,train,Mexico City
+MexicoCity_movie1_27.jpg,MexicoCity_movie1,810.009,train,Mexico City
+MexicoCity_movie1_296.jpg,MexicoCity_movie1,8880.004,train,Mexico City
+MexicoCity_movie1_297.jpg,MexicoCity_movie1,8910.001,train,Mexico City
+MexicoCity_movie1_314.jpg,MexicoCity_movie1,9420.011,train,Mexico City
+MexicoCity_movie1_346.jpg,MexicoCity_movie1,10380.003,train,Mexico City
+MexicoCity_movie1_370.jpg,MexicoCity_movie1,11100.006,train,Mexico City
+MexicoCity_movie1_377.jpg,MexicoCity_movie1,11310.015,train,Mexico City
+MexicoCity_movie1_79.jpg,MexicoCity_movie1,2370.001,train,Mexico City
+MexicoCity_movie1_86.jpg,MexicoCity_movie1,2580.011,train,Mexico City
+MexicoCity_movie1_91.jpg,MexicoCity_movie1,2730.011,train,Mexico City
+MexicoCity_movie1_97.jpg,MexicoCity_movie1,2910.007,train,Mexico City
+MexicoCity_movie2_101.jpg,MexicoCity_movie2,3030.000,train,Mexico City
+MexicoCity_movie2_102.jpg,MexicoCity_movie2,3060.000,train,Mexico City
+MexicoCity_movie2_132.jpg,MexicoCity_movie2,3960.000,train,Mexico City
+MexicoCity_movie2_139.jpg,MexicoCity_movie2,4170.000,train,Mexico City
+MexicoCity_movie2_14.jpg,MexicoCity_movie2,420.000,train,Mexico City
+MexicoCity_movie2_149.jpg,MexicoCity_movie2,4470.000,train,Mexico City
+MexicoCity_movie2_165.jpg,MexicoCity_movie2,4950.000,train,Mexico City
+MexicoCity_movie2_169.jpg,MexicoCity_movie2,5070.000,train,Mexico City
+MexicoCity_movie2_2.jpg,MexicoCity_movie2,60.000,train,Mexico City
+MexicoCity_movie2_24.jpg,MexicoCity_movie2,720.000,train,Mexico City
+MexicoCity_movie2_34.jpg,MexicoCity_movie2,1020.000,train,Mexico City
+MexicoCity_movie2_55.jpg,MexicoCity_movie2,1650.000,train,Mexico City
+MexicoCity_movie2_6.jpg,MexicoCity_movie2,180.000,train,Mexico City
+MexicoCity_movie2_68.jpg,MexicoCity_movie2,2040.000,train,Mexico City
+MexicoCity_movie2_78.jpg,MexicoCity_movie2,2340.000,train,Mexico City
+MexicoCity_movie2_86.jpg,MexicoCity_movie2,2580.000,train,Mexico City
+MexicoCity_movie2_91.jpg,MexicoCity_movie2,2730.000,train,Mexico City
+MexicoCity_movie2_97.jpg,MexicoCity_movie2,2910.000,train,Mexico City
+MexicoCity_movie3_21.jpg,MexicoCity_movie3,630.000,train,Mexico City
+MexicoCity_movie3_22.jpg,MexicoCity_movie3,660.000,train,Mexico City
+MexicoCity_movie3_28.jpg,MexicoCity_movie3,840.000,train,Mexico City
+MexicoCity_movie3_29.jpg,MexicoCity_movie3,870.000,train,Mexico City
+MexicoCity_movie3_5.jpg,MexicoCity_movie3,150.000,train,Mexico City
+MexicoCity_movie4_13.jpg,MexicoCity_movie4,390.000,train,Mexico City
+MexicoCity_movie4_8.jpg,MexicoCity_movie4,240.000,train,Mexico City
+akihabara_movie3_13.jpg,akihabara_movie3,390.033,train,Tokyo
+akihabara_movie3_35.jpg,akihabara_movie3,1050.033,train,Tokyo
+akihabara_movie3_11.jpg,akihabara_movie3,330.033,train,Tokyo
+akihabara_movie4_109.jpg,akihabara_movie4,3270.000,train,Tokyo
+akihabara_movie4_28.jpg,akihabara_movie4,840.006,train,Tokyo
+akihabara_movie4_56.jpg,akihabara_movie4,1680.012,train,Tokyo
+akihabara_movie4_57.jpg,akihabara_movie4,1710.008,train,Tokyo
+akihabara_movie4_61.jpg,akihabara_movie4,1830.012,train,Tokyo
+akihabara_movie4_65.jpg,akihabara_movie4,1950.015,train,Tokyo
+akihabara_movie4_67.jpg,akihabara_movie4,2010.008,train,Tokyo
+akihabara_movie4_74.jpg,akihabara_movie4,2220.001,train,Tokyo
+akihabara_movie4_9.jpg,akihabara_movie4,270.003,train,Tokyo
+akihabara_movie5_27.jpg,akihabara_movie5,810.010,train,Tokyo
+akihabara_movie5_30.jpg,akihabara_movie5,900.016,train,Tokyo
+akihabara_movie5_41.jpg,akihabara_movie5,1230.012,train,Tokyo
+akihabara_movie6_55.jpg,akihabara_movie6,1650.015,train,Tokyo
+akihabara_movie7_2.jpg,akihabara_movie7,60.010,train,Tokyo
+akihabara_movie7_20.jpg,akihabara_movie7,600.000,train,Tokyo
+Shanghai_movie1_103.jpg,Shanghai_movie1,3090.000,train,Shanghai
+Shanghai_movie1_23.jpg,Shanghai_movie1,690.000,train,Shanghai
+Shanghai_movie1_26.jpg,Shanghai_movie1,780.000,train,Shanghai
+Shanghai_movie1_29.jpg,Shanghai_movie1,870.000,train,Shanghai
+Shanghai_movie1_65.jpg,Shanghai_movie1,1950.000,train,Shanghai
+Shanghai_movie2_103.jpg,Shanghai_movie2,3090.000,train,Shanghai
+Shanghai_movie2_22.jpg,Shanghai_movie2,660.000,train,Shanghai
+Shanghai_movie2_30.jpg,Shanghai_movie2,900.000,train,Shanghai
+Shanghai_movie4_120.jpg,Shanghai_movie4,3600.000,train,Shanghai
+Shanghai_movie4_13.jpg,Shanghai_movie4,390.000,train,Shanghai
+Shanghai_movie4_37.jpg,Shanghai_movie4,1110.000,train,Shanghai
+Shanghai_movie4_55.jpg,Shanghai_movie4,1650.000,train,Shanghai
+Shanghai_movie4_59.jpg,Shanghai_movie4,1770.000,train,Shanghai
+Shanghai_movie4_88.jpg,Shanghai_movie4,2640.000,train,Shanghai
+dubai_movie2_102.jpg,dubai_movie2,3066.017,train,Dubai
+dubai_movie2_116.jpg,dubai_movie2,3485.617,train,Dubai
+dubai_movie2_17.jpg,dubai_movie2,511.883,train,Dubai
+dubai_movie2_43.jpg,dubai_movie2,1292.683,train,Dubai
+dubai_movie2_7.jpg,dubai_movie2,215.883,train,Dubai
+dubai_movie2_84.jpg,dubai_movie2,2524.117,train,Dubai
+dubai_movie3_12.jpg,dubai_movie3,360.017,train,Dubai
+dubai_movie3_16.jpg,dubai_movie3,480.017,train,Dubai
+dubai_movie4_1.jpg,dubai_movie4,31.317,train,Dubai
+dubai_movie4_107.jpg,dubai_movie4,3210.883,train,Dubai
+dubai_movie4_11.jpg,dubai_movie4,330.883,train,Dubai
+dubai_movie4_17.jpg,dubai_movie4,510.983,train,Dubai
+dubai_movie4_176.jpg,dubai_movie4,5285.883,train,Dubai
+dubai_movie4_38.jpg,dubai_movie4,1145.883,train,Dubai
+dubai_movie4_43.jpg,dubai_movie4,1291.317,train,Dubai
+dubai_movie4_63.jpg,dubai_movie4,1895.583,train,Dubai
+london_movie2_10.jpg,london_movie2,306.933,train,London
+london_movie2_51.jpg,london_movie2,1536.833,train,London
+london_movie2_55.jpg,london_movie2,1656.967,train,London
+london_movie2_58.jpg,london_movie2,1742.700,train,London
+london_movie3_23.jpg,london_movie3,692.300,train,London
+london_movie4_110.jpg,london_movie4,3303.350,train,London
+london_movie4_122.jpg,london_movie4,3660.850,train,London
+london_movie4_34.jpg,london_movie4,1020.850,train,London
+london_movie4_56.jpg,london_movie4,1680.850,train,London
+london_movie5_70.jpg,london_movie5,2102.651,train,London
+london_movie5_8.jpg,london_movie5,240.023,train,London
+london_movie6_21.jpg,london_movie6,631.317,train,London
+london_movie6_38.jpg,london_movie6,1142.983,train,London
+newyork_movie2_65.jpg,newyork_movie2,1954.017,train,New York
+newyork_movie3_56.jpg,newyork_movie3,1683.065,train,New York
+newyork_movie3_77.jpg,newyork_movie3,2312.694,train,New York
+newyork_movie4_65.jpg,newyork_movie4,1952.517,train,New York
+newyork_movie4_66.jpg,newyork_movie4,1983.917,train,New York
+newyork_movie4_85.jpg,newyork_movie4,2554.517,train,New York
+newyork_movie5_31.jpg,newyork_movie5,935.117,train,New York
+newyork_movie5_35.jpg,newyork_movie5,1052.850,train,New York
+newyork_movie5_39.jpg,newyork_movie5,1172.950,train,New York
+newyork_movie6_31.jpg,newyork_movie6,932.283,train,New York
+newyork_movie6_64.jpg,newyork_movie6,1920.283,train,New York
+MexicoCity_movie1_111.jpg,MexicoCity_movie1,3330.010,train,Mexico City
+MexicoCity_movie1_164.jpg,MexicoCity_movie1,4920.015,train,Mexico City
+MexicoCity_movie1_188.jpg,MexicoCity_movie1,5640.001,train,Mexico City
+MexicoCity_movie1_324.jpg,MexicoCity_movie1,9720.010,train,Mexico City
+MexicoCity_movie1_341.jpg,MexicoCity_movie1,10230.003,train,Mexico City
+MexicoCity_movie1_4.jpg,MexicoCity_movie1,120.003,train,Mexico City
+MexicoCity_movie2_122.jpg,MexicoCity_movie2,3660.000,train,Mexico City
+MexicoCity_movie2_129.jpg,MexicoCity_movie2,3870.000,train,Mexico City
+MexicoCity_movie2_146.jpg,MexicoCity_movie2,4380.000,train,Mexico City
+MexicoCity_movie2_170.jpg,MexicoCity_movie2,5100.000,train,Mexico City
+dubai_movie4_144.jpg,dubai_movie4,4321.883,train,Dubai
+akihabara_movie4_89.jpg,akihabara_movie4,2670.001,train,Tokyo
+MexicoCity_movie1_178.jpg,MexicoCity_movie1,5340.001,train,Mexico City
+london_movie5_59.jpg,london_movie5,1772.888,train,London
+newyork_movie6_101.jpg,newyork_movie6,3034.950,train,New York
+akihabara_movie7_16.jpg,akihabara_movie7,480.013,train,Tokyo
+dubai_movie2_35.jpg,dubai_movie2,1053.750,train,Dubai
+dubai_movie2_28.jpg,dubai_movie2,840.083,train,Dubai
+newyork_movie2_1.jpg,newyork_movie2,36.517,train,New York
+london_movie2_14.jpg,london_movie2,422.700,train,London
+london_movie6_56.jpg,london_movie6,1680.983,train,London
+akihabara_movie6_53.jpg,akihabara_movie6,1590.005,train,Tokyo
+newyork_movie6_85.jpg,newyork_movie6,2553.617,train,New York
+MexicoCity_movie4_1.jpg,MexicoCity_movie4,30.000,train,Mexico City
+newyork_movie6_10.jpg,newyork_movie6,304.017,train,New York
+akihabara_movie3_40.jpg,akihabara_movie3,1200.033,train,Tokyo
+london_movie3_46.jpg,london_movie3,1385.100,train,London
+Shanghai_movie2_51.jpg,Shanghai_movie2,1530.000,train,Shanghai
+Mumbai_movie3_63.jpg,Mumbai_movie3,1890.005,train,Mumbai
+dubai_movie4_154.jpg,dubai_movie4,4624.883,train,Dubai
+dubai_movie4_132.jpg,dubai_movie4,3965.883,train,Dubai
+london_movie4_136.jpg,london_movie4,4084.350,train,London
+london_movie4_18.jpg,london_movie4,542.350,train,London
+dubai_movie4_15.jpg,dubai_movie4,453.883,train,Dubai
+MexicoCity_movie1_60.jpg,MexicoCity_movie1,1800.015,train,Mexico City
+MexicoCity_movie1_158.jpg,MexicoCity_movie1,4740.002,train,Mexico City
+MexicoCity_movie2_8.jpg,MexicoCity_movie2,240.000,train,Mexico City
+london_movie5_44.jpg,london_movie5,1320.703,train,London
+london_movie2_104.jpg,london_movie2,3122.367,train,London
+dubai_movie4_87.jpg,dubai_movie4,2613.883,train,Dubai
+MexicoCity_movie1_5.jpg,MexicoCity_movie1,150.017,train,Mexico City
+london_movie6_28.jpg,london_movie6,840.217,train,London
+london_movie2_86.jpg,london_movie2,2583.767,train,London
+london_movie4_99.jpg,london_movie4,2973.350,train,London
+Mumbai_movie3_2.jpg,Mumbai_movie3,60.010,train,Mumbai
+MexicoCity_movie2_39.jpg,MexicoCity_movie2,1170.000,train,Mexico City
+london_movie3_63.jpg,london_movie3,1891.767,train,London
+newyork_movie3_75.jpg,newyork_movie3,2251.633,train,New York
+akihabara_movie4_78.jpg,akihabara_movie4,2340.004,train,Tokyo
+akihabara_movie4_86.jpg,akihabara_movie4,2580.011,train,Tokyo
+MexicoCity_movie1_207.jpg,MexicoCity_movie1,6210.004,train,Mexico City
+london_movie2_31.jpg,london_movie2,935.400,train,London
+MexicoCity_movie3_14.jpg,MexicoCity_movie3,420.000,train,Mexico City
+dubai_movie4_23.jpg,dubai_movie4,690.883,train,Dubai
+Shanghai_movie1_2.jpg,Shanghai_movie1,60.000,train,Shanghai
+london_movie5_90.jpg,london_movie5,2700.748,train,London
+MexicoCity_movie1_52.jpg,MexicoCity_movie1,1560.008,train,Mexico City
+newyork_movie6_13.jpg,newyork_movie6,390.150,train,New York
+newyork_movie2_59.jpg,newyork_movie2,1772.517,train,New York
+dubai_movie3_43.jpg,dubai_movie3,1290.017,train,Dubai
+newyork_movie5_49.jpg,newyork_movie5,1471.350,train,New York
+london_movie5_84.jpg,london_movie5,2522.570,train,London
+akihabara_movie4_34.jpg,akihabara_movie4,1020.002,train,Tokyo
+dubai_movie2_109.jpg,dubai_movie2,3271.883,train,Dubai
+london_movie2_123.jpg,london_movie2,3691.500,train,London
+MexicoCity_movie1_272.jpg,MexicoCity_movie1,8160.002,train,Mexico City
+london_movie6_69.jpg,london_movie6,2072.750,train,London
+newyork_movie2_28.jpg,newyork_movie2,843.017,train,New York
+MexicoCity_movie4_24.jpg,MexicoCity_movie4,720.000,train,Mexico City
+dubai_movie3_33.jpg,dubai_movie3,990.017,train,Dubai
+newyork_movie6_62.jpg,newyork_movie6,1864.550,train,New York
+newyork_movie6_89.jpg,newyork_movie6,2670.150,train,New York
+Mumbai_movie3_52.jpg,Mumbai_movie3,1560.008,train,Mumbai
+london_movie5_77.jpg,london_movie5,2310.124,train,London
+london_movie6_89.jpg,london_movie6,2673.050,train,London
+dubai_movie4_26.jpg,dubai_movie4,782.883,train,Dubai
+london_movie6_75.jpg,london_movie6,2250.350,train,London
+newyork_movie3_91.jpg,newyork_movie3,2730.211,train,New York
+MexicoCity_movie1_362.jpg,MexicoCity_movie1,10860.016,train,Mexico City
+MexicoCity_movie1_8.jpg,MexicoCity_movie1,240.006,train,Mexico City
+MexicoCity_movie2_64.jpg,MexicoCity_movie2,1920.000,train,Mexico City
+MexicoCity_movie2_51.jpg,MexicoCity_movie2,1530.000,train,Mexico City
+MexicoCity_movie1_33.jpg,MexicoCity_movie1,990.006,train,Mexico City
+london_movie6_35.jpg,london_movie6,1054.383,train,London
+Shanghai_movie2_39.jpg,Shanghai_movie2,1170.000,train,Shanghai
+Shanghai_movie2_56.jpg,Shanghai_movie2,1680.000,train,Shanghai
+newyork_movie5_42.jpg,newyork_movie5,1260.750,train,New York
+akihabara_movie4_19.jpg,akihabara_movie4,570.003,train,Tokyo
+london_movie2_12.jpg,london_movie2,360.600,train,London
+london_movie2_79.jpg,london_movie2,2370.967,train,London
+newyork_movie2_24.jpg,newyork_movie2,721.017,train,New York
+MexicoCity_movie1_118.jpg,MexicoCity_movie1,3540.003,train,Mexico City
+london_movie5_3.jpg,london_movie5,90.040,train,London
+london_movie3_49.jpg,london_movie3,1470.433,train,London
+Shanghai_movie4_82.jpg,Shanghai_movie4,2460.000,train,Shanghai
+akihabara_movie4_99.jpg,akihabara_movie4,2970.000,train,Tokyo
+Shanghai_movie2_95.jpg,Shanghai_movie2,2850.000,train,Shanghai
+akihabara_movie5_33.jpg,akihabara_movie5,990.006,train,Tokyo
+newyork_movie6_76.jpg,newyork_movie6,2280.017,train,New York
+akihabara_movie4_24.jpg,akihabara_movie4,720.002,train,Tokyo
+newyork_movie6_48.jpg,newyork_movie6,1444.017,train,New York
+MexicoCity_movie1_9.jpg,MexicoCity_movie1,270.003,train,Mexico City
+MexicoCity_movie2_7.jpg,MexicoCity_movie2,210.000,train,Mexico City
+london_movie2_114.jpg,london_movie2,3421.167,train,London
+dubai_movie3_28.jpg,dubai_movie3,840.017,train,Dubai
+london_movie2_56.jpg,london_movie2,1680.167,train,London
+akihabara_movie4_32.jpg,akihabara_movie4,960.009,train,Tokyo
+dubai_movie3_21.jpg,dubai_movie3,630.017,train,Dubai
+newyork_movie2_78.jpg,newyork_movie2,2341.017,train,New York
+MexicoCity_movie3_7.jpg,MexicoCity_movie3,210.000,train,Mexico City
+london_movie2_9.jpg,london_movie2,275.533,train,London
+Shanghai_movie2_10.jpg,Shanghai_movie2,300.000,train,Shanghai
+akihabara_movie4_84.jpg,akihabara_movie4,2520.001,train,Tokyo
+MexicoCity_movie2_30.jpg,MexicoCity_movie2,900.000,train,Mexico City
+dubai_movie2_14.jpg,dubai_movie2,425.183,train,Dubai
+MexicoCity_movie4_2.jpg,MexicoCity_movie4,60.000,train,Mexico City
+MexicoCity_movie1_317.jpg,MexicoCity_movie1,9510.001,train,Mexico City
+MexicoCity_movie3_15.jpg,MexicoCity_movie3,450.000,train,Mexico City
+dubai_movie2_24.jpg,dubai_movie2,722.017,train,Dubai
+london_movie2_29.jpg,london_movie2,871.233,train,London
+dubai_movie2_75.jpg,dubai_movie2,2253.750,train,Dubai
+newyork_movie6_3.jpg,newyork_movie6,91.217,train,New York
+MexicoCity_movie2_76.jpg,MexicoCity_movie2,2280.000,train,Mexico City
+london_movie2_78.jpg,london_movie2,2342.467,train,London
+akihabara_movie5_56.jpg,akihabara_movie5,1680.012,train,Tokyo
+dubai_movie4_142.jpg,dubai_movie4,4261.883,train,Dubai
+MexicoCity_movie1_175.jpg,MexicoCity_movie1,5250.011,train,Mexico City
+Shanghai_movie4_36.jpg,Shanghai_movie4,1080.000,train,Shanghai
+Shanghai_movie4_58.jpg,Shanghai_movie4,1740.000,train,Shanghai
+newyork_movie4_41.jpg,newyork_movie4,1233.017,train,New York
+MexicoCity_movie1_157.jpg,MexicoCity_movie1,4710.005,train,Mexico City
+newyork_movie6_102.jpg,newyork_movie6,3060.283,train,New York
+london_movie2_66.jpg,london_movie2,1982.700,train,London
+london_movie5_107.jpg,london_movie5,3213.427,train,London
+MexicoCity_movie1_352.jpg,MexicoCity_movie1,10560.016,train,Mexico City
+Shanghai_movie2_73.jpg,Shanghai_movie2,2190.000,train,Shanghai
+MexicoCity_movie1_315.jpg,MexicoCity_movie1,9450.007,train,Mexico City
+london_movie5_96.jpg,london_movie5,2880.094,train,London
+MexicoCity_movie2_62.jpg,MexicoCity_movie2,1860.000,train,Mexico City
+london_movie2_113.jpg,london_movie2,3393.733,train,London
+dubai_movie4_85.jpg,dubai_movie4,2553.883,train,Dubai
+MexicoCity_movie1_290.jpg,MexicoCity_movie1,8700.008,train,Mexico City
+newyork_movie5_55.jpg,newyork_movie5,1651.683,train,New York
+newyork_movie4_16.jpg,newyork_movie4,481.517,train,New York
+MexicoCity_movie2_125.jpg,MexicoCity_movie2,3750.000,train,Mexico City
+Shanghai_movie4_14.jpg,Shanghai_movie4,420.000,train,Shanghai
+london_movie6_57.jpg,london_movie6,1712.217,train,London
+MexicoCity_movie1_122.jpg,MexicoCity_movie1,3660.006,train,Mexico City
+london_movie6_30.jpg,london_movie6,902.850,train,London
+MexicoCity_movie1_57.jpg,MexicoCity_movie1,1710.008,train,Mexico City
+dubai_movie2_54.jpg,dubai_movie2,1626.317,train,Dubai
+newyork_movie5_48.jpg,newyork_movie5,1446.650,train,New York
+dubai_movie4_95.jpg,dubai_movie4,2853.883,train,Dubai
+Mumbai_movie3_26.jpg,Mumbai_movie3,780.013,train,Mumbai
+dubai_movie4_117.jpg,dubai_movie4,3512.883,train,Dubai
+dubai_movie4_168.jpg,dubai_movie4,5041.883,train,Dubai
+london_movie4_16.jpg,london_movie4,481.850,train,London
+newyork_movie2_42.jpg,newyork_movie2,1260.517,train,New York
+london_movie3_45.jpg,london_movie3,1353.100,train,London
+MexicoCity_movie2_150.jpg,MexicoCity_movie2,4500.000,train,Mexico City
+newyork_movie6_70.jpg,newyork_movie6,2102.683,train,New York
+MexicoCity_movie2_123.jpg,MexicoCity_movie2,3690.000,train,Mexico City
+MexicoCity_movie1_50.jpg,MexicoCity_movie1,1500.015,train,Mexico City
+MexicoCity_movie2_46.jpg,MexicoCity_movie2,1380.000,train,Mexico City
+MexicoCity_movie4_20.jpg,MexicoCity_movie4,600.000,train,Mexico City
+MexicoCity_movie3_8.jpg,MexicoCity_movie3,240.000,train,Mexico City
+MexicoCity_movie4_11.jpg,MexicoCity_movie4,330.000,train,Mexico City
+MexicoCity_movie1_219.jpg,MexicoCity_movie1,6570.013,train,Mexico City
+MexicoCity_movie4_3.jpg,MexicoCity_movie4,90.000,train,Mexico City
+london_movie6_61.jpg,london_movie6,1832.417,train,London
+akihabara_movie3_2.jpg,akihabara_movie3,60.033,train,Tokyo
+akihabara_movie3_41.jpg,akihabara_movie3,1230.033,train,Tokyo
+akihabara_movie3_46.jpg,akihabara_movie3,1380.033,train,Tokyo
+akihabara_movie4_20.jpg,akihabara_movie4,600.000,train,Tokyo
+akihabara_movie4_47.jpg,akihabara_movie4,1410.009,train,Tokyo
+akihabara_movie6_54.jpg,akihabara_movie6,1620.002,train,Tokyo
+akihabara_movie6_59.jpg,akihabara_movie6,1770.002,train,Tokyo
+Shanghai_movie2_97.jpg,Shanghai_movie2,2910.000,train,Shanghai
+dubai_movie3_7.jpg,dubai_movie3,210.017,train,Dubai
+dubai_movie4_145.jpg,dubai_movie4,4353.883,train,Dubai
+dubai_movie4_41.jpg,dubai_movie4,1233.883,train,Dubai
+dubai_movie4_48.jpg,dubai_movie4,1442.883,train,Dubai
+london_movie2_127.jpg,london_movie2,3815.233,train,London
+london_movie2_26.jpg,london_movie2,780.033,train,London
+london_movie2_44.jpg,london_movie2,1320.367,train,London
+london_movie2_64.jpg,london_movie2,1925.500,train,London
+london_movie3_22.jpg,london_movie3,660.300,train,London
+london_movie4_114.jpg,london_movie4,3424.350,train,London
+london_movie4_116.jpg,london_movie4,3484.850,train,London
+london_movie4_123.jpg,london_movie4,3693.850,train,London
+london_movie4_137.jpg,london_movie4,4111.850,train,London
+london_movie4_139.jpg,london_movie4,4172.350,train,London
+london_movie4_75.jpg,london_movie4,2252.850,train,London
+london_movie5_91.jpg,london_movie5,2734.815,train,London
+london_movie6_36.jpg,london_movie6,1080.383,train,London
+london_movie6_91.jpg,london_movie6,2730.450,train,London
+london_movie6_97.jpg,london_movie6,2913.283,train,London
+newyork_movie2_17.jpg,newyork_movie2,512.017,train,New York
+newyork_movie2_27.jpg,newyork_movie2,811.017,train,New York
+newyork_movie2_5.jpg,newyork_movie2,155.017,train,New York
+newyork_movie3_100.jpg,newyork_movie3,3004.752,train,New York
+newyork_movie3_6.jpg,newyork_movie3,181.698,train,New York
+newyork_movie4_83.jpg,newyork_movie4,2493.017,train,New York
+newyork_movie4_86.jpg,newyork_movie4,2585.517,train,New York
+newyork_movie5_21.jpg,newyork_movie5,631.717,train,New York
+newyork_movie6_2.jpg,newyork_movie6,60.817,train,New York
+MexicoCity_movie1_162.jpg,MexicoCity_movie1,4860.005,train,Mexico City
+MexicoCity_movie1_379.jpg,MexicoCity_movie1,11370.009,train,Mexico City
+MexicoCity_movie1_54.jpg,MexicoCity_movie1,1620.002,train,Mexico City
+MexicoCity_movie5_10.jpg,MexicoCity_movie5,300.016,train,Mexico City
+MexicoCity_movie5_100.jpg,MexicoCity_movie5,3000.014,train,Mexico City
+MexicoCity_movie5_103.jpg,MexicoCity_movie5,3090.004,train,Mexico City
+MexicoCity_movie5_105.jpg,MexicoCity_movie5,3150.014,train,Mexico City
+MexicoCity_movie5_106.jpg,MexicoCity_movie5,3180.010,train,Mexico City
+MexicoCity_movie5_109.jpg,MexicoCity_movie5,3270.000,train,Mexico City
+MexicoCity_movie5_111.jpg,MexicoCity_movie5,3330.010,train,Mexico City
+MexicoCity_movie5_115.jpg,MexicoCity_movie5,3450.013,train,Mexico City
+MexicoCity_movie5_124.jpg,MexicoCity_movie5,3720.016,train,Mexico City
+MexicoCity_movie5_125.jpg,MexicoCity_movie5,3750.013,train,Mexico City
+MexicoCity_movie5_126.jpg,MexicoCity_movie5,3780.010,train,Mexico City
+MexicoCity_movie5_128.jpg,MexicoCity_movie5,3840.003,train,Mexico City
+MexicoCity_movie5_129.jpg,MexicoCity_movie5,3870.016,train,Mexico City
+MexicoCity_movie5_13.jpg,MexicoCity_movie5,390.006,train,Mexico City
+MexicoCity_movie5_130.jpg,MexicoCity_movie5,3900.013,train,Mexico City
+MexicoCity_movie5_131.jpg,MexicoCity_movie5,3930.009,train,Mexico City
+MexicoCity_movie5_133.jpg,MexicoCity_movie5,3990.003,train,Mexico City
+MexicoCity_movie5_134.jpg,MexicoCity_movie5,4020.016,train,Mexico City
+MexicoCity_movie5_135.jpg,MexicoCity_movie5,4050.013,train,Mexico City
+MexicoCity_movie5_138.jpg,MexicoCity_movie5,4140.003,train,Mexico City
+MexicoCity_movie5_140.jpg,MexicoCity_movie5,4200.012,train,Mexico City
+MexicoCity_movie5_142.jpg,MexicoCity_movie5,4260.006,train,Mexico City
+MexicoCity_movie5_143.jpg,MexicoCity_movie5,4290.002,train,Mexico City
+Mumbai_movie1_1.jpg,Mumbai_movie1,30.000,train,Mumbai
+Mumbai_movie1_10.jpg,Mumbai_movie1,300.000,train,Mumbai
+Mumbai_movie1_13.jpg,Mumbai_movie1,390.000,train,Mumbai
+Mumbai_movie1_14.jpg,Mumbai_movie1,420.000,train,Mumbai
+Mumbai_movie1_18.jpg,Mumbai_movie1,540.000,train,Mumbai
+Mumbai_movie1_2.jpg,Mumbai_movie1,60.000,train,Mumbai
+Mumbai_movie1_21.jpg,Mumbai_movie1,630.000,train,Mumbai
+Mumbai_movie1_24.jpg,Mumbai_movie1,720.000,train,Mumbai
+Mumbai_movie1_3.jpg,Mumbai_movie1,90.000,train,Mumbai
+Mumbai_movie1_34.jpg,Mumbai_movie1,1020.000,train,Mumbai
+Mumbai_movie1_35.jpg,Mumbai_movie1,1050.000,train,Mumbai
+Mumbai_movie1_38.jpg,Mumbai_movie1,1140.000,train,Mumbai
+Mumbai_movie1_39.jpg,Mumbai_movie1,1170.000,train,Mumbai
+Mumbai_movie1_42.jpg,Mumbai_movie1,1260.000,train,Mumbai
+Mumbai_movie1_44.jpg,Mumbai_movie1,1320.000,train,Mumbai
+Mumbai_movie1_48.jpg,Mumbai_movie1,1440.000,train,Mumbai
+Mumbai_movie1_49.jpg,Mumbai_movie1,1470.000,train,Mumbai
+Mumbai_movie1_50.jpg,Mumbai_movie1,1500.000,train,Mumbai
+Mumbai_movie1_53.jpg,Mumbai_movie1,1590.000,train,Mumbai
+Mumbai_movie1_55.jpg,Mumbai_movie1,1650.000,train,Mumbai
+Mumbai_movie1_56.jpg,Mumbai_movie1,1680.000,train,Mumbai
+Mumbai_movie1_58.jpg,Mumbai_movie1,1740.000,train,Mumbai
+Mumbai_movie1_59.jpg,Mumbai_movie1,1770.000,train,Mumbai
+Mumbai_movie1_60.jpg,Mumbai_movie1,1800.000,train,Mumbai
+Mumbai_movie1_61.jpg,Mumbai_movie1,1830.000,train,Mumbai
+Mumbai_movie1_62.jpg,Mumbai_movie1,1860.000,train,Mumbai
+Mumbai_movie1_63.jpg,Mumbai_movie1,1890.000,train,Mumbai
+Mumbai_movie1_66.jpg,Mumbai_movie1,1980.000,train,Mumbai
+Mumbai_movie1_67.jpg,Mumbai_movie1,2010.000,train,Mumbai
+Mumbai_movie1_68.jpg,Mumbai_movie1,2040.000,train,Mumbai
+Mumbai_movie1_7.jpg,Mumbai_movie1,210.000,train,Mumbai
+Mumbai_movie1_70.jpg,Mumbai_movie1,2100.000,train,Mumbai
+Mumbai_movie1_71.jpg,Mumbai_movie1,2130.000,train,Mumbai
+Mumbai_movie1_76.jpg,Mumbai_movie1,2280.000,train,Mumbai
+Mumbai_movie1_85.jpg,Mumbai_movie1,2550.000,train,Mumbai
+Mumbai_movie1_86.jpg,Mumbai_movie1,2580.000,train,Mumbai
+Shanghai_movie3_1.jpg,Shanghai_movie3,30.000,train,Shanghai
+Shanghai_movie3_10.jpg,Shanghai_movie3,300.000,train,Shanghai
+Shanghai_movie3_101.jpg,Shanghai_movie3,3030.000,train,Shanghai
+Shanghai_movie3_102.jpg,Shanghai_movie3,3060.000,train,Shanghai
+Shanghai_movie3_109.jpg,Shanghai_movie3,3270.000,train,Shanghai
+Shanghai_movie3_11.jpg,Shanghai_movie3,330.000,train,Shanghai
+Shanghai_movie3_110.jpg,Shanghai_movie3,3300.000,train,Shanghai
+Shanghai_movie3_111.jpg,Shanghai_movie3,3330.000,train,Shanghai
+Shanghai_movie3_113.jpg,Shanghai_movie3,3390.000,train,Shanghai
+Shanghai_movie3_114.jpg,Shanghai_movie3,3420.000,train,Shanghai
+Shanghai_movie3_116.jpg,Shanghai_movie3,3480.000,train,Shanghai
+Shanghai_movie3_117.jpg,Shanghai_movie3,3510.000,train,Shanghai
+Shanghai_movie3_118.jpg,Shanghai_movie3,3540.000,train,Shanghai
+Shanghai_movie3_119.jpg,Shanghai_movie3,3570.000,train,Shanghai
+Shanghai_movie3_12.jpg,Shanghai_movie3,360.000,train,Shanghai
+Shanghai_movie3_120.jpg,Shanghai_movie3,3600.000,train,Shanghai
+Shanghai_movie3_122.jpg,Shanghai_movie3,3660.000,train,Shanghai
+Shanghai_movie3_127.jpg,Shanghai_movie3,3810.000,train,Shanghai
+Shanghai_movie3_13.jpg,Shanghai_movie3,390.000,train,Shanghai
+Shanghai_movie3_132.jpg,Shanghai_movie3,3960.000,train,Shanghai
+Shanghai_movie3_134.jpg,Shanghai_movie3,4020.000,train,Shanghai
+Shanghai_movie3_138.jpg,Shanghai_movie3,4140.000,train,Shanghai
+Shanghai_movie3_140.jpg,Shanghai_movie3,4200.000,train,Shanghai
+Shanghai_movie3_143.jpg,Shanghai_movie3,4290.000,train,Shanghai
+Shanghai_movie3_17.jpg,Shanghai_movie3,510.000,train,Shanghai
+Shanghai_movie3_2.jpg,Shanghai_movie3,60.000,train,Shanghai
+Shanghai_movie3_25.jpg,Shanghai_movie3,750.000,train,Shanghai
+Shanghai_movie3_30.jpg,Shanghai_movie3,900.000,train,Shanghai
+Shanghai_movie3_32.jpg,Shanghai_movie3,960.000,train,Shanghai
+Shanghai_movie3_33.jpg,Shanghai_movie3,990.000,train,Shanghai
+Shanghai_movie3_34.jpg,Shanghai_movie3,1020.000,train,Shanghai
+Shanghai_movie3_38.jpg,Shanghai_movie3,1140.000,train,Shanghai
+Shanghai_movie3_4.jpg,Shanghai_movie3,120.000,train,Shanghai
+Shanghai_movie3_40.jpg,Shanghai_movie3,1200.000,train,Shanghai
+Shanghai_movie3_42.jpg,Shanghai_movie3,1260.000,train,Shanghai
+Shanghai_movie3_51.jpg,Shanghai_movie3,1530.000,train,Shanghai
+Shanghai_movie3_58.jpg,Shanghai_movie3,1740.000,train,Shanghai
+akihabara_movie1_1.jpg,akihabara_movie1,30.000,train,Tokyo
+akihabara_movie1_10.jpg,akihabara_movie1,300.000,train,Tokyo
+akihabara_movie1_13.jpg,akihabara_movie1,390.000,train,Tokyo
+akihabara_movie1_16.jpg,akihabara_movie1,480.000,train,Tokyo
+akihabara_movie1_17.jpg,akihabara_movie1,510.000,train,Tokyo
+akihabara_movie1_2.jpg,akihabara_movie1,60.000,train,Tokyo
+akihabara_movie1_20.jpg,akihabara_movie1,600.000,train,Tokyo
+akihabara_movie1_21.jpg,akihabara_movie1,630.000,train,Tokyo
+akihabara_movie1_22.jpg,akihabara_movie1,660.000,train,Tokyo
+akihabara_movie1_23.jpg,akihabara_movie1,690.000,train,Tokyo
+akihabara_movie1_26.jpg,akihabara_movie1,780.000,train,Tokyo
+akihabara_movie1_27.jpg,akihabara_movie1,810.000,train,Tokyo
+akihabara_movie1_28.jpg,akihabara_movie1,840.000,train,Tokyo
+akihabara_movie1_30.jpg,akihabara_movie1,900.000,train,Tokyo
+akihabara_movie1_32.jpg,akihabara_movie1,960.000,train,Tokyo
+akihabara_movie1_34.jpg,akihabara_movie1,1020.000,train,Tokyo
+akihabara_movie1_40.jpg,akihabara_movie1,1200.000,train,Tokyo
+akihabara_movie1_47.jpg,akihabara_movie1,1410.000,train,Tokyo
+akihabara_movie1_5.jpg,akihabara_movie1,150.000,train,Tokyo
+akihabara_movie1_54.jpg,akihabara_movie1,1620.000,train,Tokyo
+akihabara_movie1_56.jpg,akihabara_movie1,1680.000,train,Tokyo
+akihabara_movie1_57.jpg,akihabara_movie1,1710.000,train,Tokyo
+akihabara_movie1_58.jpg,akihabara_movie1,1740.000,train,Tokyo
+akihabara_movie1_7.jpg,akihabara_movie1,210.000,train,Tokyo
+akihabara_movie1_8.jpg,akihabara_movie1,240.000,train,Tokyo
+akihabara_movie2_1.jpg,akihabara_movie2,30.000,train,Tokyo
+akihabara_movie2_11.jpg,akihabara_movie2,330.000,train,Tokyo
+akihabara_movie2_12.jpg,akihabara_movie2,360.000,train,Tokyo
+akihabara_movie2_14.jpg,akihabara_movie2,420.000,train,Tokyo
+akihabara_movie2_15.jpg,akihabara_movie2,450.000,train,Tokyo
+akihabara_movie2_16.jpg,akihabara_movie2,480.000,train,Tokyo
+akihabara_movie2_2.jpg,akihabara_movie2,60.000,train,Tokyo
+akihabara_movie2_23.jpg,akihabara_movie2,690.000,train,Tokyo
+akihabara_movie2_24.jpg,akihabara_movie2,720.000,train,Tokyo
+akihabara_movie2_26.jpg,akihabara_movie2,780.000,train,Tokyo
+akihabara_movie2_27.jpg,akihabara_movie2,810.000,train,Tokyo
+akihabara_movie2_3.jpg,akihabara_movie2,90.000,train,Tokyo
+akihabara_movie2_32.jpg,akihabara_movie2,960.000,train,Tokyo
+akihabara_movie2_37.jpg,akihabara_movie2,1110.000,train,Tokyo
+akihabara_movie2_38.jpg,akihabara_movie2,1140.000,train,Tokyo
+akihabara_movie2_4.jpg,akihabara_movie2,120.000,train,Tokyo
+akihabara_movie2_40.jpg,akihabara_movie2,1200.000,train,Tokyo
+akihabara_movie2_42.jpg,akihabara_movie2,1260.000,train,Tokyo
+akihabara_movie2_43.jpg,akihabara_movie2,1290.000,train,Tokyo
+akihabara_movie2_47.jpg,akihabara_movie2,1410.000,train,Tokyo
+akihabara_movie2_49.jpg,akihabara_movie2,1470.000,train,Tokyo
+akihabara_movie2_5.jpg,akihabara_movie2,150.000,train,Tokyo
+akihabara_movie2_50.jpg,akihabara_movie2,1500.000,train,Tokyo
+akihabara_movie2_54.jpg,akihabara_movie2,1620.000,train,Tokyo
+akihabara_movie2_57.jpg,akihabara_movie2,1710.000,train,Tokyo
+akihabara_movie2_6.jpg,akihabara_movie2,180.000,train,Tokyo
+akihabara_movie2_61.jpg,akihabara_movie2,1830.000,train,Tokyo
+akihabara_movie2_62.jpg,akihabara_movie2,1860.000,train,Tokyo
+akihabara_movie2_67.jpg,akihabara_movie2,2010.000,train,Tokyo
+akihabara_movie2_8.jpg,akihabara_movie2,240.000,train,Tokyo
+dubai_movie1_103.jpg,dubai_movie1,3093.367,train,Dubai
+dubai_movie1_11.jpg,dubai_movie1,330.700,train,Dubai
+dubai_movie1_13.jpg,dubai_movie1,394.700,train,Dubai
+dubai_movie1_20.jpg,dubai_movie1,602.700,train,Dubai
+dubai_movie1_22.jpg,dubai_movie1,661.367,train,Dubai
+dubai_movie1_23.jpg,dubai_movie1,693.367,train,Dubai
+dubai_movie1_28.jpg,dubai_movie1,842.700,train,Dubai
+dubai_movie1_33.jpg,dubai_movie1,992.033,train,Dubai
+dubai_movie1_34.jpg,dubai_movie1,1024.033,train,Dubai
+dubai_movie1_44.jpg,dubai_movie1,1322.700,train,Dubai
+dubai_movie1_49.jpg,dubai_movie1,1472.033,train,Dubai
+dubai_movie1_5.jpg,dubai_movie1,154.700,train,Dubai
+dubai_movie1_56.jpg,dubai_movie1,1680.033,train,Dubai
+dubai_movie1_58.jpg,dubai_movie1,1744.033,train,Dubai
+dubai_movie1_59.jpg,dubai_movie1,1770.700,train,Dubai
+dubai_movie1_61.jpg,dubai_movie1,1834.700,train,Dubai
+dubai_movie1_62.jpg,dubai_movie1,1861.367,train,Dubai
+dubai_movie1_63.jpg,dubai_movie1,1893.367,train,Dubai
+dubai_movie1_66.jpg,dubai_movie1,1984.033,train,Dubai
+dubai_movie1_68.jpg,dubai_movie1,2042.700,train,Dubai
+dubai_movie1_69.jpg,dubai_movie1,2073.133,train,Dubai
+dubai_movie1_72.jpg,dubai_movie1,2160.033,train,Dubai
+dubai_movie1_75.jpg,dubai_movie1,2250.700,train,Dubai
+dubai_movie1_77.jpg,dubai_movie1,2314.700,train,Dubai
+dubai_movie1_8.jpg,dubai_movie1,240.033,train,Dubai
+dubai_movie1_81.jpg,dubai_movie1,2432.033,train,Dubai
+dubai_movie1_82.jpg,dubai_movie1,2464.033,train,Dubai
+dubai_movie1_84.jpg,dubai_movie1,2522.700,train,Dubai
+dubai_movie1_88.jpg,dubai_movie1,2640.033,train,Dubai
+dubai_movie1_9.jpg,dubai_movie1,272.033,train,Dubai
+dubai_movie1_94.jpg,dubai_movie1,2821.367,train,Dubai
+london_movie1_1.jpg,london_movie1,30.417,train,London
+london_movie1_11.jpg,london_movie1,334.417,train,London
+london_movie1_13.jpg,london_movie1,390.150,train,London
+london_movie1_15.jpg,london_movie1,450.950,train,London
+london_movie1_16.jpg,london_movie1,481.350,train,London
+london_movie1_17.jpg,london_movie1,511.750,train,London
+london_movie1_20.jpg,london_movie1,602.950,train,London
+london_movie1_28.jpg,london_movie1,841.083,train,London
+london_movie1_32.jpg,london_movie1,962.683,train,London
+london_movie1_33.jpg,london_movie1,993.083,train,London
+london_movie1_35.jpg,london_movie1,1053.883,train,London
+london_movie1_37.jpg,london_movie1,1114.683,train,London
+london_movie1_39.jpg,london_movie1,1170.417,train,London
+london_movie1_40.jpg,london_movie1,1200.817,train,London
+london_movie1_42.jpg,london_movie1,1261.617,train,London
+london_movie1_43.jpg,london_movie1,1292.017,train,London
+london_movie1_45.jpg,london_movie1,1352.817,train,London
+london_movie1_47.jpg,london_movie1,1413.617,train,London
+london_movie1_48.jpg,london_movie1,1444.017,train,London
+london_movie1_5.jpg,london_movie1,152.017,train,London
+london_movie1_50.jpg,london_movie1,1504.817,train,London
+london_movie1_52.jpg,london_movie1,1560.550,train,London
+london_movie1_53.jpg,london_movie1,1590.950,train,London
+london_movie1_54.jpg,london_movie1,1621.350,train,London
+london_movie1_55.jpg,london_movie1,1651.750,train,London
+london_movie1_57.jpg,london_movie1,1712.550,train,London
+london_movie1_59.jpg,london_movie1,1773.350,train,London
+london_movie1_60.jpg,london_movie1,1803.750,train,London
+london_movie1_61.jpg,london_movie1,1834.150,train,London
+london_movie1_64.jpg,london_movie1,1920.283,train,London
+london_movie1_65.jpg,london_movie1,1950.683,train,London
+london_movie1_68.jpg,london_movie1,2041.883,train,London
+london_movie1_69.jpg,london_movie1,2072.283,train,London
+london_movie1_70.jpg,london_movie1,2102.683,train,London
+london_movie1_71.jpg,london_movie1,2133.083,train,London
+london_movie1_72.jpg,london_movie1,2163.483,train,London
+london_movie1_76.jpg,london_movie1,2280.017,train,London
+london_movie1_79.jpg,london_movie1,2371.217,train,London
+london_movie1_80.jpg,london_movie1,2401.617,train,London
+london_movie1_83.jpg,london_movie1,2492.817,train,London
+london_movie1_84.jpg,london_movie1,2523.217,train,London
+london_movie1_86.jpg,london_movie1,2584.017,train,London
+london_movie1_87.jpg,london_movie1,2614.417,train,London
+london_movie1_89.jpg,london_movie1,2670.150,train,London
+london_movie1_9.jpg,london_movie1,273.617,train,London
+london_movie1_91.jpg,london_movie1,2730.950,train,London
+newyork_movie1_10.jpg,newyork_movie1,302.219,train,New York
+newyork_movie1_100.jpg,newyork_movie1,3003.184,train,New York
+newyork_movie1_101.jpg,newyork_movie1,3030.744,train,New York
+newyork_movie1_107.jpg,newyork_movie1,3213.827,train,New York
+newyork_movie1_108.jpg,newyork_movie1,3245.325,train,New York
+newyork_movie1_11.jpg,newyork_movie1,333.717,train,New York
+newyork_movie1_110.jpg,newyork_movie1,3302.416,train,New York
+newyork_movie1_111.jpg,newyork_movie1,3333.914,train,New York
+newyork_movie1_113.jpg,newyork_movie1,3392.973,train,New York
+newyork_movie1_116.jpg,newyork_movie1,3481.561,train,New York
+newyork_movie1_119.jpg,newyork_movie1,3570.150,train,New York
+newyork_movie1_12.jpg,newyork_movie1,365.215,train,New York
+newyork_movie1_122.jpg,newyork_movie1,3664.644,train,New York
+newyork_movie1_124.jpg,newyork_movie1,3723.703,train,New York
+newyork_movie1_126.jpg,newyork_movie1,3781.761,train,New York
+newyork_movie1_128.jpg,newyork_movie1,3843.790,train,New York
+newyork_movie1_129.jpg,newyork_movie1,3872.318,train,New York
+newyork_movie1_131.jpg,newyork_movie1,3932.178,train,New York
+newyork_movie1_133.jpg,newyork_movie1,3991.437,train,New York
+newyork_movie1_136.jpg,newyork_movie1,4084.764,train,New York
+newyork_movie1_137.jpg,newyork_movie1,4114.460,train,New York
+newyork_movie1_140.jpg,newyork_movie1,4200.113,train,New York
+newyork_movie1_15.jpg,newyork_movie1,453.803,train,New York
+newyork_movie1_16.jpg,newyork_movie1,482.332,train,New York
+newyork_movie1_17.jpg,newyork_movie1,510.894,train,New York
+newyork_movie1_18.jpg,newyork_movie1,545.328,train,New York
+newyork_movie1_19.jpg,newyork_movie1,574.858,train,New York
+newyork_movie1_21.jpg,newyork_movie1,630.980,train,New York
+newyork_movie1_24.jpg,newyork_movie1,722.505,train,New York
+newyork_movie1_25.jpg,newyork_movie1,753.036,train,New York
+newyork_movie1_26.jpg,newyork_movie1,782.565,train,New York
+newyork_movie1_27.jpg,newyork_movie1,814.063,train,New York
+newyork_movie1_28.jpg,newyork_movie1,845.561,train,New York
+newyork_movie1_29.jpg,newyork_movie1,875.091,train,New York
+newyork_movie1_30.jpg,newyork_movie1,900.683,train,New York
+newyork_movie1_31.jpg,newyork_movie1,930.213,train,New York
+newyork_movie1_32.jpg,newyork_movie1,962.678,train,New York
+newyork_movie1_33.jpg,newyork_movie1,991.240,train,New York
+newyork_movie1_34.jpg,newyork_movie1,1020.770,train,New York
+newyork_movie1_36.jpg,newyork_movie1,1083.766,train,New York
+newyork_movie1_38.jpg,newyork_movie1,1141.824,train,New York
+newyork_movie1_4.jpg,newyork_movie1,123.073,train,New York
+newyork_movie1_40.jpg,newyork_movie1,1203.853,train,New York
+newyork_movie1_41.jpg,newyork_movie1,1233.382,train,New York
+newyork_movie1_43.jpg,newyork_movie1,1294.410,train,New York
+newyork_movie1_44.jpg,newyork_movie1,1320.002,train,New York
+newyork_movie1_45.jpg,newyork_movie1,1351.500,train,New York
+newyork_movie1_46.jpg,newyork_movie1,1380.029,train,New York
+newyork_movie1_48.jpg,newyork_movie1,1443.025,train,New York

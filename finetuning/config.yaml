@@ -1,0 +1,36 @@
+# config.yaml — Qwen3.5-VL component-wise fine-tuning (paper Section 5, Table 4).
+#
+# The three conditions (a) projector_only / (b) projector_lora /
+# (c) projector_lora_vit share ALL settings below; only --tune_mode differs.
+#   (a) projector_only     : train the projector (merger) only
+#   (b) projector_lora     : projector + LLM LoRA (r=16, alpha=32)
+#   (c) projector_lora_vit : projector + LLM LoRA + unfrozen ViT (lr x 0.1 = 1e-5)
+
+model:
+  qwen_path: PATH/TO/Qwen3.5-VL      # local path or HF id of the base VLM
+  max_pixels: 1003520   # 1280*28*28
+  min_pixels: 200704    # 256*28*28
+  lora_rank: 16
+  lora_alpha: 32
+  lora_dropout: 0.05
+
+data:
+  jsonl_path: data/train/urbanstreetvqa_train.jsonl   # 3,622 QA / 1,780 images (v4)
+  image_dir: data/frames/train                        # obtain via scripts/download_frames.py
+  max_len: 4096
+  val_split: 0.1
+
+train:
+  num_epochs: 3
+  max_steps: -1
+  lr: 1.0e-4             # projector / LLM learning rate
+  vit_lr_ratio: 0.1      # ViT learning rate = lr * 0.1 = 1e-5 (condition c)
+  batch_size: 1
+  grad_accum: 8          # effective batch size = 1 * 8 = 8
+  warmup_ratio: 0.05
+  weight_decay: 0.0
+  gradient_checkpointing: true
+  seed: 42
+  eval_steps: 50
+  logging_steps: 10
+  output_dir_base: outputs/staged   # _proj_only / _proj_lora / _proj_lora_vit appended

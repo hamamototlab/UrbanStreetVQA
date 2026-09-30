@@ -1,0 +1,31 @@
+# UrbanStreetVQA — dependencies for Qwen3.5-VL fine-tuning + evaluation + frame download.
+#
+# Versions are pinned only where verified in this project; install unpinned packages at a
+# version compatible with your CUDA / PyTorch stack. See docs/dependencies.md.
+
+# --- Deep learning core (install a build matching your CUDA) ---
+torch
+torchvision
+
+# --- Hugging Face stack (Qwen3.5-VL fine-tuning + local-model evaluation) ---
+# The Qwen3.5-VL code needs transformers 5.13.x (Qwen3_5ForConditionalGeneration).
+transformers>=5.13
+peft
+accelerate
+safetensors
+qwen-vl-utils
+
+# --- Data / imaging / utils ---
+numpy
+pandas
+pillow
+pyyaml
+xlsxwriter    # Excel report export (evaluation/internvl.py, evaluation/llava.py)
+
+# --- API evaluation baselines ---
+openai         # evaluation/gpt.py  (key via OPENAI_API_KEY)
+google-genai   # evaluation/gemini.py (key via GEMINI_API_KEY)
+
+# --- Frame download (scripts/download_frames.py) ---
+# Also requires ffmpeg as a SYSTEM dependency (not a pip package).
+yt-dlp

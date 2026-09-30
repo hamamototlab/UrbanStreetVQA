@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use UrbanStreetVQA, please cite it as below."
+title: "UrbanStreetVQA: A Benchmark for Visual Understanding of Urban Street Views"
+abstract: >-
+  UrbanStreetVQA is a visual-question-answering benchmark built from
+  pedestrian-viewpoint imagery of real-world urban streets, evaluating visual
+  perception and camera- and object-centric spatial reasoning.
+type: dataset
+authors:
+  - given-names: Ziliang
+    family-names: Huang
+  - given-names: Kosuke
+    family-names: Kurihara
+  - given-names: Kiyoharu
+    family-names: Aizawa
+  - given-names: Takayuki
+    family-names: Hamamoto
+version: 1.0.0
+date-released: 2026-09-30
+url: "https://github.com/lemonsour3/UrbanStreetVQA"
+preferred-citation:
+  type: conference-paper
+  title: "UrbanStreetVQA: A Benchmark for Visual Understanding of Urban Street Views"
+  authors:
+    - given-names: Ziliang
+      family-names: Huang
+    - given-names: Kosuke
+      family-names: Kurihara
+    - given-names: Kiyoharu
+      family-names: Aizawa
+    - given-names: Takayuki
+      family-names: Hamamoto
+  conference:
+    name: "Asian Conference on Computer Vision (ACCV)"
+  collection-title: "Proceedings of the Asian Conference on Computer Vision (ACCV)"
+  year: 2026
