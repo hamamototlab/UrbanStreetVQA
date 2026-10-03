@@ -44,7 +44,7 @@ The images come from 35 walking videos (about 31 hours) in seven cities, with at
 - `scripts/`: `download_frames.py`, which downloads the source videos and extracts the frames.
 - `evaluation/`: evaluation scripts for GPT-5.4, Gemini 2.5 Flash, Qwen3.5, Gemma 4, InternVL3.5, and LLaVA-OneVision-1.5.
 - `finetuning/`: component-wise fine-tuning of Qwen3.5.
-- `docs/`: dependencies and details of the circular-evaluation protocol.
+- `docs/dependencies.md`: dependencies and details of the circular-evaluation protocol.
 - `DATASET.md`: data format and field descriptions.
 
 ## Setup
@@ -79,7 +79,7 @@ python scripts/download_frames.py --split benchmark --output-dir data/frames/ben
 python scripts/download_frames.py --split train --output-dir data/frames/train
 ```
 
-The script downloads each source video with yt-dlp, cuts the frames at the timestamps in `data/sources/frames.csv` with FFmpeg, and deletes the video once its frames are saved. Add `--keep-videos` to keep the downloaded videos. If the run stops partway, run the same command again with `--skip-existing` to continue without re-extracting the frames you already have.
+The script downloads each source video with yt-dlp, cuts the frames at the timestamps in `data/sources/frames.csv` with FFmpeg, and deletes the video once its frames are saved. Add `--keep-videos` to keep the downloaded videos. If the run stops partway, run the same command again with `--skip-existing` to continue without re-extracting the frames you already have. Run `python scripts/download_frames.py --help` for the other options, such as the video cache folder.
 
 Each frame is saved as `data/frames/<split>/<city>/<video_key>/<image>`, the location the evaluation and fine-tuning scripts read from.
 
@@ -136,6 +136,8 @@ python evaluation/qwen35.py \
     --auto-yes
 ```
 
+`qwen35.py`, `internvl.py`, and `llava.py` ask for confirmation before running; add `--auto-yes` to skip the prompt.
+
 Local models (`qwen35.py`, `gemma.py`, `internvl.py`, `llava.py`) take `--model-path`. API
 models read their key from an environment variable (`OPENAI_API_KEY` for GPT, `GEMINI_API_KEY`
 for Gemini) — **never** hard-code keys.
@@ -182,9 +184,9 @@ camera-centric and object-centric direction reasoning.
 | Trainable modules | Camera Dir. | Object Dir. | Overall |
 |---|---:|---:|---:|
 | Baseline | 71.2 | 32.0 | 69.5 |
-| Projector only | 91.6 | 25.1 | 71.9 |
-| Projector + LLM | **96.1** | 30.8 | **76.3** |
-| Projector + LLM + ViT | 93.5 | **40.1** | **76.3** |
+| Projector only | 91.6 | 25.1 | 72.0 |
+| Projector + LLM | **96.1** | 30.8 | 76.8 |
+| Projector + LLM + ViT | 93.5 | **40.1** | **76.9** |
 
 Camera-centric direction improves substantially by adapting the projector and LLM,
 whereas object-centric direction improves only when the **ViT is also updated**.
