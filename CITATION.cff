@@ -17,7 +17,7 @@ authors:
     family-names: Hamamoto
 version: 1.0.0
 date-released: 2026-09-30
-url: "https://github.com/lemonsour3/UrbanStreetVQA"
+url: "https://github.com/hamamototlab/UrbanStreetVQA"
 preferred-citation:
   type: conference-paper
   title: "UrbanStreetVQA: A Benchmark for Visual Understanding of Urban Street Views"

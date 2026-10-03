@@ -210,4 +210,4 @@ UrbanStreetVQA uses distinct licenses for code, annotations, and source media:
 ## Citation
 
 See [`CITATION.cff`](CITATION.cff). The paper has been accepted to ACCV 2026. The project page
-is available at https://lemonsour3.github.io/UrbanStreetVQA/.
+is available at https://hamamototlab.github.io/UrbanStreetVQA/.
