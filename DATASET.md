@@ -110,17 +110,27 @@ The internal management fields `_id` and `_review` used during dataset construct
 
 ## Frame download procedure
 
-Raw frames are not redistributed. To reconstruct them:
+Raw frames are not redistributed. To reconstruct them (after the Setup steps in
+[`README.md`](README.md#setup), which install FFmpeg and yt-dlp):
 
 ```bash
-pip install yt-dlp     # ffmpeg is a system dependency (install separately)
+# Benchmark images (854), needed for evaluation
 python scripts/download_frames.py --split benchmark --output-dir data/frames/benchmark
-python scripts/download_frames.py --split train     --output-dir data/frames/train
+
+# Training images (1,780), needed only for fine-tuning
+python scripts/download_frames.py --split train --output-dir data/frames/train
 ```
 
-The script downloads each source video (yt-dlp) and extracts the exact frames listed in
-`frames.csv` at their `timestamp_sec` (ffmpeg). It **never guesses**: video rows without a
-YouTube id/url and frames without a `timestamp_sec` are skipped with a warning.
+The script downloads each source video with yt-dlp, cuts the frames at the timestamps in `data/sources/frames.csv` with FFmpeg, and deletes the video once its frames are saved. Add `--keep-videos` to keep the downloaded videos. If the run stops partway, run the same command again with `--skip-existing` to continue without re-extracting the frames you already have.
+
+Each frame is saved as `data/frames/<split>/<city>/<video_key>/<image>`, the location the evaluation and fine-tuning scripts read from.
+
+To check the result:
+
+```bash
+find data/frames/benchmark -name "*.jpg" | wc -l   # should print 854
+find data/frames/train -name "*.jpg" | wc -l       # should print 1780
+```
 
 ## Annotation license
 

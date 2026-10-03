@@ -1,114 +1,116 @@
-# UrbanStreetVQA
+# UrbanStreetVQA: A Benchmark for Visual Understanding of Urban Street Views [ACCV 2026]
 
-**UrbanStreetVQA: A Benchmark for Visual Understanding of Urban Street Views**
+**Ziliang Huang**<sup>1</sup> &nbsp; [**Kosuke Kurihara**](https://kosuke-kurihara.github.io/)<sup>1</sup> &nbsp; [**Kiyoharu Aizawa**](https://sites.google.com/view/aizawa-kiyoharu)<sup>1,2</sup> &nbsp; [**Takayuki Hamamoto**](https://www.tus.ac.jp/ridai/doc/ji/RIJIA01Detail.php?act=&kin=ken&diu=1d93&pri=en)<sup>1</sup>
 
-> This repository accompanies our ACCV 2026 paper. See the [License](#license) section for
-> code / annotation / source-media terms.
+<sup>1</sup>*Tokyo University of Science* &nbsp; <sup>2</sup>*The University of Tokyo*
 
----
+[**🌐 Project Page**](https://hamamototlab.github.io/UrbanStreetVQA/) &nbsp; **📄 Paper (coming soon)**
 
-## Overview
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme/teaser_dark.webp">
+  <img alt="The same image asked from the camera's perspective and from a person's perspective. All nine models answer the camera-centric question correctly; only two answer the object-centric one." src="assets/readme/teaser_light.webp" width="100%">
+</picture>
 
-UrbanStreetVQA is a visual-question-answering benchmark built from **pedestrian-viewpoint**
-imagery of real-world urban streets. It evaluates both low-level visual perception (object
-recognition, counting) and **spatial reasoning** from the perspective of a person standing on
-the street — self-localization and reasoning about directions and relative distances, either
-*camera-centric* (relative to the viewer) or *object-centric* (relative to a referenced
-person/object in the scene).
+UrbanStreetVQA is a visual question answering benchmark built from videos captured from a pedestrian viewpoint in real urban streets. It evaluates perception and spatial reasoning, and asks spatial questions from two perspectives: the camera's (*camera-centric*) and a person's in the scene (*object-centric*).
 
-This repository provides the **benchmark annotations**, the **training annotations** used for
-fine-tuning, **source-video metadata** with a frame-download script (raw frames are not
-redistributed), **evaluation code**, and the **Qwen3.5-VL component-wise fine-tuning** code.
+This repository contains the questions, the information needed to rebuild the images from their source videos, and the code for evaluation and fine-tuning. It does not include the images themselves.
 
-## Main Findings
+## News
 
-Across the six evaluated VLMs, performance is comparatively strong for
-camera-centric spatial reasoning but drops sharply for object-centric direction estimation,
-which requires reasoning from another person's viewpoint.
+- **September 2026:** UrbanStreetVQA was accepted to ACCV 2026.
+- **October 2026:** Released the benchmark annotations and the evaluation code.
 
-> **Key finding:** Current VLMs perform comparatively well under the camera-centric frame but degrade sharply on object-centric direction estimation.
+## Benchmark Contents
 
-| Model | Object Recognition | Counting | Self-localization | Camera Dir. | Camera Dist. | Object Dir. | Object Dist. | Overall |
-|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| GPT-5.4 | 82.2 | 61.3 | 61.4 | 78.6 | 84.7 | 17.8 | 78.9 | 67.9 |
-| Gemini 2.5 Flash | 85.5 | 49.3 | 72.9 | 66.9 | 84.7 | 19.0 | 62.5 | 63.1 |
-| InternVL3.5 | 83.6 | 64.0 | 72.1 | 47.2 | 83.6 | 22.7 | 66.4 | 60.2 |
-| LLaVA-OneVision-1.5 | 84.9 | 38.2 | 59.3 | 35.9 | 75.1 | 17.0 | 55.9 | 49.5 |
-| Gemma 4 | 83.6 | 56.0 | 75.7 | 64.9 | 85.0 | 22.3 | 75.0 | 65.2 |
-| **Qwen3.5** | **86.2** | **70.2** | 70.7 | 71.2 | 82.7 | **32.0** | 75.7 | **69.5** |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme/categories_dark.webp">
+  <img alt="Example images for the seven categories: object recognition, counting, self-localization, and camera-centric direction and relative distance; object-centric direction and relative distance." src="assets/readme/categories_light.webp" width="100%">
+</picture>
 
-The largest performance drop appears in **object-centric direction estimation**:
-even the best-performing model, Qwen3.5, reaches only **32.0%**, while its
-camera-centric direction accuracy is **71.2%**. This suggests that the main difficulty
-lies not only in recognizing the scene, but in transforming spatial relationships into
-another person's reference frame.
+The benchmark contains 1,731 human-verified questions over 854 images in seven categories. Three categories test perception (object recognition, counting, self-localization). Direction and relative-distance estimation are each asked from both perspectives. Object-centric answers are derived from geometry (detection, relative depth, and the reference person's body orientation) and then checked by human annotators.
 
-## Dataset
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme/cities_dark.webp">
+  <img alt="Example images from Tokyo, Shanghai, Mumbai, Dubai, London, New York, and Mexico City with the number of questions per city." src="assets/readme/cities_light.webp" width="100%">
+</picture>
 
-Verified directly from `data/benchmark/urbanstreetvqa.jsonl`:
+The images come from 35 walking videos (about 31 hours) in seven cities, with at least 20 questions for every city and category. See `DATASET.md` for the data format.
 
-- **1,731** benchmark QA pairs
-- **854** benchmark images
-- **7** cities
-- **7** task categories
+## Repository Layout
 
-**Cities:** Tokyo, Shanghai, Dubai, Mumbai, London, New York, Mexico City.
+- `data/benchmark/`: the benchmark questions.
+- `data/train/`: the training questions used in the fine-tuning experiments.
+- `data/sources/`: source video IDs and frame timestamps.
+- `scripts/`: `download_frames.py`, which downloads the source videos and extracts the frames.
+- `evaluation/`: evaluation scripts for GPT-5.4, Gemini 2.5 Flash, Qwen3.5, Gemma 4, InternVL3.5, and LLaVA-OneVision-1.5.
+- `finetuning/`: component-wise fine-tuning of Qwen3.5.
+- `docs/`: dependencies and details of the circular-evaluation protocol.
+- `DATASET.md`: data format and field descriptions.
 
-The **7 categories** are the 5 `category` values, with `directional_localization` and
-`relative_distance` each split into camera-centric and object-centric (`viewpoint`) variants.
-See [`DATASET.md`](DATASET.md) for the full schema, statistics, and mappings.
+## Setup
 
-A separate **training set** (for fine-tuning) is provided in
-`data/train/urbanstreetvqa_train.jsonl` — **3,622 QA / 1,780 images**, disjoint from the
-benchmark.
-
-## Data Release
-
-Raw frames are **not** redistributed. Instead, the repository provides:
-
-- source video metadata — `data/sources/videos.csv` (internal `video_key` → YouTube id/url),
-- per-frame metadata — `data/sources/frames.csv` (`image` → `video_key`, `timestamp_sec`, split),
-- a downloader — `scripts/download_frames.py`,
-
-so that a third party can reconstruct the exact frames referenced by the annotations from the
-original videos (35 source YouTube walking videos across the 7 cities). The rights to the source
-videos belong to their **original YouTube uploaders**; you are responsible for complying with
-YouTube's Terms of Service and those rights.
-
-`videos.csv` provides the `youtube_id` / `youtube_url` for all 35 source videos, and
-`frames.csv` provides `timestamp_sec` for all benchmark (854) and training (1,780) frames, so
-`scripts/download_frames.py` can reconstruct the images end-to-end.
-
-**Source media policy:**
-
-- Raw videos are **not** redistributed.
-- Raw frames are **not** redistributed.
-- `data/sources/videos.csv` contains **source references only** (`video_key`, city, YouTube id/url).
-- `data/sources/frames.csv` contains **timestamp metadata only** (`image`, `video_key`, `timestamp_sec`, split).
-- `scripts/download_frames.py` helps users **retrieve the source media themselves**.
-- Use of the YouTube / source media remains subject to the **original uploader / rights-holder
-  terms and the platform's terms of service**.
-- UrbanStreetVQA does **not** claim ownership of the source videos or the extracted frames.
-
-## Benchmark Annotations
-
-- `data/benchmark/urbanstreetvqa.jsonl` — 1,731 evaluation QA over 854 images.
-- `data/train/urbanstreetvqa_train.jsonl` — 3,622 fine-tuning QA over 1,780 images.
-
-Both share the same annotation schema (documented in [`DATASET.md`](DATASET.md)).
-
-## Download Frames
+1. Install Python 3 and [FFmpeg](https://ffmpeg.org/) (for example, `sudo apt install ffmpeg` or `brew install ffmpeg`).
+2. Clone the repository and install the Python dependencies. This also installs [yt-dlp](https://github.com/yt-dlp/yt-dlp), which is used to download the videos.
 
 ```bash
-pip install yt-dlp          # ffmpeg must also be installed as a system dependency
-
-python scripts/download_frames.py --split benchmark --output-dir data/frames/benchmark
-python scripts/download_frames.py --split train     --output-dir data/frames/train
+git clone https://github.com/hamamototlab/UrbanStreetVQA.git
+cd UrbanStreetVQA
+pip install -r requirements.txt
 ```
 
-By default each source video is downloaded once, the listed frames are extracted with ffmpeg,
-and the video is deleted afterward (use `--keep-videos` to keep it). See `--help` for
-`--metadata`, `--frames`, `--video-cache`, and `--skip-existing`.
+## Getting the Data
+
+We do not redistribute the images. The repository contains the questions and the information needed to rebuild every image from its source video; you download the videos and extract the frames yourself.
+
+| File | Contents |
+|:--|:--|
+| `data/benchmark/urbanstreetvqa.jsonl` | The benchmark: 1,731 questions over 854 images |
+| `data/train/urbanstreetvqa_train.jsonl` | Training set for the fine-tuning experiments: 3,622 questions over 1,780 images (no overlap with the benchmark) |
+| `data/sources/videos.csv` | The 35 source videos: video key, city, YouTube ID and URL |
+| `data/sources/frames.csv` | One row per image: file name, video key, timestamp (seconds), split, and city |
+
+### 1. Download the videos and extract the frames
+
+```bash
+# Benchmark images (854), needed for evaluation
+python scripts/download_frames.py --split benchmark --output-dir data/frames/benchmark
+
+# Training images (1,780), needed only for fine-tuning
+python scripts/download_frames.py --split train --output-dir data/frames/train
+```
+
+The script downloads each source video with yt-dlp, cuts the frames at the timestamps in `data/sources/frames.csv` with FFmpeg, and deletes the video once its frames are saved. Add `--keep-videos` to keep the downloaded videos. If the run stops partway, run the same command again with `--skip-existing` to continue without re-extracting the frames you already have.
+
+Each frame is saved as `data/frames/<split>/<city>/<video_key>/<image>`, the location the evaluation and fine-tuning scripts read from.
+
+### 2. Check the result
+
+```bash
+find data/frames/benchmark -name "*.jpg" | wc -l   # should print 854
+find data/frames/train -name "*.jpg" | wc -l       # should print 1780
+```
+
+After these steps, the `data/` folder looks like this:
+
+```text
+data/
+├── benchmark/urbanstreetvqa.jsonl
+├── train/urbanstreetvqa_train.jsonl
+├── sources/
+│   ├── videos.csv
+│   └── frames.csv
+└── frames/
+    ├── benchmark/<city>/<video_key>/<image>.jpg
+    └── train/<city>/<video_key>/<image>.jpg
+```
+
+### If a video is no longer available
+
+A source video may be removed or made private on YouTube after release. In that case, the questions on its frames cannot be rebuilt. Please [open an issue](https://github.com/hamamototlab/UrbanStreetVQA/issues) and tell us which video ID failed. If downloads fail for every video, update yt-dlp first (`pip install -U yt-dlp`), since YouTube changes often break older versions.
+
+### Terms of use
+
+The videos belong to their original uploaders. Download and use them only for research, in line with YouTube's Terms of Service, and do not redistribute the videos or the extracted frames. The benchmark must not be used to identify or track individuals.
 
 ## Evaluation
 
@@ -130,7 +132,8 @@ python evaluation/qwen35.py \
     --annotations data/benchmark/urbanstreetvqa.jsonl \
     --image-dir data/frames/benchmark \
     --model-path PATH/TO/Qwen3.5-VL \
-    --output-dir results_qwen35
+    --output-dir results_qwen35 \
+    --auto-yes
 ```
 
 Local models (`qwen35.py`, `gemma.py`, `internvl.py`, `llava.py`) take `--model-path`. API
@@ -188,13 +191,29 @@ whereas object-centric direction improves only when the **ViT is also updated**.
 This suggests that adapting the visual encoder is particularly important for
 object-centric direction reasoning.
 
-## Dependencies
+## Results
 
-See [`requirements.txt`](requirements.txt) and [`docs/dependencies.md`](docs/dependencies.md).
-`ffmpeg` is a **system dependency** (required by `scripts/download_frames.py`); install it via
-your OS package manager. `yt-dlp` is installed via pip.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme/direction_gap_dark.png">
+  <img alt="Direction accuracy for nine models: camera-centric between 35.9% and 78.6%, object-centric between 17.0% and 32.0%." src="assets/readme/direction_gap_light.png" width="100%">
+</picture>
 
-## License
+| Model | Obj. recog. | Count | Self-loc. | Dir. (cam) | Dist. (cam) | Dir. (obj) | Dist. (obj) | All |
+|:--|--:|--:|--:|--:|--:|--:|--:|--:|
+| GPT-5.4 | 82.2 | 61.3 | 61.4 | **78.6** | 84.7 | 17.8 | **78.9** | 67.9 |
+| Gemini 2.5 Flash | 85.5 | 49.3 | 72.9 | 66.9 | 84.7 | 19.0 | 62.5 | 63.1 |
+| InternVL3.5-8B | 83.6 | 64.0 | 72.1 | 47.2 | 83.6 | 22.7 | 66.4 | 60.2 |
+| LLaVA-OV-1.5-8B | 84.9 | 38.2 | 59.3 | 35.9 | 75.1 | 17.0 | 55.9 | 49.5 |
+| Gemma 4-12B | 83.6 | 56.0 | **75.7** | 64.9 | 85.0 | 22.3 | 75.0 | 65.2 |
+| Qwen3.5-9B | 86.2 | **70.2** | 70.7 | 71.2 | 82.7 | **32.0** | 75.7 | **69.5** |
+| PerceptionLM-8B | **88.2** | 52.0 | 68.6 | 75.3 | **87.8** | 31.2 | 61.2 | 67.9 |
+| SpatialThinker-7B | 78.9 | 60.9 | 63.6 | 66.0 | 85.0 | 27.9 | 62.5 | 64.4 |
+| DriveLMM-o1-8B | 72.4 | 49.3 | 51.4 | 66.5 | 83.0 | 22.7 | 70.4 | 61.0 |
+| *Human (5 annotators)* | *94.3* | *93.3* | *93.3* | *98.1* | *91.4* | *88.6* | *96.2* | *93.6* |
+
+Accuracy (%) under circular evaluation: a multiple-choice question counts as correct only if the model picks the right answer under every rotation of the options. Counting is scored by exact match. On the same direction task, every model does far better from the camera's perspective than from a person's, and six of nine models fall below the 25% chance rate from a person's perspective.
+
+## Licenses
 
 UrbanStreetVQA uses distinct licenses for code, annotations, and source media:
 
@@ -205,9 +224,15 @@ UrbanStreetVQA uses distinct licenses for code, annotations, and source media:
   Attribution is required. This applies only to the author-created annotations.
 - **Source media** (the YouTube videos and extracted frames): **not redistributed**. The
   original rights remain with the original uploaders / rights holders; this project claims no
-  ownership of them (see [Data Release](#data-release) and [`DATASET.md`](DATASET.md)).
+  ownership of them (see [Getting the Data](#getting-the-data) and [`DATASET.md`](DATASET.md)).
 
 ## Citation
 
-See [`CITATION.cff`](CITATION.cff). The paper has been accepted to ACCV 2026. The project page
-is available at https://hamamototlab.github.io/UrbanStreetVQA/.
+```bibtex
+@inproceedings{huang2026urbanstreetvqa,
+  title     = {UrbanStreetVQA: A Benchmark for Visual Understanding of Urban Street Views},
+  author    = {Huang, Ziliang and Kurihara, Kosuke and Aizawa, Kiyoharu and Hamamoto, Takayuki},
+  booktitle = {Proceedings of the Asian Conference on Computer Vision (ACCV)},
+  year      = {2026}
+}
+```
