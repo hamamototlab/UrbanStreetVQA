@@ -10,6 +10,11 @@ This script downloads each source video (yt-dlp) and extracts the exact frames
 listed in frames.csv (ffmpeg) into an output directory, so a third party can
 reconstruct the images referenced by the annotations on their own machine.
 
+Frames are written to <output-dir>/<city>/<video_key>/<image>, the layout the
+evaluation scripts expect. <city> is the annotation city key (the `city` field of
+the jsonl files, e.g. `akihabara`), taken from video_key = {city}_movie{N}; the
+`city` column of frames.csv is a display name and is not used for paths.
+
 Requirements (installed by the user, not vendored here):
   - yt-dlp   (pip install yt-dlp)
   - ffmpeg   (system dependency; must be on PATH)
@@ -18,11 +23,11 @@ The rights to the source videos belong to their original uploaders. This script
 only helps you fetch frames for research use; you are responsible for complying
 with YouTube's Terms of Service and the uploaders' rights.
 
-IMPORTANT — this script never guesses:
+This script never guesses:
   - If a video_key has no youtube_id/url in videos.csv, its frames are SKIPPED.
   - If a frame has no timestamp_sec in frames.csv, that frame is SKIPPED.
-  Those fields are currently unresolved in this repository (see DATASET.md);
-  fill them in before the script can extract frames.
+  Both CSVs in this repository are complete (all 35 videos have a YouTube id/url
+  and all 2,634 frames have a timestamp), so nothing is skipped with the defaults.
 
 Usage:
   python scripts/download_frames.py --split benchmark --output-dir data/frames/benchmark
@@ -63,6 +68,13 @@ def load_videos(path: Path) -> dict[str, dict]:
 def load_frames(path: Path, split: str) -> list[dict]:
     with open(path, newline="") as f:
         return [r for r in csv.DictReader(f) if r.get("split") == split]
+
+
+def frame_path(out_dir: Path, frame_row: dict) -> Path:
+    """<out_dir>/<city>/<video_key>/<image>, matching the jsonl city/video/image fields."""
+    video_key = frame_row["video_key"]
+    city = video_key.rsplit("_movie", 1)[0]   # video_key = {city}_movie{N}
+    return out_dir / city / video_key / frame_row["image"]
 
 
 def resolve_url(video_row: dict) -> str | None:
@@ -129,7 +141,7 @@ def main() -> None:
         vrow = videos.get(video_key)
         url = resolve_url(vrow) if vrow else None
         if url is None:
-            print(f"[skip] {video_key}: no youtube_id/url in {args.metadata} (unresolved)")
+            print(f"[skip] {video_key}: no youtube_id/url in {args.metadata}")
             n_skip_meta += len(frs)
             continue
 
@@ -137,10 +149,10 @@ def main() -> None:
         for fr in frs:
             ts = (fr.get("timestamp_sec") or "").strip()
             if ts == "":
-                print(f"[skip] {fr['image']}: no timestamp_sec (unresolved)")
+                print(f"[skip] {fr['image']}: no timestamp_sec in {args.frames}")
                 n_skip_ts += 1
                 continue
-            out_path = out_dir / fr["image"]
+            out_path = frame_path(out_dir, fr)
             if args.skip_existing and out_path.exists():
                 continue
             pending.append((float(ts), out_path, fr["image"]))
@@ -172,8 +184,9 @@ def main() -> None:
     print(f"  skipped (no timestamp)     : {n_skip_ts}")
     print(f"  failed                     : {n_fail}")
     if n_skip_meta or n_skip_ts:
-        print("  NOTE: source video ids and/or frame timestamps are not yet filled in.")
-        print("        See DATASET.md — this metadata must be completed to extract frames.")
+        print("  NOTE: some rows lack a video id or timestamp in the CSVs passed via")
+        print("        --metadata / --frames; the CSVs shipped with this repository are complete.")
+    print(f"  output layout              : {out_dir}/<city>/<video_key>/<image>")
 
 
 if __name__ == "__main__":
